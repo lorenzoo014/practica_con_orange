@@ -2,13 +2,13 @@ import csv
 import random
 
 # Lista de cultivos
-cultivos = ['maíz', 'trigo', 'arroz', 'café', 'banano', 'cacao']
+cultivos = ['bola', 'cherry', ' de pera', 'kumato', 'rosa', 'verde','Raf','corazon de buey']
 
 # Lista de ubicaciones geográficas
-ubicaciones = ['Almeria', 'Murcia', 'Valencia', 'Canarias','Granada']
+ubicaciones = ['Almeria', 'Murcia', 'Valencia', 'Canarias','Granada','Tenerife','Granada']
 
 # Lista de tamaños de fincas
-tamanios = ['Pequeña', 'Mediana', 'Grande']
+tamanios = ['Pequeno', 'Mediana', 'Grande']
 
 # Generar 100 filas de datos aleatorios
 datos = []
@@ -26,6 +26,6 @@ for i in range(5000):
 # Guardar los datos en un archivo CSV
 with open('datos_cultivo.csv', 'w', newline='') as archivo:
     writer = csv.writer(archivo)
-    writer.writerow(['Cultivo', 'Ubicación', 'Tamaño', 'Rendimiento', 'Fertilizantes'])
+    writer.writerow(['Cultivo', 'Ubicacion', 'Tamaño', 'Rendimiento', 'Fertilizantes'])
     for dato in datos:
         writer.writerow(dato)
