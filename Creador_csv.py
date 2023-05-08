@@ -8,7 +8,7 @@ cultivos = ['bola', 'cherry', ' de pera', 'kumato', 'rosa', 'verde','Raf','coraz
 ubicaciones = ['Almeria', 'Murcia', 'Valencia', 'Canarias','Granada','Tenerife','Granada']
 
 # Lista de tamaños de fincas
-tamanios = ['Pequeno', 'Mediana', 'Grande']
+tamanos = ['Pequeno', 'Mediana', 'Grande']
 
 # Generar 100 filas de datos aleatorios
 datos = []
@@ -16,7 +16,13 @@ for i in range(5000):
     # Seleccionar aleatoriamente un cultivo, una ubicación, un tamaño y un rendimiento
     cultivo = random.choice(cultivos)
     ubicacion = random.choice(ubicaciones)
-    tamano = random.choice(tamanios)
+    if cultivo == 'cherry':
+        tamano = 'Pequeno'
+    elif cultivo == 'rosa' or cultivo == 'corazon de buey':
+        tamano = 'Grande'
+    else:
+        tamano = random.choice(tamanos)
+
     rendimiento = round(random.uniform(1, 10), 2) # Rendimiento aleatorio entre 1 y 10
     # Determinar si se utiliza o no fertilizantes
     fertilizantes = random.choice([False, True])
