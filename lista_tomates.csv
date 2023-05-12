@@ -1,0 +1,5001 @@
+Cultivo,Ubicaciones,Rendimiento,Tamaño,Fertilizantes
+verde,El Ejido,3,2,False
+bola,La Mojonera,7,2,False
+Raf,El Alquian,1,4,False
+rosa,Nijar,8,3,False
+cherry,La Mojonera,4,4,True
+Raf,El Alquian,10,1,True
+ de pera,Nijar,7,3,True
+bola,Nijar,8,2,True
+Raf,Nijar,7,3,True
+Raf,Nijar,6,4,False
+ de pera,Campohermoso,1,1,True
+verde,El Ejido,5,3,False
+Raf,La Mojonera,2,1,False
+kumato,Nijar,6,3,False
+rosa,El Alquian,4,4,False
+bola,Nijar,1,3,True
+bola,El Ejido,1,2,True
+bola,Campohermoso,10,2,True
+bola,El Alquian,7,2,True
+corazon de buey,Nijar,6,4,False
+bola,Campohermoso,1,3,True
+ de pera,Campohermoso,3,4,True
+ de pera,Campohermoso,1,4,False
+Raf,Campohermoso,3,3,True
+verde,La Mojonera,9,1,False
+kumato,La Mojonera,1,2,True
+rosa,Campohermoso,9,4,True
+rosa,El Alquian,4,3,False
+ de pera,Campohermoso,7,1,True
+cherry,Nijar,6,2,True
+bola,El Ejido,6,2,False
+rosa,El Ejido,1,1,False
+Raf,Nijar,9,2,True
+ de pera,El Ejido,2,3,False
+kumato,Campohermoso,5,3,True
+corazon de buey,Nijar,3,4,True
+cherry,La Mojonera,7,3,False
+cherry,Campohermoso,1,1,False
+ de pera,El Alquian,7,3,False
+ de pera,El Ejido,4,4,False
+cherry,Nijar,1,4,False
+kumato,El Alquian,1,1,True
+ de pera,La Mojonera,7,2,True
+verde,Nijar,3,1,True
+corazon de buey,Nijar,6,3,True
+corazon de buey,La Mojonera,1,1,False
+Raf,Nijar,1,3,True
+kumato,La Mojonera,9,4,False
+verde,El Ejido,5,1,True
+bola,El Ejido,5,1,False
+verde,Nijar,10,3,True
+kumato,Nijar,3,1,False
+kumato,El Ejido,8,2,True
+corazon de buey,El Alquian,6,1,True
+verde,La Mojonera,9,3,False
+kumato,El Ejido,3,4,True
+kumato,El Ejido,4,2,True
+cherry,El Alquian,10,4,True
+verde,Campohermoso,8,1,True
+Raf,El Alquian,1,2,True
+kumato,Campohermoso,8,4,True
+bola,La Mojonera,10,3,True
+rosa,La Mojonera,7,3,True
+ de pera,La Mojonera,3,2,True
+bola,Campohermoso,6,1,True
+bola,Campohermoso,2,1,True
+cherry,Nijar,9,3,True
+bola,Campohermoso,10,4,False
+Raf,Nijar,3,1,True
+bola,Campohermoso,2,4,True
+verde,La Mojonera,4,4,False
+cherry,La Mojonera,2,3,False
+ de pera,El Ejido,4,2,False
+ de pera,Campohermoso,4,3,False
+verde,La Mojonera,7,2,True
+rosa,Nijar,10,3,False
+Raf,Nijar,2,4,True
+rosa,La Mojonera,9,2,False
+Raf,La Mojonera,4,3,False
+kumato,El Ejido,6,4,True
+kumato,El Alquian,3,2,False
+cherry,La Mojonera,5,2,True
+Raf,El Ejido,2,3,True
+rosa,Nijar,1,2,True
+rosa,Campohermoso,10,2,True
+bola,Nijar,6,4,False
+ de pera,El Alquian,8,4,False
+Raf,Campohermoso,2,1,False
+ de pera,Campohermoso,5,4,True
+verde,El Ejido,4,4,False
+cherry,La Mojonera,4,3,True
+corazon de buey,La Mojonera,1,3,False
+rosa,El Ejido,7,1,True
+cherry,Nijar,5,1,True
+kumato,Nijar,1,2,True
+rosa,Campohermoso,7,2,True
+rosa,Campohermoso,8,2,True
+verde,Campohermoso,6,3,True
+ de pera,El Ejido,3,4,False
+verde,El Ejido,1,4,True
+ de pera,La Mojonera,1,2,True
+rosa,El Ejido,8,2,True
+bola,El Ejido,10,3,True
+Raf,La Mojonera,5,2,True
+cherry,El Alquian,3,4,True
+cherry,Nijar,6,4,False
+Raf,El Alquian,7,2,True
+rosa,El Alquian,10,1,True
+Raf,Nijar,8,4,False
+ de pera,Nijar,1,2,False
+kumato,El Alquian,9,2,False
+rosa,Nijar,3,2,False
+verde,El Ejido,4,3,False
+verde,El Alquian,7,1,False
+rosa,La Mojonera,10,2,False
+corazon de buey,El Alquian,5,3,False
+rosa,La Mojonera,4,2,True
+kumato,La Mojonera,7,3,True
+bola,El Alquian,7,4,True
+ de pera,Nijar,7,2,False
+Raf,El Alquian,8,2,True
+rosa,Nijar,4,3,True
+ de pera,Nijar,3,4,False
+corazon de buey,El Ejido,7,1,False
+rosa,El Alquian,6,2,False
+verde,El Alquian,10,4,False
+rosa,El Alquian,8,2,False
+corazon de buey,El Ejido,6,2,False
+verde,Campohermoso,4,3,True
+Raf,El Ejido,10,1,True
+bola,Nijar,9,4,True
+kumato,Campohermoso,3,4,True
+cherry,Nijar,1,3,False
+kumato,La Mojonera,4,2,False
+kumato,La Mojonera,9,2,False
+verde,El Ejido,4,3,False
+cherry,El Ejido,1,2,True
+Raf,La Mojonera,9,4,False
+corazon de buey,El Ejido,10,1,False
+bola,La Mojonera,8,4,False
+corazon de buey,Campohermoso,6,4,True
+cherry,La Mojonera,9,2,False
+kumato,El Ejido,6,3,True
+corazon de buey,Campohermoso,1,3,True
+kumato,La Mojonera,9,1,False
+rosa,Nijar,4,4,False
+verde,Nijar,2,2,False
+bola,Nijar,8,1,False
+corazon de buey,El Alquian,9,2,False
+Raf,Nijar,5,2,True
+Raf,El Alquian,5,3,False
+cherry,Nijar,1,1,False
+verde,El Ejido,2,3,True
+ de pera,La Mojonera,1,1,True
+kumato,La Mojonera,3,2,False
+rosa,Campohermoso,1,4,False
+verde,El Alquian,7,1,True
+corazon de buey,Campohermoso,5,4,True
+kumato,El Ejido,3,3,True
+corazon de buey,El Alquian,8,4,True
+rosa,El Alquian,4,2,True
+bola,Nijar,1,2,False
+rosa,Campohermoso,10,1,False
+rosa,Nijar,5,4,True
+corazon de buey,El Alquian,8,4,False
+rosa,El Ejido,7,2,False
+cherry,La Mojonera,10,3,False
+ de pera,La Mojonera,4,4,False
+ de pera,El Ejido,2,1,False
+rosa,El Alquian,2,3,False
+kumato,Nijar,8,3,False
+verde,Campohermoso,7,3,False
+Raf,Nijar,10,3,True
+kumato,El Alquian,4,3,False
+ de pera,La Mojonera,10,3,True
+cherry,La Mojonera,8,4,False
+cherry,El Ejido,5,4,True
+ de pera,Campohermoso,5,3,True
+Raf,La Mojonera,5,1,True
+Raf,Nijar,6,1,True
+verde,Nijar,1,3,False
+Raf,El Alquian,10,1,True
+verde,Campohermoso,4,1,False
+corazon de buey,Nijar,4,1,False
+rosa,La Mojonera,7,1,True
+verde,El Ejido,5,3,False
+bola,Nijar,7,1,False
+Raf,Campohermoso,8,1,True
+bola,Nijar,4,4,True
+kumato,Campohermoso,4,4,False
+bola,El Ejido,10,2,True
+corazon de buey,El Ejido,1,1,False
+ de pera,La Mojonera,7,1,True
+Raf,El Ejido,4,2,True
+kumato,Campohermoso,10,2,True
+rosa,El Ejido,9,4,False
+cherry,La Mojonera,8,3,True
+kumato,Nijar,5,2,True
+kumato,El Alquian,4,2,False
+cherry,Campohermoso,1,2,True
+verde,Nijar,8,4,True
+bola,El Alquian,6,2,True
+corazon de buey,Nijar,10,4,False
+bola,Campohermoso,3,1,False
+ de pera,El Alquian,6,3,True
+rosa,El Ejido,8,4,False
+bola,El Ejido,9,1,True
+verde,Nijar,5,3,False
+rosa,El Alquian,1,1,False
+rosa,La Mojonera,5,4,True
+verde,El Alquian,6,2,True
+corazon de buey,Nijar,6,4,False
+kumato,La Mojonera,1,4,True
+rosa,El Ejido,8,4,False
+rosa,La Mojonera,1,4,False
+bola,El Ejido,10,3,False
+Raf,El Ejido,1,4,False
+ de pera,Campohermoso,10,2,False
+rosa,La Mojonera,3,3,False
+verde,El Alquian,10,2,False
+kumato,El Alquian,9,3,True
+Raf,El Alquian,7,1,True
+kumato,Campohermoso,2,3,True
+rosa,Nijar,1,3,True
+cherry,Nijar,5,3,True
+corazon de buey,El Ejido,4,1,False
+cherry,La Mojonera,7,3,True
+bola,El Ejido,10,2,False
+kumato,La Mojonera,2,1,False
+verde,Campohermoso,6,1,True
+verde,Campohermoso,8,2,False
+corazon de buey,La Mojonera,4,4,True
+kumato,El Alquian,1,2,False
+corazon de buey,El Ejido,7,4,False
+kumato,Nijar,5,1,False
+Raf,El Ejido,6,3,False
+kumato,El Alquian,8,4,False
+rosa,Nijar,6,4,False
+verde,El Alquian,1,4,False
+rosa,Nijar,4,2,False
+cherry,Nijar,9,1,True
+bola,Nijar,6,3,True
+corazon de buey,Campohermoso,10,3,True
+cherry,Campohermoso,4,2,True
+Raf,El Ejido,2,4,True
+ de pera,La Mojonera,9,4,False
+bola,El Ejido,2,1,False
+kumato,El Alquian,2,2,True
+verde,Nijar,3,2,True
+rosa,El Ejido,9,1,True
+rosa,Campohermoso,8,2,False
+rosa,Campohermoso,9,1,True
+Raf,La Mojonera,5,2,True
+corazon de buey,El Alquian,5,1,True
+cherry,Campohermoso,6,4,False
+corazon de buey,Campohermoso,4,4,False
+rosa,La Mojonera,1,1,False
+bola,La Mojonera,2,1,False
+cherry,La Mojonera,1,2,True
+bola,El Ejido,3,4,True
+Raf,La Mojonera,4,4,True
+Raf,El Ejido,9,4,True
+rosa,El Ejido,6,1,True
+corazon de buey,Campohermoso,9,3,True
+Raf,La Mojonera,1,1,True
+corazon de buey,Nijar,3,2,False
+ de pera,La Mojonera,7,1,False
+bola,Campohermoso,2,2,False
+corazon de buey,Nijar,7,4,True
+cherry,El Ejido,7,4,True
+ de pera,El Alquian,9,3,False
+rosa,Nijar,7,4,True
+rosa,El Ejido,10,4,False
+kumato,El Alquian,6,1,True
+cherry,El Alquian,3,1,False
+ de pera,Campohermoso,5,4,False
+rosa,El Ejido,9,3,True
+ de pera,Campohermoso,2,2,False
+corazon de buey,El Ejido,10,3,True
+rosa,La Mojonera,7,4,False
+verde,La Mojonera,7,2,True
+cherry,La Mojonera,2,2,True
+ de pera,El Ejido,6,3,False
+bola,Campohermoso,6,4,True
+bola,El Alquian,3,2,False
+ de pera,El Alquian,9,2,False
+verde,La Mojonera,3,2,True
+bola,La Mojonera,10,2,True
+verde,La Mojonera,10,2,True
+ de pera,El Ejido,5,1,False
+ de pera,Campohermoso,10,4,False
+cherry,El Ejido,6,3,False
+rosa,Nijar,8,2,True
+rosa,El Alquian,10,4,True
+cherry,Campohermoso,5,1,True
+corazon de buey,El Alquian,7,2,True
+bola,El Alquian,9,2,True
+rosa,El Alquian,7,2,False
+verde,Nijar,8,3,True
+verde,El Alquian,3,1,False
+ de pera,Nijar,6,4,True
+verde,Campohermoso,2,4,False
+kumato,Campohermoso,7,1,True
+verde,Campohermoso,8,1,True
+verde,La Mojonera,8,3,True
+verde,Campohermoso,7,3,True
+kumato,Nijar,9,4,True
+corazon de buey,El Alquian,1,1,False
+bola,Campohermoso,5,4,False
+ de pera,La Mojonera,3,3,True
+kumato,Campohermoso,10,4,True
+bola,Nijar,9,3,True
+rosa,Campohermoso,1,3,False
+verde,El Alquian,4,4,False
+kumato,El Alquian,8,2,True
+ de pera,El Alquian,9,2,False
+ de pera,El Alquian,8,2,False
+ de pera,El Alquian,8,3,False
+kumato,El Ejido,9,1,False
+cherry,El Alquian,1,4,False
+corazon de buey,El Ejido,9,1,True
+kumato,Nijar,6,2,True
+verde,El Alquian,9,4,False
+ de pera,El Ejido,7,3,True
+Raf,El Ejido,3,2,False
+verde,El Alquian,2,2,True
+rosa,El Alquian,4,2,False
+rosa,El Ejido,2,3,True
+kumato,El Alquian,3,2,True
+verde,El Alquian,1,1,True
+corazon de buey,El Alquian,1,3,True
+Raf,El Ejido,3,4,True
+Raf,El Ejido,6,3,False
+ de pera,La Mojonera,5,1,True
+cherry,El Ejido,4,3,False
+kumato,El Alquian,6,3,True
+cherry,El Ejido,3,4,False
+rosa,El Alquian,6,2,False
+Raf,Campohermoso,8,4,False
+ de pera,El Ejido,6,3,False
+ de pera,El Alquian,6,3,False
+Raf,El Alquian,10,3,False
+verde,Nijar,2,4,False
+verde,El Ejido,8,4,True
+cherry,Campohermoso,10,1,True
+kumato,El Ejido,9,4,True
+verde,El Alquian,3,4,False
+ de pera,Nijar,5,4,True
+kumato,El Ejido,5,1,False
+bola,El Ejido,9,1,True
+verde,Nijar,7,2,False
+bola,El Ejido,10,2,True
+Raf,El Alquian,10,1,True
+corazon de buey,Campohermoso,3,2,False
+verde,El Ejido,5,1,False
+ de pera,La Mojonera,1,1,True
+ de pera,El Alquian,10,3,True
+Raf,La Mojonera,5,3,True
+corazon de buey,El Ejido,9,4,True
+rosa,Campohermoso,7,4,False
+rosa,Campohermoso,8,2,True
+kumato,Campohermoso,5,4,True
+verde,El Ejido,2,1,True
+ de pera,El Ejido,5,2,False
+ de pera,El Alquian,8,3,False
+Raf,Nijar,7,3,True
+kumato,El Alquian,2,1,False
+ de pera,Campohermoso,4,3,False
+ de pera,La Mojonera,6,3,True
+ de pera,Nijar,1,3,False
+rosa,El Ejido,4,4,False
+cherry,Campohermoso,5,3,True
+cherry,El Alquian,9,1,True
+ de pera,Campohermoso,8,3,False
+verde,Nijar,9,4,False
+cherry,El Ejido,7,4,False
+Raf,La Mojonera,9,2,True
+rosa,El Alquian,7,2,False
+Raf,El Alquian,7,1,False
+Raf,Nijar,5,1,False
+ de pera,Campohermoso,1,2,True
+cherry,El Alquian,6,3,True
+verde,Campohermoso,10,1,False
+kumato,El Ejido,3,1,False
+cherry,El Ejido,7,1,True
+Raf,Campohermoso,5,2,True
+ de pera,El Alquian,6,3,False
+bola,El Ejido,7,4,True
+rosa,Campohermoso,3,4,True
+kumato,El Ejido,1,1,False
+rosa,Campohermoso,5,2,False
+corazon de buey,La Mojonera,3,4,False
+corazon de buey,Campohermoso,2,1,True
+kumato,Nijar,10,1,True
+kumato,El Alquian,1,3,True
+Raf,Campohermoso,10,2,False
+cherry,La Mojonera,8,1,True
+cherry,El Alquian,2,4,False
+ de pera,Nijar,5,2,False
+ de pera,Campohermoso,10,4,False
+rosa,El Alquian,2,4,False
+rosa,El Alquian,5,4,False
+ de pera,Campohermoso,6,3,True
+ de pera,Nijar,2,3,True
+cherry,La Mojonera,8,3,False
+rosa,Campohermoso,5,4,True
+Raf,Campohermoso,7,1,False
+corazon de buey,Campohermoso,7,4,True
+bola,Nijar,8,2,True
+verde,El Ejido,8,3,True
+kumato,El Alquian,7,4,False
+bola,La Mojonera,9,4,True
+Raf,La Mojonera,3,4,True
+ de pera,El Alquian,10,4,False
+bola,Campohermoso,8,3,False
+Raf,La Mojonera,4,3,True
+kumato,El Ejido,1,2,True
+corazon de buey,Campohermoso,1,3,False
+corazon de buey,El Alquian,7,1,False
+rosa,Nijar,8,4,False
+cherry,El Ejido,4,4,True
+corazon de buey,La Mojonera,5,2,False
+rosa,Nijar,5,1,False
+bola,El Alquian,4,4,False
+rosa,El Ejido,6,3,False
+ de pera,Campohermoso,3,3,False
+cherry,Nijar,10,2,False
+ de pera,Nijar,7,2,False
+bola,La Mojonera,2,2,False
+rosa,La Mojonera,8,3,True
+cherry,El Ejido,1,4,False
+ de pera,Campohermoso,5,4,False
+corazon de buey,El Ejido,7,2,True
+bola,Campohermoso,10,3,True
+kumato,La Mojonera,7,3,False
+bola,Campohermoso,5,3,False
+verde,La Mojonera,6,4,False
+cherry,El Ejido,5,3,True
+verde,La Mojonera,8,4,True
+ de pera,Campohermoso,3,4,True
+rosa,El Alquian,8,4,False
+bola,Nijar,6,4,True
+corazon de buey,La Mojonera,4,1,False
+bola,Nijar,9,4,True
+corazon de buey,La Mojonera,9,3,True
+rosa,El Ejido,3,2,True
+Raf,Nijar,10,2,False
+ de pera,Campohermoso,4,4,False
+ de pera,Nijar,2,2,False
+kumato,La Mojonera,8,3,True
+Raf,El Ejido,5,2,True
+verde,Nijar,9,2,True
+verde,El Alquian,10,1,True
+verde,Campohermoso,9,4,True
+cherry,El Ejido,3,4,True
+bola,El Ejido,2,2,True
+verde,Campohermoso,2,2,True
+cherry,Nijar,5,1,False
+ de pera,La Mojonera,1,1,True
+verde,El Alquian,2,4,False
+rosa,El Ejido,9,1,False
+Raf,La Mojonera,1,3,False
+corazon de buey,Campohermoso,2,4,False
+ de pera,La Mojonera,1,3,False
+verde,La Mojonera,4,3,False
+kumato,Campohermoso,2,3,False
+kumato,El Alquian,1,1,False
+cherry,El Ejido,4,2,True
+rosa,El Ejido,3,4,False
+corazon de buey,Campohermoso,2,3,True
+Raf,Nijar,9,4,False
+cherry,El Alquian,4,1,True
+rosa,El Ejido,8,3,False
+ de pera,El Alquian,9,1,False
+verde,El Ejido,8,3,False
+Raf,Nijar,8,1,False
+rosa,El Ejido,10,4,True
+Raf,Nijar,6,2,False
+cherry,Campohermoso,6,4,True
+rosa,Campohermoso,6,3,False
+ de pera,Campohermoso,10,2,True
+kumato,La Mojonera,7,4,False
+ de pera,El Ejido,9,2,False
+ de pera,Nijar,1,3,False
+rosa,El Alquian,5,4,False
+bola,Campohermoso,9,4,False
+rosa,La Mojonera,4,4,False
+cherry,Nijar,2,2,False
+corazon de buey,Nijar,8,4,True
+kumato,El Alquian,10,1,True
+ de pera,Campohermoso,7,1,False
+Raf,Nijar,6,2,False
+verde,Campohermoso,4,2,True
+bola,La Mojonera,5,2,True
+verde,Nijar,3,2,True
+Raf,La Mojonera,7,1,True
+rosa,El Ejido,3,3,True
+cherry,El Ejido,8,3,False
+bola,Campohermoso,7,4,False
+bola,Nijar,7,4,False
+kumato,Nijar,9,2,True
+verde,Campohermoso,7,2,False
+corazon de buey,La Mojonera,4,2,False
+corazon de buey,Campohermoso,9,1,False
+corazon de buey,Campohermoso,4,4,False
+cherry,Campohermoso,6,3,True
+corazon de buey,El Ejido,8,2,True
+ de pera,Campohermoso,6,3,False
+cherry,El Ejido,7,1,False
+Raf,El Alquian,2,4,False
+kumato,Nijar,8,4,True
+kumato,La Mojonera,6,2,True
+cherry,La Mojonera,3,4,False
+ de pera,La Mojonera,6,2,False
+cherry,Nijar,8,1,True
+cherry,El Alquian,4,1,True
+ de pera,Nijar,2,1,True
+corazon de buey,La Mojonera,4,3,False
+rosa,Campohermoso,7,4,True
+Raf,Campohermoso,9,2,True
+corazon de buey,Campohermoso,6,1,False
+bola,El Alquian,10,1,True
+verde,La Mojonera,7,4,False
+verde,La Mojonera,3,2,True
+verde,Nijar,1,1,True
+corazon de buey,Campohermoso,8,3,True
+bola,Campohermoso,6,2,False
+kumato,Campohermoso,2,2,True
+Raf,El Alquian,3,3,False
+ de pera,La Mojonera,8,1,True
+rosa,La Mojonera,2,4,False
+rosa,El Ejido,8,3,True
+corazon de buey,El Ejido,2,3,False
+corazon de buey,El Ejido,3,2,True
+kumato,El Ejido,6,3,True
+kumato,Campohermoso,5,4,True
+rosa,Campohermoso,7,4,True
+kumato,Nijar,4,4,True
+corazon de buey,El Alquian,5,1,True
+verde,El Alquian,8,3,False
+cherry,El Ejido,10,3,True
+Raf,Nijar,3,3,True
+corazon de buey,Nijar,4,1,False
+corazon de buey,Nijar,2,3,True
+rosa,El Alquian,8,2,True
+cherry,El Ejido,5,4,False
+verde,El Ejido,1,4,False
+Raf,El Alquian,3,1,False
+ de pera,Nijar,3,1,False
+ de pera,El Alquian,8,1,True
+cherry,Nijar,9,4,False
+bola,Nijar,1,3,False
+corazon de buey,El Ejido,1,1,False
+verde,La Mojonera,4,2,False
+Raf,Nijar,8,2,False
+verde,Nijar,6,3,False
+cherry,La Mojonera,1,2,False
+rosa,Campohermoso,7,1,True
+Raf,El Alquian,9,3,False
+Raf,Campohermoso,1,2,False
+kumato,Campohermoso,5,3,True
+cherry,El Alquian,3,2,True
+ de pera,La Mojonera,1,3,True
+bola,Nijar,2,1,False
+ de pera,Campohermoso,9,1,False
+cherry,Nijar,2,3,True
+kumato,Campohermoso,4,2,False
+rosa,El Ejido,10,3,False
+bola,Campohermoso,7,4,False
+bola,Campohermoso,7,4,False
+bola,Nijar,5,3,True
+corazon de buey,La Mojonera,3,2,True
+ de pera,El Alquian,4,2,False
+bola,La Mojonera,1,1,True
+corazon de buey,La Mojonera,7,1,True
+verde,Campohermoso,1,4,True
+kumato,El Ejido,2,3,True
+rosa,El Ejido,2,1,True
+Raf,El Alquian,5,3,False
+kumato,La Mojonera,8,2,True
+ de pera,El Alquian,4,1,False
+bola,El Ejido,8,1,True
+rosa,Campohermoso,7,3,True
+rosa,El Alquian,2,3,True
+rosa,Campohermoso,10,4,False
+kumato,La Mojonera,9,2,True
+cherry,La Mojonera,2,2,True
+kumato,Campohermoso,10,4,True
+bola,El Alquian,1,1,False
+corazon de buey,La Mojonera,10,4,False
+rosa,El Alquian,2,4,True
+Raf,La Mojonera,9,1,False
+Raf,La Mojonera,6,4,True
+ de pera,La Mojonera,2,3,False
+kumato,Nijar,4,4,True
+cherry,El Alquian,4,1,True
+kumato,Nijar,3,1,False
+bola,El Ejido,3,1,True
+Raf,El Alquian,3,4,True
+Raf,El Alquian,7,4,False
+bola,El Ejido,9,1,True
+rosa,El Ejido,5,1,False
+corazon de buey,El Ejido,2,2,True
+cherry,La Mojonera,5,3,True
+bola,La Mojonera,7,3,True
+corazon de buey,El Alquian,5,2,True
+corazon de buey,La Mojonera,3,2,False
+bola,El Alquian,5,2,True
+corazon de buey,El Ejido,3,2,True
+Raf,La Mojonera,10,3,True
+ de pera,Nijar,2,4,False
+corazon de buey,El Alquian,4,1,False
+Raf,El Alquian,10,2,True
+bola,El Alquian,2,3,False
+rosa,Nijar,9,2,True
+verde,Nijar,6,1,True
+kumato,La Mojonera,5,3,False
+verde,Campohermoso,1,4,False
+rosa,La Mojonera,2,2,False
+rosa,La Mojonera,4,1,True
+cherry,La Mojonera,10,2,False
+cherry,La Mojonera,8,2,True
+corazon de buey,Campohermoso,7,1,False
+bola,El Ejido,1,4,True
+cherry,Nijar,4,2,True
+ de pera,El Ejido,9,2,True
+corazon de buey,La Mojonera,9,3,True
+cherry,El Ejido,4,4,True
+rosa,El Alquian,10,2,False
+verde,Nijar,2,1,False
+Raf,Campohermoso,3,1,False
+verde,Campohermoso,3,3,False
+kumato,El Ejido,8,4,False
+rosa,Nijar,7,3,False
+Raf,La Mojonera,3,3,True
+rosa,El Alquian,3,1,False
+kumato,El Ejido,3,3,True
+corazon de buey,Campohermoso,9,1,False
+rosa,El Ejido,6,3,False
+Raf,El Ejido,9,3,True
+corazon de buey,Campohermoso,8,4,True
+verde,La Mojonera,4,4,True
+cherry,El Alquian,6,1,False
+ de pera,El Ejido,5,1,True
+corazon de buey,Nijar,1,4,True
+Raf,La Mojonera,1,2,False
+Raf,Nijar,8,3,True
+verde,Nijar,7,1,True
+cherry,El Alquian,3,3,False
+ de pera,Campohermoso,3,3,True
+corazon de buey,Campohermoso,4,2,True
+Raf,Nijar,3,3,True
+verde,Campohermoso,9,1,False
+bola,Nijar,7,4,False
+kumato,La Mojonera,5,1,True
+rosa,El Ejido,6,4,False
+cherry,Nijar,4,2,False
+Raf,Campohermoso,4,1,False
+corazon de buey,El Alquian,3,2,True
+bola,El Ejido,4,4,False
+Raf,El Ejido,2,4,True
+rosa,La Mojonera,7,4,True
+corazon de buey,El Alquian,8,4,True
+ de pera,Campohermoso,5,1,True
+bola,La Mojonera,7,1,False
+bola,Campohermoso,4,3,False
+Raf,Campohermoso,8,3,False
+verde,Nijar,4,3,True
+kumato,La Mojonera,2,2,False
+verde,Campohermoso,2,4,False
+kumato,Campohermoso,5,4,False
+kumato,El Alquian,6,1,False
+Raf,El Alquian,7,3,False
+kumato,El Ejido,9,1,False
+ de pera,El Alquian,7,2,False
+kumato,Campohermoso,7,3,False
+verde,El Ejido,3,1,False
+kumato,Campohermoso,10,1,False
+cherry,Nijar,6,3,False
+verde,Campohermoso,1,2,False
+cherry,La Mojonera,9,1,False
+kumato,La Mojonera,3,1,True
+verde,Nijar,2,2,True
+cherry,El Alquian,9,3,True
+ de pera,Nijar,6,3,False
+ de pera,Nijar,3,3,False
+rosa,Campohermoso,3,4,True
+verde,El Ejido,5,2,True
+cherry,Nijar,10,3,True
+rosa,La Mojonera,8,1,False
+Raf,El Ejido,9,1,False
+bola,Campohermoso,5,1,True
+rosa,Campohermoso,4,3,False
+rosa,La Mojonera,1,3,False
+rosa,Campohermoso,10,3,False
+cherry,La Mojonera,7,3,True
+corazon de buey,Campohermoso,5,1,False
+corazon de buey,El Alquian,10,3,True
+rosa,El Ejido,9,4,False
+bola,El Ejido,1,4,True
+kumato,Nijar,5,4,False
+rosa,Nijar,2,2,True
+verde,Campohermoso,10,2,True
+bola,Campohermoso,6,1,False
+Raf,El Ejido,4,1,False
+ de pera,El Alquian,7,1,False
+bola,El Ejido,8,4,True
+rosa,El Ejido,7,4,False
+Raf,Nijar,8,3,True
+Raf,La Mojonera,9,1,True
+verde,La Mojonera,1,1,True
+cherry,La Mojonera,3,3,False
+rosa,La Mojonera,10,1,False
+bola,El Alquian,3,1,True
+cherry,Nijar,1,1,False
+ de pera,Nijar,6,1,True
+ de pera,El Ejido,5,1,True
+kumato,Campohermoso,4,2,False
+Raf,La Mojonera,1,3,True
+cherry,La Mojonera,7,4,False
+cherry,La Mojonera,1,1,True
+ de pera,El Alquian,4,2,False
+rosa,La Mojonera,2,4,True
+rosa,El Alquian,9,4,True
+kumato,El Alquian,8,2,False
+bola,El Alquian,4,4,True
+Raf,La Mojonera,3,2,False
+cherry,Campohermoso,2,3,False
+verde,Nijar,5,2,True
+verde,Nijar,1,3,True
+verde,Campohermoso,6,1,False
+corazon de buey,El Ejido,6,3,True
+ de pera,El Ejido,7,1,True
+kumato,Campohermoso,6,2,False
+verde,Campohermoso,5,3,False
+ de pera,Nijar,10,4,False
+bola,El Alquian,5,2,True
+corazon de buey,Campohermoso,4,2,True
+corazon de buey,El Ejido,1,3,False
+Raf,Nijar,1,2,False
+cherry,Campohermoso,5,4,False
+Raf,Campohermoso,8,4,True
+Raf,El Alquian,9,3,True
+rosa,El Ejido,4,1,True
+bola,El Alquian,2,2,True
+bola,La Mojonera,6,4,True
+kumato,El Ejido,9,4,True
+verde,La Mojonera,7,4,True
+Raf,Nijar,10,4,True
+rosa,Campohermoso,1,1,False
+ de pera,El Alquian,8,4,True
+verde,Campohermoso,10,2,False
+kumato,Nijar,4,4,True
+kumato,Nijar,3,4,False
+kumato,El Ejido,9,3,True
+corazon de buey,Nijar,9,2,True
+rosa,Campohermoso,3,2,True
+bola,Nijar,4,1,True
+bola,La Mojonera,7,2,False
+cherry,Nijar,8,2,True
+cherry,Nijar,8,2,False
+rosa,El Alquian,10,1,False
+cherry,El Ejido,2,4,True
+bola,Nijar,10,3,False
+corazon de buey,La Mojonera,8,1,False
+ de pera,El Ejido,7,1,True
+Raf,La Mojonera,7,1,True
+Raf,La Mojonera,9,2,False
+corazon de buey,El Ejido,10,2,False
+Raf,La Mojonera,2,4,False
+cherry,Nijar,6,1,False
+bola,Campohermoso,9,2,False
+ de pera,La Mojonera,5,1,True
+rosa,Nijar,2,4,False
+Raf,Campohermoso,7,4,False
+rosa,La Mojonera,3,2,True
+ de pera,La Mojonera,4,3,False
+verde,Nijar,2,4,False
+verde,La Mojonera,2,3,True
+verde,La Mojonera,3,3,True
+rosa,La Mojonera,4,1,False
+kumato,Nijar,8,4,False
+verde,El Ejido,2,1,False
+cherry,Campohermoso,5,1,False
+rosa,El Alquian,2,4,True
+Raf,El Ejido,4,4,False
+Raf,Campohermoso,2,3,True
+kumato,Campohermoso,4,4,False
+corazon de buey,La Mojonera,2,1,False
+corazon de buey,Nijar,4,2,True
+cherry,El Ejido,4,4,True
+bola,Campohermoso,7,1,True
+ de pera,El Alquian,3,1,False
+bola,Campohermoso,10,1,False
+kumato,El Alquian,10,3,True
+corazon de buey,Nijar,8,1,False
+verde,La Mojonera,10,4,True
+rosa,El Ejido,3,1,True
+kumato,Campohermoso,9,1,True
+kumato,El Alquian,3,3,True
+corazon de buey,El Ejido,7,2,True
+Raf,El Ejido,9,4,False
+Raf,El Ejido,7,2,True
+bola,El Ejido,10,4,False
+kumato,La Mojonera,2,4,True
+bola,La Mojonera,5,4,False
+corazon de buey,El Ejido,6,1,False
+ de pera,El Alquian,1,3,True
+cherry,Nijar,10,2,True
+kumato,El Alquian,6,1,True
+kumato,El Ejido,1,1,False
+cherry,El Alquian,8,1,True
+rosa,El Ejido,1,2,False
+Raf,Nijar,2,1,True
+cherry,Campohermoso,2,1,False
+ de pera,Campohermoso,9,2,False
+corazon de buey,Campohermoso,6,3,True
+cherry,La Mojonera,1,1,True
+rosa,Campohermoso,8,2,True
+rosa,La Mojonera,6,1,True
+corazon de buey,El Ejido,9,1,True
+rosa,La Mojonera,9,4,True
+bola,La Mojonera,4,3,True
+Raf,Nijar,4,1,True
+bola,El Alquian,3,2,True
+cherry,El Alquian,3,1,False
+kumato,Nijar,4,3,True
+ de pera,Nijar,3,3,False
+corazon de buey,Campohermoso,7,3,True
+corazon de buey,El Ejido,1,3,False
+rosa,Campohermoso,5,3,True
+Raf,El Ejido,1,1,False
+ de pera,La Mojonera,5,4,True
+rosa,Nijar,9,2,False
+verde,Campohermoso,1,3,False
+bola,El Ejido,2,1,False
+verde,Nijar,3,2,False
+rosa,La Mojonera,1,4,False
+ de pera,El Ejido,4,2,False
+bola,Nijar,3,4,False
+Raf,El Alquian,6,1,False
+kumato,El Alquian,10,2,True
+rosa,El Alquian,10,3,False
+ de pera,El Alquian,3,2,False
+bola,La Mojonera,10,2,True
+rosa,Nijar,10,4,True
+ de pera,El Alquian,10,4,False
+Raf,Nijar,5,2,True
+cherry,La Mojonera,1,2,False
+verde,El Ejido,2,1,True
+rosa,La Mojonera,3,2,True
+kumato,Nijar,2,3,True
+corazon de buey,Nijar,8,3,True
+bola,El Alquian,5,4,False
+kumato,El Alquian,9,3,False
+ de pera,La Mojonera,4,3,True
+rosa,Nijar,9,3,True
+rosa,La Mojonera,4,2,True
+Raf,El Ejido,10,2,False
+cherry,El Ejido,10,1,False
+ de pera,Nijar,5,3,True
+cherry,El Alquian,3,3,False
+cherry,La Mojonera,4,4,True
+corazon de buey,Campohermoso,1,2,True
+rosa,La Mojonera,7,4,False
+Raf,La Mojonera,6,3,True
+ de pera,Campohermoso,3,3,True
+verde,La Mojonera,9,1,True
+bola,El Ejido,3,3,True
+Raf,Nijar,1,3,True
+bola,El Alquian,10,3,False
+kumato,Nijar,10,3,True
+rosa,Nijar,5,3,True
+cherry,La Mojonera,10,4,False
+ de pera,La Mojonera,1,2,False
+bola,La Mojonera,4,3,True
+Raf,El Alquian,1,1,False
+cherry,El Alquian,9,4,True
+kumato,Campohermoso,7,2,False
+Raf,La Mojonera,10,4,False
+corazon de buey,El Ejido,10,1,True
+cherry,Campohermoso,10,1,False
+bola,El Ejido,5,2,False
+Raf,El Ejido,7,3,True
+verde,Campohermoso,9,3,True
+verde,La Mojonera,3,2,False
+corazon de buey,El Alquian,5,3,True
+cherry,El Ejido,7,1,True
+bola,Campohermoso,2,4,True
+verde,La Mojonera,9,4,True
+rosa,La Mojonera,2,3,True
+verde,Campohermoso,10,3,True
+Raf,La Mojonera,2,1,False
+rosa,El Ejido,4,1,False
+corazon de buey,La Mojonera,10,4,True
+Raf,El Ejido,7,4,True
+corazon de buey,El Alquian,9,1,True
+verde,Nijar,4,4,True
+Raf,Campohermoso,5,1,False
+ de pera,Nijar,9,2,False
+cherry,Campohermoso,9,4,True
+corazon de buey,Campohermoso,1,2,False
+verde,Nijar,3,1,False
+bola,El Ejido,9,2,False
+corazon de buey,Nijar,6,2,True
+ de pera,Nijar,2,3,True
+rosa,Campohermoso,8,1,False
+verde,El Ejido,8,1,True
+kumato,La Mojonera,7,1,False
+kumato,La Mojonera,2,3,False
+Raf,Nijar,5,1,False
+bola,El Alquian,10,1,False
+verde,El Alquian,10,3,False
+cherry,Nijar,2,1,True
+verde,La Mojonera,1,3,False
+ de pera,El Alquian,9,2,False
+bola,La Mojonera,4,2,False
+verde,El Alquian,3,3,True
+verde,El Alquian,1,3,True
+rosa,El Alquian,6,4,False
+ de pera,Nijar,9,2,True
+Raf,El Alquian,8,2,False
+verde,La Mojonera,2,3,True
+ de pera,Nijar,4,1,True
+verde,La Mojonera,9,2,True
+ de pera,El Alquian,4,3,True
+verde,La Mojonera,7,4,True
+bola,La Mojonera,10,2,True
+bola,Nijar,2,3,False
+corazon de buey,Nijar,1,2,False
+bola,El Alquian,1,2,True
+corazon de buey,La Mojonera,5,2,False
+Raf,El Alquian,1,4,False
+ de pera,La Mojonera,6,4,False
+Raf,El Ejido,1,4,False
+kumato,La Mojonera,1,4,False
+verde,El Ejido,5,2,False
+Raf,El Ejido,4,4,False
+ de pera,Campohermoso,5,1,True
+ de pera,La Mojonera,3,3,False
+corazon de buey,El Alquian,10,2,False
+verde,Campohermoso,7,2,True
+Raf,Nijar,2,2,True
+verde,El Alquian,10,1,True
+ de pera,El Ejido,2,4,False
+ de pera,El Ejido,7,4,False
+Raf,El Alquian,8,3,True
+verde,El Alquian,7,1,False
+verde,El Alquian,7,3,False
+bola,Campohermoso,2,3,False
+verde,Nijar,2,4,False
+rosa,El Alquian,8,1,False
+Raf,El Ejido,6,2,False
+ de pera,Nijar,10,3,True
+corazon de buey,Campohermoso,5,2,False
+corazon de buey,Nijar,1,4,True
+Raf,Nijar,5,4,True
+bola,El Ejido,5,1,True
+ de pera,La Mojonera,1,2,False
+ de pera,La Mojonera,9,3,False
+Raf,Campohermoso,9,4,False
+verde,Nijar,9,2,False
+corazon de buey,La Mojonera,5,4,True
+verde,El Ejido,3,4,False
+bola,El Ejido,9,4,False
+verde,El Alquian,2,1,False
+rosa,El Alquian,8,4,False
+cherry,La Mojonera,2,3,True
+corazon de buey,Campohermoso,3,1,False
+Raf,El Alquian,5,4,False
+kumato,Nijar,6,4,False
+ de pera,El Ejido,1,4,True
+corazon de buey,Campohermoso,5,2,True
+cherry,El Alquian,6,4,True
+rosa,El Ejido,6,3,False
+corazon de buey,Campohermoso,4,2,False
+rosa,El Ejido,3,4,True
+kumato,El Ejido,7,2,True
+cherry,El Alquian,9,4,True
+verde,Nijar,6,4,True
+corazon de buey,La Mojonera,7,3,False
+rosa,Nijar,5,3,True
+verde,La Mojonera,2,2,True
+kumato,Nijar,3,1,False
+corazon de buey,Campohermoso,6,3,False
+corazon de buey,Campohermoso,5,3,False
+bola,Nijar,6,1,False
+corazon de buey,Nijar,1,3,False
+corazon de buey,La Mojonera,7,3,False
+verde,Campohermoso,7,2,False
+ de pera,Nijar,5,4,False
+verde,El Alquian,6,2,False
+rosa,La Mojonera,5,1,False
+ de pera,El Alquian,2,2,False
+rosa,Campohermoso,1,4,True
+verde,Nijar,7,1,False
+corazon de buey,La Mojonera,5,1,False
+corazon de buey,Nijar,4,2,True
+verde,El Ejido,1,4,False
+corazon de buey,Campohermoso,3,3,False
+kumato,Nijar,1,3,False
+bola,La Mojonera,8,3,False
+rosa,La Mojonera,7,4,True
+cherry,Nijar,3,1,True
+verde,Nijar,4,3,True
+Raf,Nijar,2,4,False
+Raf,El Ejido,9,2,True
+Raf,La Mojonera,7,1,True
+cherry,El Alquian,4,4,False
+verde,El Ejido,10,2,False
+rosa,El Alquian,7,4,True
+corazon de buey,Campohermoso,8,3,False
+bola,El Alquian,1,2,True
+kumato,Campohermoso,9,4,True
+cherry,El Ejido,10,3,False
+rosa,El Alquian,9,2,True
+kumato,Campohermoso,3,3,True
+Raf,La Mojonera,5,2,False
+kumato,La Mojonera,10,4,False
+kumato,El Alquian,6,4,False
+verde,La Mojonera,9,1,False
+Raf,Nijar,3,1,False
+verde,La Mojonera,8,3,False
+kumato,Campohermoso,1,2,False
+verde,Nijar,6,2,False
+ de pera,El Alquian,6,1,True
+cherry,Nijar,8,4,False
+corazon de buey,El Alquian,5,2,False
+verde,Nijar,4,3,True
+Raf,Nijar,8,4,True
+bola,El Alquian,5,1,True
+bola,El Alquian,2,3,True
+bola,El Alquian,4,2,True
+ de pera,El Alquian,10,3,True
+verde,El Ejido,10,2,False
+kumato,Nijar,6,4,False
+verde,El Ejido,3,2,False
+Raf,Nijar,1,4,True
+verde,La Mojonera,3,3,True
+kumato,Nijar,3,1,True
+bola,El Ejido,1,1,True
+kumato,La Mojonera,6,3,True
+kumato,Campohermoso,4,3,True
+Raf,El Alquian,5,1,False
+verde,Campohermoso,10,1,True
+kumato,Campohermoso,4,3,False
+cherry,Nijar,3,2,False
+rosa,El Alquian,1,1,False
+rosa,La Mojonera,6,2,False
+Raf,Nijar,2,2,True
+Raf,El Alquian,4,4,True
+corazon de buey,La Mojonera,2,1,False
+corazon de buey,El Alquian,2,3,True
+rosa,Nijar,5,2,False
+ de pera,El Alquian,9,4,True
+ de pera,Nijar,10,2,True
+kumato,Campohermoso,6,4,False
+verde,El Alquian,9,3,True
+rosa,El Alquian,6,3,False
+bola,El Ejido,10,3,False
+bola,Campohermoso,6,1,True
+verde,Campohermoso,1,4,True
+kumato,La Mojonera,10,1,True
+ de pera,El Alquian,5,3,True
+verde,Nijar,9,1,False
+bola,La Mojonera,9,4,False
+bola,Nijar,4,3,True
+ de pera,Nijar,4,2,True
+rosa,Campohermoso,8,2,True
+verde,El Ejido,4,4,False
+verde,Nijar,9,4,False
+kumato,La Mojonera,6,4,False
+rosa,El Alquian,2,3,False
+bola,El Alquian,8,1,True
+corazon de buey,El Ejido,5,4,True
+verde,La Mojonera,3,1,False
+bola,Nijar,1,3,False
+verde,La Mojonera,9,2,False
+rosa,Nijar,9,1,True
+kumato,Campohermoso,1,4,False
+rosa,El Ejido,2,4,True
+Raf,Campohermoso,1,3,True
+cherry,Campohermoso,7,2,False
+Raf,La Mojonera,7,4,True
+rosa,El Alquian,7,4,True
+bola,El Alquian,4,1,True
+Raf,La Mojonera,10,4,False
+rosa,La Mojonera,2,4,True
+kumato,Nijar,6,1,False
+bola,Nijar,5,4,False
+kumato,La Mojonera,10,2,False
+rosa,El Alquian,5,2,False
+rosa,El Ejido,1,3,False
+verde,Nijar,1,3,True
+corazon de buey,Campohermoso,6,4,False
+verde,Campohermoso,7,4,True
+bola,Campohermoso,7,2,False
+verde,El Alquian,10,3,True
+rosa,Campohermoso,4,2,False
+corazon de buey,Nijar,5,4,True
+ de pera,La Mojonera,9,4,True
+rosa,El Alquian,1,4,True
+rosa,La Mojonera,8,4,True
+ de pera,El Ejido,9,1,False
+Raf,Nijar,10,3,True
+rosa,El Alquian,9,2,False
+kumato,Campohermoso,10,1,False
+cherry,El Alquian,8,1,False
+corazon de buey,El Alquian,7,1,False
+bola,El Alquian,10,2,False
+verde,Campohermoso,3,1,False
+corazon de buey,La Mojonera,4,2,True
+kumato,El Alquian,8,4,False
+kumato,Nijar,10,1,False
+verde,El Ejido,8,1,False
+verde,El Ejido,9,2,True
+bola,La Mojonera,8,1,False
+corazon de buey,Campohermoso,9,1,True
+bola,Nijar,7,4,False
+bola,El Ejido,2,4,True
+verde,El Alquian,10,2,True
+Raf,La Mojonera,10,2,True
+cherry,Nijar,10,3,True
+kumato,El Alquian,7,4,True
+rosa,El Ejido,9,2,False
+rosa,El Alquian,6,2,True
+ de pera,El Alquian,9,2,False
+bola,Campohermoso,7,1,False
+verde,Nijar,5,4,True
+cherry,La Mojonera,1,1,True
+rosa,Nijar,3,3,True
+verde,El Ejido,5,2,False
+corazon de buey,Campohermoso,5,2,True
+kumato,Nijar,10,1,True
+bola,Nijar,10,2,True
+rosa,El Alquian,7,3,False
+bola,El Ejido,4,1,True
+Raf,Campohermoso,10,1,False
+cherry,Campohermoso,4,3,True
+ de pera,Nijar,1,1,False
+kumato,Campohermoso,3,4,False
+cherry,Campohermoso,5,3,False
+rosa,Campohermoso,8,3,True
+kumato,Nijar,2,3,False
+bola,La Mojonera,1,2,True
+bola,El Alquian,5,3,False
+ de pera,El Ejido,7,2,False
+rosa,El Ejido,4,1,True
+corazon de buey,Campohermoso,5,2,True
+corazon de buey,Campohermoso,1,1,True
+rosa,La Mojonera,10,1,False
+cherry,El Alquian,6,2,True
+verde,El Alquian,9,4,True
+kumato,El Ejido,10,4,False
+ de pera,La Mojonera,10,2,False
+bola,Campohermoso,10,2,False
+rosa,Campohermoso,4,3,True
+verde,Campohermoso,6,2,True
+cherry,El Ejido,5,3,False
+bola,Campohermoso,10,3,False
+corazon de buey,El Alquian,5,2,False
+Raf,El Ejido,8,3,False
+verde,Nijar,10,1,False
+kumato,La Mojonera,8,2,True
+kumato,Campohermoso,6,4,False
+ de pera,La Mojonera,5,1,True
+bola,Nijar,1,4,False
+verde,Campohermoso,7,2,True
+verde,Campohermoso,10,2,True
+bola,Nijar,9,4,False
+Raf,La Mojonera,10,1,True
+corazon de buey,La Mojonera,4,4,False
+rosa,Campohermoso,10,4,True
+ de pera,Nijar,5,1,False
+bola,Nijar,7,3,True
+corazon de buey,Nijar,5,4,False
+rosa,Campohermoso,9,1,True
+kumato,Nijar,2,4,True
+corazon de buey,Campohermoso,2,1,True
+cherry,La Mojonera,6,3,False
+bola,El Ejido,1,3,False
+corazon de buey,Campohermoso,7,4,False
+ de pera,Campohermoso,6,3,False
+verde,Campohermoso,6,1,True
+corazon de buey,Nijar,9,1,True
+bola,El Ejido,4,4,False
+Raf,Campohermoso,4,4,True
+corazon de buey,La Mojonera,3,4,True
+kumato,Nijar,2,3,False
+corazon de buey,La Mojonera,8,3,True
+cherry,Campohermoso,2,1,False
+Raf,El Alquian,1,2,True
+corazon de buey,El Alquian,3,2,False
+Raf,Campohermoso,9,4,False
+kumato,Campohermoso,5,1,True
+corazon de buey,El Alquian,6,2,True
+corazon de buey,El Alquian,7,3,True
+cherry,El Ejido,3,4,False
+rosa,La Mojonera,4,4,False
+Raf,Campohermoso,2,4,True
+corazon de buey,Campohermoso,10,4,True
+cherry,El Alquian,8,1,True
+verde,La Mojonera,9,1,True
+kumato,Nijar,1,1,True
+bola,Nijar,2,3,False
+ de pera,Nijar,1,1,False
+rosa,Campohermoso,10,4,False
+Raf,El Ejido,2,2,True
+corazon de buey,El Alquian,5,4,True
+rosa,Campohermoso,3,1,True
+corazon de buey,El Ejido,7,1,True
+rosa,Campohermoso,9,1,True
+bola,El Alquian,9,2,True
+corazon de buey,El Alquian,3,1,False
+cherry,El Ejido,2,4,False
+bola,La Mojonera,5,1,False
+kumato,El Alquian,3,2,True
+cherry,La Mojonera,4,1,False
+kumato,El Alquian,1,4,True
+corazon de buey,Campohermoso,2,1,True
+Raf,Nijar,7,1,True
+cherry,El Ejido,4,2,True
+cherry,Nijar,4,1,True
+Raf,Nijar,4,3,False
+ de pera,El Ejido,9,4,False
+bola,El Ejido,10,3,True
+corazon de buey,El Ejido,1,1,True
+corazon de buey,Nijar,9,1,True
+corazon de buey,El Ejido,7,4,True
+kumato,El Ejido,7,2,True
+corazon de buey,El Alquian,3,3,False
+ de pera,Campohermoso,9,3,True
+rosa,El Alquian,1,1,True
+rosa,La Mojonera,10,3,False
+kumato,El Ejido,3,1,False
+corazon de buey,El Alquian,7,1,False
+bola,Campohermoso,9,1,False
+bola,Nijar,9,4,True
+bola,El Alquian,8,1,False
+verde,La Mojonera,3,3,False
+Raf,La Mojonera,5,3,False
+Raf,Nijar,3,2,True
+corazon de buey,Campohermoso,7,4,True
+cherry,El Alquian,8,3,True
+corazon de buey,Nijar,2,4,False
+verde,Campohermoso,4,3,False
+kumato,El Alquian,1,3,False
+verde,La Mojonera,3,4,False
+cherry,La Mojonera,3,4,True
+cherry,La Mojonera,6,2,False
+verde,La Mojonera,3,4,True
+verde,El Ejido,9,1,False
+ de pera,Campohermoso,5,2,False
+bola,La Mojonera,5,3,False
+bola,El Ejido,6,2,False
+ de pera,Campohermoso,9,2,False
+Raf,Campohermoso,1,1,False
+verde,El Ejido,10,1,True
+verde,Campohermoso,3,2,False
+cherry,El Alquian,9,3,True
+verde,El Alquian,2,4,True
+kumato,Nijar,8,4,False
+ de pera,Campohermoso,3,3,True
+cherry,El Alquian,7,4,False
+bola,Nijar,8,2,True
+ de pera,La Mojonera,8,3,False
+bola,Campohermoso,7,3,False
+ de pera,El Ejido,6,4,False
+corazon de buey,El Alquian,6,3,True
+ de pera,El Alquian,6,4,False
+Raf,Nijar,8,4,True
+bola,Nijar,10,1,True
+ de pera,La Mojonera,9,4,False
+rosa,Nijar,9,1,False
+Raf,Campohermoso,6,4,True
+corazon de buey,El Ejido,7,2,False
+cherry,Campohermoso,1,2,False
+verde,El Alquian,9,4,True
+ de pera,Nijar,4,2,False
+cherry,Nijar,3,4,True
+Raf,La Mojonera,5,3,True
+cherry,Nijar,4,3,False
+cherry,El Alquian,1,3,True
+Raf,Campohermoso,9,1,False
+Raf,Nijar,4,3,True
+Raf,El Alquian,10,4,True
+ de pera,El Alquian,6,2,True
+kumato,El Alquian,4,4,False
+kumato,Nijar,10,2,True
+cherry,Campohermoso,5,2,False
+ de pera,La Mojonera,2,1,False
+bola,La Mojonera,2,4,True
+cherry,El Alquian,3,3,False
+ de pera,Nijar,5,2,True
+bola,El Alquian,9,3,False
+Raf,La Mojonera,8,3,False
+rosa,El Alquian,10,1,True
+corazon de buey,La Mojonera,8,2,False
+kumato,Nijar,8,1,False
+Raf,El Ejido,3,3,False
+rosa,La Mojonera,2,3,True
+rosa,El Ejido,7,3,True
+Raf,El Alquian,10,3,False
+cherry,Campohermoso,4,3,True
+cherry,Campohermoso,9,4,True
+ de pera,El Ejido,7,2,True
+Raf,El Ejido,7,1,False
+ de pera,El Alquian,1,4,True
+rosa,Nijar,6,4,False
+ de pera,El Alquian,9,1,False
+ de pera,Campohermoso,7,4,False
+ de pera,Campohermoso,4,3,False
+rosa,La Mojonera,10,3,True
+rosa,Nijar,9,2,False
+corazon de buey,El Alquian,1,4,True
+corazon de buey,Nijar,8,3,False
+bola,Nijar,8,3,True
+ de pera,Nijar,3,4,False
+corazon de buey,La Mojonera,5,4,True
+corazon de buey,El Alquian,8,3,True
+kumato,Campohermoso,4,1,False
+rosa,El Alquian,3,1,False
+Raf,Nijar,7,2,False
+cherry,El Ejido,3,1,False
+bola,Campohermoso,10,4,False
+verde,El Ejido,4,4,True
+rosa,El Ejido,3,1,True
+cherry,El Alquian,3,2,True
+kumato,El Ejido,4,4,True
+Raf,El Alquian,9,1,False
+corazon de buey,Nijar,2,2,True
+kumato,Nijar,2,1,True
+Raf,El Alquian,9,2,False
+cherry,La Mojonera,6,1,False
+rosa,El Ejido,9,1,True
+cherry,Nijar,4,4,True
+Raf,La Mojonera,8,2,False
+Raf,El Alquian,8,2,True
+rosa,Campohermoso,7,1,False
+verde,Campohermoso,7,1,True
+corazon de buey,El Ejido,3,2,True
+rosa,Campohermoso,2,3,True
+rosa,El Ejido,4,4,False
+bola,Nijar,2,1,False
+ de pera,Campohermoso,8,2,False
+bola,Campohermoso,2,3,False
+ de pera,El Ejido,1,1,False
+corazon de buey,El Alquian,6,1,False
+ de pera,Campohermoso,6,2,True
+corazon de buey,El Alquian,6,1,True
+verde,La Mojonera,6,4,False
+Raf,Campohermoso,3,1,True
+Raf,La Mojonera,8,3,True
+Raf,El Ejido,7,1,True
+corazon de buey,La Mojonera,5,1,False
+bola,La Mojonera,8,3,False
+rosa,Nijar,6,4,True
+ de pera,El Alquian,1,4,False
+corazon de buey,Nijar,4,3,False
+verde,La Mojonera,3,4,False
+corazon de buey,El Ejido,7,1,True
+ de pera,El Ejido,6,4,True
+bola,Nijar,6,1,False
+verde,Campohermoso,4,2,True
+cherry,El Ejido,2,2,False
+verde,Nijar,8,1,False
+Raf,La Mojonera,5,4,False
+kumato,La Mojonera,3,2,True
+verde,Campohermoso,7,2,True
+kumato,El Ejido,2,4,False
+verde,El Alquian,3,4,False
+ de pera,Nijar,9,1,False
+kumato,El Alquian,5,2,False
+corazon de buey,Campohermoso,9,3,False
+corazon de buey,El Ejido,8,2,False
+corazon de buey,Campohermoso,8,1,False
+bola,El Alquian,9,4,True
+ de pera,La Mojonera,3,1,False
+Raf,Nijar,3,3,True
+cherry,La Mojonera,7,3,True
+Raf,El Ejido,6,2,True
+Raf,La Mojonera,8,1,True
+bola,Nijar,3,2,False
+verde,El Ejido,5,2,False
+corazon de buey,La Mojonera,7,1,False
+Raf,Nijar,1,1,False
+ de pera,Campohermoso,7,1,True
+cherry,Nijar,1,2,False
+rosa,El Alquian,9,2,False
+kumato,La Mojonera,2,4,True
+cherry,Campohermoso,6,2,True
+cherry,El Alquian,2,4,True
+kumato,Campohermoso,1,4,True
+verde,El Ejido,8,1,True
+bola,El Alquian,7,3,True
+rosa,Nijar,7,2,True
+rosa,La Mojonera,3,4,False
+ de pera,La Mojonera,8,1,True
+verde,Campohermoso,4,4,True
+ de pera,El Alquian,6,4,False
+verde,El Alquian,9,1,False
+ de pera,El Ejido,6,1,False
+kumato,La Mojonera,10,2,False
+rosa,Campohermoso,8,4,True
+verde,Nijar,9,4,False
+corazon de buey,El Alquian,9,4,True
+ de pera,El Alquian,7,3,True
+cherry,La Mojonera,4,4,False
+cherry,Nijar,1,2,True
+corazon de buey,El Alquian,1,4,False
+verde,Nijar,2,2,False
+ de pera,Campohermoso,9,3,True
+ de pera,Nijar,8,3,True
+kumato,Campohermoso,6,4,True
+ de pera,El Ejido,6,3,False
+kumato,Campohermoso,2,3,False
+ de pera,Campohermoso,5,3,True
+kumato,El Ejido,3,1,False
+rosa,El Alquian,7,3,True
+verde,Campohermoso,5,4,True
+rosa,La Mojonera,10,2,True
+ de pera,La Mojonera,3,2,True
+corazon de buey,El Ejido,10,2,True
+Raf,El Alquian,2,4,False
+rosa,Campohermoso,9,4,True
+kumato,Nijar,3,4,True
+kumato,El Ejido,9,3,False
+Raf,Campohermoso,8,4,False
+bola,Nijar,9,4,False
+rosa,El Alquian,10,3,False
+Raf,El Alquian,8,4,False
+kumato,El Alquian,5,4,False
+verde,Campohermoso,9,2,True
+corazon de buey,La Mojonera,5,4,False
+bola,El Ejido,3,4,False
+rosa,La Mojonera,9,3,True
+verde,Campohermoso,1,4,True
+Raf,Campohermoso,9,1,False
+rosa,El Ejido,3,1,False
+Raf,El Alquian,8,1,True
+ de pera,Nijar,10,1,False
+verde,Nijar,9,3,False
+cherry,El Ejido,2,4,False
+Raf,La Mojonera,1,3,True
+Raf,La Mojonera,6,1,False
+Raf,El Ejido,4,2,True
+cherry,El Ejido,4,2,True
+rosa,La Mojonera,2,2,True
+kumato,Nijar,6,2,False
+Raf,La Mojonera,9,1,False
+kumato,Campohermoso,9,4,True
+verde,La Mojonera,10,3,False
+rosa,Nijar,10,4,False
+corazon de buey,La Mojonera,9,2,True
+Raf,El Alquian,1,3,True
+cherry,Nijar,7,1,False
+corazon de buey,La Mojonera,5,2,False
+ de pera,La Mojonera,8,4,False
+corazon de buey,Nijar,2,4,False
+cherry,Nijar,7,1,False
+rosa,Nijar,3,3,False
+cherry,El Alquian,8,1,False
+cherry,La Mojonera,5,3,True
+Raf,Nijar,4,1,True
+ de pera,La Mojonera,2,2,True
+verde,Campohermoso,6,3,True
+ de pera,El Ejido,4,4,True
+kumato,El Alquian,8,1,True
+verde,Nijar,3,4,False
+verde,El Alquian,9,2,True
+corazon de buey,El Ejido,3,1,True
+ de pera,El Ejido,7,3,True
+rosa,El Ejido,1,2,True
+verde,Nijar,10,2,False
+corazon de buey,El Ejido,8,1,False
+rosa,El Alquian,4,4,False
+verde,La Mojonera,1,2,True
+corazon de buey,Nijar,8,3,False
+cherry,El Ejido,6,4,True
+bola,El Ejido,7,4,True
+verde,El Alquian,4,4,True
+bola,La Mojonera,9,4,False
+cherry,El Ejido,2,2,True
+Raf,El Alquian,4,2,True
+kumato,El Alquian,10,4,False
+Raf,Nijar,5,1,False
+corazon de buey,El Ejido,5,3,False
+bola,La Mojonera,5,3,False
+ de pera,Nijar,5,3,True
+cherry,Nijar,4,3,False
+rosa,Nijar,5,1,False
+verde,El Ejido,3,4,False
+ de pera,Nijar,9,1,True
+rosa,La Mojonera,3,2,False
+Raf,El Alquian,9,3,True
+kumato,El Alquian,9,2,False
+rosa,El Alquian,5,4,False
+bola,El Alquian,1,4,True
+rosa,La Mojonera,5,2,True
+rosa,Nijar,9,3,True
+corazon de buey,La Mojonera,10,4,False
+verde,El Alquian,5,4,False
+rosa,La Mojonera,4,4,True
+corazon de buey,El Ejido,7,1,False
+cherry,El Alquian,9,4,False
+cherry,La Mojonera,9,1,False
+corazon de buey,Nijar,3,4,False
+cherry,El Ejido,6,3,True
+verde,El Ejido,1,3,True
+Raf,El Alquian,9,4,False
+Raf,La Mojonera,5,2,True
+corazon de buey,El Ejido,9,1,False
+cherry,La Mojonera,7,3,False
+cherry,El Alquian,3,1,True
+ de pera,El Alquian,3,4,True
+ de pera,El Alquian,9,4,True
+Raf,Nijar,8,4,False
+rosa,Nijar,3,4,True
+ de pera,Campohermoso,1,2,False
+bola,Nijar,1,2,False
+kumato,Campohermoso,4,4,True
+ de pera,Nijar,7,3,False
+verde,Nijar,3,4,False
+corazon de buey,Nijar,4,1,True
+verde,Nijar,5,3,True
+corazon de buey,Nijar,3,3,False
+cherry,La Mojonera,3,4,False
+verde,La Mojonera,1,3,False
+verde,Nijar,8,3,False
+verde,Campohermoso,5,1,False
+kumato,El Ejido,8,3,False
+verde,Campohermoso,6,1,True
+rosa,El Ejido,10,1,False
+bola,El Ejido,10,3,False
+bola,El Ejido,10,4,True
+verde,Campohermoso,1,4,True
+corazon de buey,El Ejido,5,4,True
+rosa,El Alquian,5,2,False
+Raf,El Ejido,1,2,True
+Raf,La Mojonera,10,2,True
+verde,Nijar,6,4,True
+kumato,Nijar,8,3,True
+verde,El Alquian,6,1,True
+bola,La Mojonera,7,2,False
+kumato,La Mojonera,8,3,True
+ de pera,Campohermoso,1,2,True
+cherry,Nijar,10,2,False
+verde,La Mojonera,10,3,False
+ de pera,La Mojonera,5,4,True
+corazon de buey,El Ejido,2,4,True
+corazon de buey,Nijar,1,3,True
+ de pera,El Ejido,7,1,True
+kumato,Campohermoso,8,2,False
+verde,Campohermoso,2,1,True
+Raf,Nijar,7,2,False
+corazon de buey,La Mojonera,2,1,False
+bola,El Ejido,8,4,True
+verde,Campohermoso,2,1,False
+Raf,El Ejido,5,2,False
+kumato,La Mojonera,5,4,False
+bola,Nijar,7,1,False
+corazon de buey,La Mojonera,6,1,False
+corazon de buey,Campohermoso,9,1,False
+ de pera,El Alquian,2,2,True
+corazon de buey,El Alquian,7,2,True
+kumato,El Alquian,3,2,False
+corazon de buey,Nijar,9,1,False
+verde,Campohermoso,8,4,True
+kumato,Campohermoso,10,1,True
+ de pera,Campohermoso,8,2,False
+rosa,La Mojonera,9,4,True
+ de pera,El Alquian,3,1,True
+bola,El Alquian,7,3,True
+Raf,El Ejido,2,2,True
+kumato,Nijar,7,1,True
+ de pera,Nijar,3,1,False
+verde,El Alquian,1,1,True
+cherry,La Mojonera,4,3,True
+bola,La Mojonera,7,2,True
+ de pera,El Ejido,7,1,True
+verde,La Mojonera,1,3,True
+kumato,El Alquian,5,4,True
+verde,Nijar,5,1,False
+corazon de buey,El Alquian,10,2,True
+ de pera,El Alquian,2,4,False
+kumato,Nijar,2,1,True
+rosa,Nijar,1,2,False
+corazon de buey,El Alquian,6,1,True
+kumato,La Mojonera,10,3,True
+bola,Nijar,1,2,True
+kumato,El Alquian,5,2,True
+bola,Nijar,8,4,True
+verde,La Mojonera,9,3,True
+Raf,Nijar,4,4,True
+ de pera,La Mojonera,8,3,False
+corazon de buey,Campohermoso,10,1,False
+Raf,El Ejido,2,1,False
+corazon de buey,La Mojonera,1,1,False
+Raf,El Ejido,3,3,False
+verde,Campohermoso,3,1,True
+verde,La Mojonera,10,3,True
+kumato,El Alquian,3,4,True
+kumato,La Mojonera,9,1,False
+kumato,El Alquian,2,2,True
+corazon de buey,Nijar,7,1,False
+verde,La Mojonera,10,1,False
+corazon de buey,La Mojonera,3,3,False
+bola,Nijar,5,2,True
+ de pera,Campohermoso,9,1,False
+ de pera,Campohermoso,2,4,False
+corazon de buey,Nijar,2,1,True
+cherry,El Alquian,6,2,False
+Raf,El Ejido,8,1,False
+bola,El Ejido,4,1,True
+kumato,La Mojonera,4,3,False
+cherry,El Ejido,1,2,False
+corazon de buey,El Ejido,10,3,True
+Raf,El Ejido,5,3,True
+kumato,Nijar,9,1,False
+corazon de buey,La Mojonera,7,4,True
+cherry,El Alquian,10,2,False
+bola,El Ejido,6,3,False
+cherry,Campohermoso,4,3,False
+Raf,Campohermoso,5,2,False
+Raf,El Ejido,2,4,False
+corazon de buey,Nijar,9,3,False
+verde,Nijar,1,3,False
+bola,El Ejido,1,1,True
+Raf,La Mojonera,2,2,True
+kumato,La Mojonera,1,4,False
+verde,La Mojonera,4,4,True
+corazon de buey,Campohermoso,5,4,True
+rosa,El Ejido,8,3,True
+rosa,El Ejido,10,4,False
+kumato,La Mojonera,4,3,True
+verde,El Ejido,7,3,False
+Raf,Campohermoso,3,4,True
+corazon de buey,La Mojonera,1,2,True
+rosa,El Ejido,3,4,True
+cherry,Campohermoso,4,2,False
+corazon de buey,El Ejido,2,4,True
+bola,Nijar,8,2,True
+Raf,El Ejido,5,2,False
+kumato,Campohermoso,7,4,False
+ de pera,Campohermoso,3,3,False
+ de pera,La Mojonera,5,2,False
+bola,Nijar,1,4,True
+corazon de buey,El Ejido,7,3,True
+bola,Nijar,2,1,True
+ de pera,Nijar,8,1,False
+rosa,La Mojonera,7,1,False
+bola,Campohermoso,3,1,True
+corazon de buey,Nijar,7,3,True
+cherry,La Mojonera,4,4,True
+cherry,La Mojonera,9,4,False
+verde,El Ejido,9,4,True
+ de pera,El Alquian,5,4,False
+kumato,Nijar,5,2,True
+kumato,El Ejido,6,3,True
+cherry,El Ejido,9,3,True
+corazon de buey,La Mojonera,7,4,False
+kumato,El Alquian,9,3,False
+rosa,El Alquian,5,3,False
+corazon de buey,La Mojonera,10,1,True
+corazon de buey,El Alquian,3,2,True
+kumato,El Alquian,4,3,False
+ de pera,Nijar,10,1,True
+kumato,El Ejido,4,4,False
+cherry,La Mojonera,2,4,True
+Raf,El Alquian,7,3,False
+Raf,El Ejido,2,3,True
+cherry,La Mojonera,9,2,False
+verde,Campohermoso,10,1,False
+kumato,El Ejido,3,3,False
+rosa,El Ejido,5,4,False
+cherry,La Mojonera,4,2,False
+rosa,La Mojonera,1,3,False
+bola,Nijar,9,1,True
+rosa,El Ejido,6,4,False
+corazon de buey,Campohermoso,10,2,True
+verde,La Mojonera,9,4,True
+cherry,Nijar,3,4,True
+cherry,El Ejido,5,4,True
+kumato,La Mojonera,1,1,False
+kumato,Nijar,2,3,False
+Raf,La Mojonera,1,1,True
+ de pera,Nijar,7,4,True
+kumato,Campohermoso,6,3,False
+corazon de buey,Campohermoso,1,3,False
+cherry,El Ejido,6,3,False
+kumato,Campohermoso,5,1,False
+corazon de buey,El Alquian,6,2,False
+bola,El Ejido,7,1,False
+cherry,El Ejido,4,1,True
+bola,La Mojonera,2,1,False
+Raf,El Alquian,7,3,False
+corazon de buey,Nijar,9,2,True
+kumato,Nijar,3,1,False
+verde,El Alquian,2,4,True
+bola,El Alquian,5,2,True
+rosa,Campohermoso,7,3,False
+ de pera,El Alquian,5,3,False
+Raf,El Ejido,10,2,False
+rosa,El Alquian,7,1,False
+corazon de buey,La Mojonera,8,2,True
+cherry,Nijar,1,3,True
+Raf,El Ejido,10,4,True
+Raf,La Mojonera,10,2,False
+ de pera,El Ejido,7,2,False
+cherry,La Mojonera,4,2,True
+kumato,La Mojonera,2,1,False
+verde,Nijar,6,1,True
+cherry,El Alquian,4,4,True
+rosa,El Alquian,3,4,True
+corazon de buey,Nijar,6,3,False
+rosa,Nijar,8,4,False
+ de pera,Nijar,1,4,True
+Raf,La Mojonera,8,4,False
+bola,Campohermoso,6,2,True
+corazon de buey,Nijar,7,1,True
+ de pera,El Ejido,10,3,False
+bola,Nijar,7,4,True
+ de pera,Campohermoso,4,2,True
+rosa,Nijar,10,1,False
+rosa,Campohermoso,6,2,False
+verde,La Mojonera,4,1,True
+Raf,El Alquian,1,1,False
+cherry,La Mojonera,1,1,False
+ de pera,La Mojonera,4,4,True
+verde,El Ejido,9,4,True
+cherry,El Alquian,1,4,False
+verde,Nijar,10,2,False
+kumato,Nijar,5,2,True
+Raf,La Mojonera,9,1,True
+ de pera,El Alquian,2,2,True
+verde,El Alquian,3,4,True
+verde,El Ejido,7,3,False
+Raf,Nijar,5,4,True
+verde,El Ejido,7,2,False
+bola,El Ejido,6,2,False
+ de pera,El Ejido,10,3,False
+Raf,El Ejido,4,2,False
+corazon de buey,El Alquian,2,1,True
+Raf,La Mojonera,2,4,False
+rosa,Nijar,7,4,False
+bola,El Ejido,3,2,True
+Raf,El Alquian,7,3,True
+Raf,Campohermoso,2,2,True
+rosa,El Ejido,1,1,True
+ de pera,El Alquian,5,4,False
+cherry,Nijar,9,4,False
+cherry,El Ejido,7,2,True
+Raf,Campohermoso,1,4,True
+rosa,El Alquian,1,3,True
+corazon de buey,Nijar,5,3,False
+ de pera,Campohermoso,8,1,True
+cherry,Campohermoso,3,4,True
+corazon de buey,El Ejido,1,4,False
+ de pera,La Mojonera,7,1,True
+bola,La Mojonera,3,2,False
+verde,La Mojonera,10,4,True
+cherry,El Alquian,5,3,True
+verde,La Mojonera,10,3,True
+ de pera,El Ejido,4,2,False
+bola,El Ejido,10,3,False
+Raf,La Mojonera,8,4,False
+Raf,El Ejido,9,2,True
+corazon de buey,La Mojonera,7,2,True
+rosa,Campohermoso,10,4,False
+rosa,La Mojonera,3,2,False
+cherry,Campohermoso,4,4,False
+rosa,Campohermoso,2,4,False
+verde,Campohermoso,2,1,False
+Raf,El Ejido,5,2,True
+bola,La Mojonera,4,1,True
+ de pera,El Ejido,7,2,False
+Raf,La Mojonera,4,1,True
+Raf,El Ejido,7,1,True
+ de pera,El Ejido,5,2,True
+cherry,El Alquian,8,3,True
+cherry,Campohermoso,3,2,False
+rosa,La Mojonera,2,1,True
+ de pera,Nijar,10,1,True
+ de pera,Nijar,6,1,True
+verde,El Alquian,1,3,True
+Raf,El Ejido,6,4,True
+verde,Campohermoso,4,3,True
+verde,La Mojonera,9,1,True
+verde,Campohermoso,4,4,False
+ de pera,El Ejido,4,1,True
+Raf,El Ejido,8,4,True
+Raf,Campohermoso,8,4,False
+rosa,El Alquian,6,2,False
+verde,El Alquian,6,4,True
+rosa,El Alquian,8,3,False
+bola,La Mojonera,1,1,False
+rosa,Nijar,8,4,True
+rosa,El Ejido,1,4,True
+cherry,Campohermoso,5,3,False
+verde,Campohermoso,9,1,False
+Raf,La Mojonera,3,1,False
+bola,Campohermoso,9,1,False
+ de pera,Nijar,1,4,False
+ de pera,El Alquian,1,4,False
+ de pera,El Ejido,2,4,False
+cherry,Campohermoso,3,4,True
+kumato,Campohermoso,3,4,True
+bola,Campohermoso,1,4,False
+bola,La Mojonera,7,2,False
+rosa,El Alquian,7,2,False
+rosa,La Mojonera,6,4,True
+ de pera,Nijar,1,3,False
+kumato,El Ejido,3,3,True
+ de pera,El Ejido,1,2,True
+Raf,Campohermoso,3,3,False
+rosa,El Alquian,10,3,True
+bola,La Mojonera,3,2,False
+kumato,El Alquian,8,1,False
+verde,La Mojonera,7,4,True
+corazon de buey,El Ejido,4,4,False
+cherry,La Mojonera,2,4,False
+corazon de buey,La Mojonera,9,4,True
+cherry,La Mojonera,6,3,False
+cherry,El Alquian,5,2,False
+verde,El Alquian,8,4,True
+Raf,El Alquian,10,4,True
+rosa,Nijar,1,4,True
+verde,Campohermoso,5,1,True
+corazon de buey,Campohermoso,4,4,False
+bola,La Mojonera,6,1,False
+bola,La Mojonera,10,3,False
+kumato,El Ejido,4,3,True
+corazon de buey,El Alquian,6,3,True
+kumato,El Ejido,5,2,False
+Raf,Campohermoso,8,2,True
+corazon de buey,El Ejido,1,2,True
+bola,Nijar,8,1,True
+corazon de buey,La Mojonera,7,1,True
+ de pera,La Mojonera,9,4,False
+cherry,El Alquian,7,1,False
+rosa,La Mojonera,5,1,False
+corazon de buey,La Mojonera,10,1,False
+verde,Campohermoso,10,4,True
+kumato,La Mojonera,2,3,True
+kumato,Nijar,4,4,True
+corazon de buey,Campohermoso,4,3,False
+kumato,Nijar,6,4,True
+kumato,Campohermoso,10,4,False
+ de pera,El Ejido,5,1,False
+bola,Campohermoso,4,2,True
+bola,Nijar,5,1,True
+kumato,El Ejido,3,4,True
+Raf,Nijar,9,1,False
+verde,Campohermoso,8,1,False
+bola,Nijar,1,4,True
+ de pera,El Alquian,8,2,True
+corazon de buey,Nijar,10,4,True
+corazon de buey,La Mojonera,4,3,False
+bola,Nijar,8,1,True
+cherry,El Ejido,4,1,False
+verde,El Alquian,6,1,True
+corazon de buey,Campohermoso,2,2,True
+rosa,Campohermoso,8,4,True
+kumato,Campohermoso,2,3,False
+Raf,La Mojonera,4,2,False
+ de pera,El Ejido,3,2,True
+corazon de buey,El Alquian,10,1,False
+verde,Nijar,9,3,True
+cherry,El Alquian,10,2,False
+Raf,Campohermoso,2,4,False
+cherry,Nijar,10,1,False
+Raf,Campohermoso,6,4,True
+kumato,El Ejido,7,2,True
+corazon de buey,El Alquian,10,2,False
+corazon de buey,El Ejido,3,4,True
+cherry,El Ejido,8,3,True
+kumato,Campohermoso,2,2,True
+corazon de buey,Nijar,1,4,False
+verde,El Ejido,10,3,False
+cherry,Nijar,2,3,False
+ de pera,El Ejido,3,4,True
+Raf,El Ejido,4,1,True
+corazon de buey,Nijar,6,3,True
+ de pera,Campohermoso,7,4,False
+corazon de buey,Nijar,6,4,False
+corazon de buey,La Mojonera,1,3,True
+cherry,Nijar,4,1,True
+bola,Nijar,3,3,True
+rosa,Nijar,7,3,True
+bola,Nijar,4,3,True
+corazon de buey,El Ejido,2,3,False
+cherry,Nijar,1,2,False
+rosa,El Ejido,3,3,True
+Raf,Nijar,4,1,True
+bola,Campohermoso,10,1,False
+ de pera,El Ejido,5,3,True
+kumato,Nijar,9,1,True
+ de pera,El Ejido,6,3,False
+verde,La Mojonera,8,1,True
+ de pera,La Mojonera,4,4,True
+rosa,El Ejido,7,3,False
+Raf,Campohermoso,4,2,True
+kumato,El Alquian,3,4,True
+cherry,El Alquian,5,3,False
+corazon de buey,Nijar,4,1,False
+Raf,El Ejido,5,1,True
+Raf,La Mojonera,5,4,True
+verde,Nijar,10,2,False
+cherry,El Alquian,9,4,False
+ de pera,La Mojonera,10,2,True
+rosa,El Ejido,3,1,False
+verde,Nijar,5,3,False
+rosa,El Alquian,2,1,False
+cherry,Campohermoso,3,1,False
+Raf,Nijar,10,4,False
+kumato,El Ejido,6,4,True
+verde,La Mojonera,2,2,True
+cherry,Nijar,4,4,False
+cherry,Nijar,5,1,False
+verde,El Ejido,3,3,False
+cherry,Nijar,4,1,True
+corazon de buey,Nijar,2,1,False
+bola,Campohermoso,1,2,True
+kumato,Nijar,8,2,False
+kumato,Nijar,3,1,True
+rosa,Campohermoso,2,2,False
+ de pera,Nijar,10,4,True
+ de pera,El Ejido,3,3,True
+rosa,El Ejido,8,3,True
+kumato,El Ejido,6,1,True
+bola,El Ejido,7,1,False
+ de pera,El Ejido,6,3,False
+corazon de buey,Campohermoso,2,4,True
+rosa,Nijar,6,2,True
+rosa,Nijar,2,2,True
+kumato,Nijar,8,2,True
+bola,El Alquian,3,4,False
+verde,Nijar,8,3,True
+ de pera,Nijar,1,2,False
+rosa,El Ejido,5,1,False
+cherry,El Ejido,8,2,False
+corazon de buey,El Ejido,5,4,False
+verde,El Ejido,10,4,True
+rosa,El Ejido,7,2,True
+bola,El Alquian,6,2,False
+corazon de buey,Nijar,1,4,True
+corazon de buey,Campohermoso,2,3,True
+ de pera,La Mojonera,3,1,False
+ de pera,La Mojonera,1,2,True
+cherry,Nijar,3,2,True
+kumato,El Alquian,1,4,True
+kumato,Nijar,7,1,False
+cherry,Campohermoso,8,2,False
+ de pera,Campohermoso,4,1,False
+rosa,Campohermoso,10,2,True
+rosa,La Mojonera,4,1,False
+Raf,El Ejido,6,2,True
+Raf,El Alquian,10,2,False
+bola,Nijar,4,3,True
+cherry,Nijar,4,4,True
+rosa,La Mojonera,3,1,False
+kumato,Campohermoso,4,4,True
+Raf,El Ejido,5,1,False
+bola,El Alquian,3,3,False
+kumato,El Alquian,5,3,False
+ de pera,Campohermoso,3,3,False
+ de pera,El Ejido,8,4,True
+cherry,El Ejido,9,4,True
+rosa,La Mojonera,7,2,True
+verde,Nijar,6,1,False
+verde,El Ejido,7,2,True
+verde,El Ejido,3,4,False
+Raf,El Alquian,7,3,True
+ de pera,La Mojonera,7,3,True
+bola,Nijar,8,2,False
+bola,La Mojonera,5,3,True
+Raf,El Alquian,3,3,True
+verde,Campohermoso,10,4,False
+bola,La Mojonera,1,4,True
+bola,La Mojonera,3,3,False
+kumato,El Ejido,6,3,False
+corazon de buey,Campohermoso,10,4,True
+Raf,La Mojonera,3,3,False
+verde,Nijar,3,2,False
+cherry,El Alquian,9,4,False
+cherry,La Mojonera,9,2,False
+rosa,La Mojonera,8,3,False
+verde,El Alquian,7,1,False
+verde,Nijar,10,4,True
+bola,El Ejido,7,2,True
+verde,Nijar,8,2,False
+cherry,La Mojonera,4,1,False
+Raf,El Ejido,1,3,False
+rosa,El Ejido,8,2,False
+Raf,Nijar,8,3,True
+cherry,La Mojonera,3,2,True
+cherry,Campohermoso,5,2,True
+corazon de buey,El Ejido,2,3,False
+cherry,El Alquian,9,4,False
+cherry,El Alquian,7,3,False
+bola,El Alquian,9,4,False
+bola,El Ejido,9,1,False
+rosa,Campohermoso,10,4,True
+Raf,Nijar,8,3,False
+verde,La Mojonera,4,3,True
+ de pera,La Mojonera,4,1,True
+bola,El Ejido,1,2,True
+kumato,El Ejido,1,3,False
+rosa,El Alquian,7,1,False
+bola,Nijar,3,1,False
+kumato,El Ejido,5,4,True
+cherry,El Ejido,1,1,False
+bola,Campohermoso,9,1,True
+bola,El Ejido,8,4,False
+rosa,La Mojonera,5,4,True
+corazon de buey,Campohermoso,6,3,True
+ de pera,El Alquian,1,4,False
+corazon de buey,El Ejido,6,3,False
+kumato,La Mojonera,3,2,True
+corazon de buey,El Alquian,3,2,False
+cherry,El Alquian,4,1,False
+rosa,La Mojonera,9,1,False
+ de pera,El Ejido,3,1,True
+rosa,El Alquian,2,2,False
+kumato,El Ejido,2,2,True
+corazon de buey,El Alquian,1,2,True
+Raf,Campohermoso,3,1,False
+rosa,Campohermoso,8,3,False
+kumato,Nijar,2,2,True
+bola,El Ejido,5,1,True
+kumato,El Ejido,9,1,True
+cherry,Nijar,2,3,True
+Raf,Nijar,5,3,True
+kumato,Campohermoso,10,1,False
+corazon de buey,El Alquian,2,2,False
+bola,Campohermoso,6,3,False
+kumato,Nijar,10,3,False
+cherry,Nijar,6,1,False
+corazon de buey,El Ejido,4,1,False
+rosa,La Mojonera,2,3,True
+bola,El Alquian,5,1,False
+Raf,El Ejido,8,4,True
+Raf,La Mojonera,9,1,False
+Raf,Nijar,6,2,False
+bola,Nijar,3,1,True
+kumato,El Ejido,7,4,True
+verde,Nijar,6,1,False
+verde,El Alquian,5,1,True
+bola,Campohermoso,10,3,False
+verde,La Mojonera,1,4,False
+cherry,La Mojonera,3,4,True
+rosa,La Mojonera,6,3,False
+rosa,El Alquian,1,1,True
+corazon de buey,Campohermoso,10,2,False
+ de pera,Nijar,1,2,True
+ de pera,Nijar,7,3,False
+ de pera,Campohermoso,6,4,True
+Raf,El Ejido,4,1,True
+cherry,La Mojonera,3,2,True
+kumato,Nijar,9,3,True
+bola,La Mojonera,1,2,False
+Raf,La Mojonera,2,4,False
+rosa,El Alquian,10,1,True
+kumato,El Ejido,4,4,True
+kumato,El Alquian,6,1,False
+rosa,Nijar,4,1,True
+rosa,La Mojonera,3,2,True
+cherry,El Alquian,9,4,True
+cherry,El Alquian,2,3,True
+rosa,Nijar,7,3,True
+kumato,El Alquian,8,4,False
+bola,El Alquian,10,3,False
+rosa,El Alquian,8,3,False
+ de pera,La Mojonera,10,2,False
+ de pera,El Ejido,6,4,True
+corazon de buey,Campohermoso,8,4,False
+bola,El Alquian,9,3,True
+ de pera,El Alquian,10,4,False
+cherry,El Alquian,10,2,True
+ de pera,Nijar,7,2,False
+Raf,El Alquian,9,1,True
+cherry,El Alquian,10,1,False
+verde,Nijar,1,2,True
+kumato,Nijar,8,1,True
+rosa,La Mojonera,8,3,True
+cherry,La Mojonera,1,1,True
+verde,Campohermoso,10,2,False
+corazon de buey,La Mojonera,4,1,False
+cherry,El Alquian,1,1,False
+ de pera,Nijar,4,3,True
+kumato,La Mojonera,4,1,True
+corazon de buey,El Ejido,5,4,True
+bola,El Ejido,7,1,True
+bola,Nijar,7,2,False
+cherry,Campohermoso,6,1,True
+Raf,El Alquian,4,1,False
+corazon de buey,El Ejido,8,1,True
+kumato,Nijar,4,2,True
+bola,El Alquian,9,1,False
+ de pera,Nijar,7,4,True
+rosa,La Mojonera,10,2,True
+ de pera,El Alquian,2,2,True
+bola,El Ejido,4,2,False
+rosa,El Alquian,2,4,True
+bola,El Alquian,4,2,True
+cherry,Nijar,7,1,False
+Raf,El Alquian,3,2,True
+rosa,La Mojonera,2,3,False
+bola,El Alquian,10,1,True
+Raf,Campohermoso,1,1,True
+cherry,El Alquian,7,4,False
+verde,Campohermoso,2,1,True
+kumato,El Ejido,6,4,True
+bola,Campohermoso,7,4,True
+verde,El Alquian,3,3,False
+corazon de buey,El Alquian,3,1,False
+kumato,Nijar,4,2,False
+verde,Campohermoso,3,1,True
+kumato,El Alquian,7,2,True
+bola,Nijar,7,4,False
+bola,Nijar,8,3,True
+Raf,El Ejido,7,1,False
+rosa,La Mojonera,4,4,True
+bola,El Ejido,5,1,False
+Raf,La Mojonera,4,2,True
+corazon de buey,El Ejido,5,1,False
+kumato,La Mojonera,9,2,False
+bola,Nijar,8,1,True
+kumato,El Alquian,7,4,False
+bola,La Mojonera,5,3,True
+ de pera,Campohermoso,9,3,False
+verde,Nijar,10,4,False
+verde,Nijar,8,1,True
+corazon de buey,El Alquian,8,4,True
+Raf,El Ejido,2,4,False
+bola,Nijar,5,4,True
+kumato,El Alquian,9,1,False
+corazon de buey,La Mojonera,5,1,True
+kumato,El Alquian,2,3,False
+Raf,Campohermoso,1,2,False
+corazon de buey,Campohermoso,7,3,False
+ de pera,El Alquian,4,1,False
+cherry,Nijar,8,3,True
+Raf,El Alquian,4,1,True
+cherry,El Ejido,7,3,True
+kumato,La Mojonera,6,3,False
+kumato,El Alquian,3,4,True
+bola,Nijar,6,2,False
+rosa,El Ejido,9,4,False
+kumato,Nijar,5,2,True
+bola,La Mojonera,7,3,True
+rosa,El Ejido,4,2,False
+bola,Nijar,10,4,True
+bola,La Mojonera,6,1,True
+ de pera,La Mojonera,10,4,True
+cherry,El Alquian,6,2,False
+rosa,Nijar,1,4,True
+verde,Nijar,7,4,False
+kumato,Nijar,1,1,False
+Raf,El Ejido,9,4,False
+ de pera,El Alquian,8,4,False
+corazon de buey,El Alquian,10,1,False
+ de pera,Campohermoso,5,2,True
+kumato,La Mojonera,2,4,True
+rosa,El Ejido,1,2,False
+kumato,Campohermoso,5,1,True
+verde,La Mojonera,3,1,False
+ de pera,Nijar,3,4,True
+cherry,Nijar,4,4,False
+kumato,El Ejido,1,1,False
+ de pera,El Ejido,3,3,True
+cherry,Nijar,10,3,True
+ de pera,El Ejido,4,1,True
+ de pera,La Mojonera,8,3,False
+ de pera,Campohermoso,1,3,True
+ de pera,Nijar,8,2,True
+kumato,El Alquian,2,1,True
+kumato,Nijar,1,1,False
+bola,El Alquian,2,4,True
+corazon de buey,El Ejido,6,1,False
+Raf,La Mojonera,4,3,False
+corazon de buey,El Alquian,2,3,False
+corazon de buey,La Mojonera,4,1,False
+kumato,Nijar,6,4,True
+rosa,La Mojonera,6,3,False
+kumato,La Mojonera,2,3,True
+rosa,El Alquian,5,2,True
+bola,El Ejido,5,1,False
+verde,El Alquian,2,4,False
+corazon de buey,El Alquian,2,1,False
+bola,El Ejido,1,2,True
+Raf,Campohermoso,7,1,True
+ de pera,Campohermoso,4,2,True
+cherry,La Mojonera,8,1,False
+cherry,La Mojonera,7,2,False
+rosa,El Alquian,7,3,True
+Raf,Nijar,1,1,True
+kumato,El Ejido,8,4,True
+rosa,El Ejido,5,2,True
+ de pera,Nijar,1,4,True
+rosa,Nijar,8,1,False
+kumato,El Ejido,7,1,False
+kumato,La Mojonera,8,2,True
+rosa,El Alquian,10,1,False
+rosa,El Alquian,8,1,True
+bola,El Ejido,2,1,True
+Raf,La Mojonera,9,4,False
+kumato,Campohermoso,7,1,True
+verde,Nijar,2,1,True
+corazon de buey,La Mojonera,3,3,False
+corazon de buey,El Alquian,4,1,True
+bola,La Mojonera,4,1,False
+bola,La Mojonera,10,1,False
+rosa,Nijar,9,2,False
+rosa,El Ejido,5,4,True
+corazon de buey,La Mojonera,10,4,False
+cherry,El Ejido,3,1,True
+cherry,Campohermoso,3,3,True
+bola,La Mojonera,6,1,False
+bola,Campohermoso,2,2,True
+cherry,La Mojonera,1,4,False
+rosa,La Mojonera,3,2,False
+bola,El Ejido,8,3,True
+corazon de buey,El Alquian,8,2,False
+cherry,La Mojonera,9,2,True
+Raf,El Ejido,5,3,True
+ de pera,Nijar,5,2,False
+kumato,Nijar,8,1,False
+Raf,El Ejido,10,1,True
+ de pera,El Alquian,4,4,False
+Raf,Campohermoso,10,4,False
+verde,El Alquian,3,2,False
+verde,Campohermoso,6,2,False
+ de pera,Nijar,1,2,False
+bola,La Mojonera,6,2,True
+ de pera,El Ejido,9,3,True
+rosa,La Mojonera,4,1,True
+corazon de buey,Campohermoso,6,4,True
+cherry,Nijar,6,3,True
+corazon de buey,La Mojonera,2,2,True
+rosa,Nijar,10,2,True
+corazon de buey,Campohermoso,9,2,False
+cherry,Campohermoso,8,2,False
+Raf,Campohermoso,9,2,True
+kumato,Nijar,4,1,False
+ de pera,Campohermoso,7,1,True
+corazon de buey,Campohermoso,8,2,False
+bola,Campohermoso,5,3,True
+cherry,El Ejido,9,3,True
+ de pera,El Alquian,4,3,False
+Raf,La Mojonera,4,4,True
+verde,La Mojonera,3,2,True
+ de pera,Campohermoso,7,1,True
+corazon de buey,El Ejido,6,4,True
+corazon de buey,El Alquian,4,1,True
+kumato,Nijar,10,3,False
+rosa,Campohermoso,3,1,False
+verde,Campohermoso,4,2,True
+kumato,El Ejido,9,4,False
+bola,Campohermoso,3,3,False
+rosa,Nijar,10,4,False
+kumato,Nijar,2,1,False
+kumato,El Alquian,3,4,False
+kumato,El Alquian,9,3,True
+bola,La Mojonera,8,3,False
+bola,El Ejido,4,2,True
+bola,El Alquian,4,1,True
+corazon de buey,La Mojonera,5,4,False
+ de pera,El Ejido,4,1,True
+corazon de buey,La Mojonera,6,4,True
+bola,Campohermoso,2,1,False
+ de pera,Campohermoso,9,3,True
+kumato,El Alquian,10,2,True
+bola,Nijar,10,4,False
+verde,El Ejido,2,3,False
+verde,Nijar,5,4,False
+cherry,La Mojonera,2,4,False
+Raf,Campohermoso,2,2,False
+verde,El Ejido,10,2,True
+Raf,La Mojonera,6,4,True
+verde,El Alquian,4,1,True
+rosa,El Alquian,3,1,False
+Raf,El Ejido,8,1,False
+Raf,El Alquian,1,3,False
+verde,Nijar,4,2,False
+bola,Campohermoso,6,1,False
+ de pera,Nijar,2,2,True
+kumato,Nijar,1,4,False
+Raf,El Ejido,10,2,False
+cherry,La Mojonera,1,1,True
+cherry,El Ejido,7,2,False
+rosa,Campohermoso,5,4,False
+rosa,El Alquian,5,2,False
+cherry,La Mojonera,4,1,True
+bola,La Mojonera,2,2,True
+cherry,El Ejido,8,4,False
+kumato,El Ejido,1,3,True
+cherry,El Ejido,9,4,False
+kumato,El Ejido,3,2,True
+cherry,La Mojonera,4,1,True
+cherry,La Mojonera,2,3,False
+rosa,El Alquian,7,3,False
+kumato,El Ejido,3,1,False
+cherry,El Ejido,1,3,False
+corazon de buey,La Mojonera,7,1,True
+verde,Nijar,1,4,True
+cherry,La Mojonera,10,4,False
+kumato,El Alquian,9,4,False
+Raf,Campohermoso,5,4,True
+corazon de buey,Nijar,7,4,True
+verde,Campohermoso,3,2,False
+cherry,Nijar,6,4,True
+cherry,El Ejido,2,3,False
+cherry,Campohermoso,9,1,True
+verde,Nijar,8,4,True
+cherry,Campohermoso,8,3,True
+ de pera,Campohermoso,8,2,False
+rosa,El Ejido,2,4,True
+Raf,La Mojonera,7,3,True
+bola,El Ejido,1,3,True
+Raf,Campohermoso,2,3,False
+Raf,La Mojonera,7,4,True
+ de pera,El Ejido,2,2,True
+rosa,Campohermoso,10,3,True
+corazon de buey,Campohermoso,2,2,False
+cherry,Nijar,7,1,False
+bola,El Alquian,9,2,True
+bola,El Ejido,7,3,False
+kumato,El Alquian,7,1,True
+ de pera,El Ejido,10,4,True
+kumato,El Alquian,7,3,False
+bola,El Alquian,9,1,True
+Raf,Nijar,9,1,True
+Raf,El Alquian,3,2,False
+ de pera,Campohermoso,10,2,True
+cherry,Nijar,1,3,True
+bola,Nijar,2,3,True
+corazon de buey,La Mojonera,10,1,True
+Raf,El Ejido,3,2,True
+corazon de buey,El Alquian,5,1,True
+rosa,Campohermoso,7,4,False
+Raf,Nijar,4,2,True
+cherry,Campohermoso,6,1,True
+ de pera,El Ejido,2,4,False
+corazon de buey,Campohermoso,5,2,True
+kumato,La Mojonera,6,4,True
+Raf,El Ejido,10,3,False
+verde,La Mojonera,9,1,True
+bola,Campohermoso,2,1,True
+bola,Campohermoso,6,3,False
+Raf,El Alquian,2,2,True
+rosa,Campohermoso,2,2,False
+kumato,El Alquian,10,4,False
+cherry,Nijar,6,2,True
+cherry,El Ejido,4,3,False
+verde,Campohermoso,10,3,False
+ de pera,El Ejido,7,4,False
+verde,Campohermoso,7,4,True
+rosa,Campohermoso,6,3,False
+rosa,El Ejido,6,4,False
+ de pera,Nijar,3,4,False
+kumato,La Mojonera,2,4,True
+cherry,Campohermoso,3,2,False
+ de pera,El Alquian,4,3,True
+verde,Nijar,2,4,True
+verde,El Ejido,3,4,True
+kumato,El Ejido,5,1,False
+bola,La Mojonera,2,3,False
+ de pera,El Alquian,5,1,True
+corazon de buey,El Ejido,7,4,True
+bola,Nijar,8,1,True
+Raf,El Ejido,10,1,False
+bola,La Mojonera,5,1,False
+rosa,El Ejido,10,2,False
+Raf,El Ejido,2,2,False
+Raf,El Ejido,4,1,True
+bola,El Alquian,3,2,False
+rosa,El Alquian,2,3,False
+Raf,Campohermoso,5,2,False
+kumato,El Ejido,5,3,False
+ de pera,Nijar,3,1,False
+bola,El Ejido,2,1,False
+rosa,Campohermoso,5,1,True
+cherry,Nijar,4,1,True
+verde,Nijar,3,1,True
+ de pera,El Alquian,4,2,True
+bola,El Ejido,9,1,True
+verde,Nijar,9,1,False
+cherry,Campohermoso,1,4,False
+bola,El Ejido,10,2,False
+bola,Campohermoso,9,4,False
+rosa,Nijar,10,2,True
+rosa,La Mojonera,7,4,True
+cherry,Nijar,7,2,False
+Raf,Campohermoso,10,3,True
+corazon de buey,El Ejido,10,1,False
+verde,La Mojonera,3,4,False
+rosa,Campohermoso,10,1,True
+Raf,La Mojonera,2,2,True
+bola,El Ejido,5,3,True
+rosa,La Mojonera,1,3,False
+Raf,El Alquian,7,4,True
+ de pera,Campohermoso,9,3,False
+cherry,El Ejido,7,4,True
+rosa,Campohermoso,1,4,False
+corazon de buey,Nijar,5,2,False
+corazon de buey,El Ejido,7,3,True
+bola,Nijar,9,3,False
+Raf,Nijar,7,2,False
+Raf,El Ejido,2,3,True
+bola,Nijar,2,2,False
+kumato,El Ejido,4,2,True
+ de pera,La Mojonera,8,4,False
+cherry,El Alquian,3,3,True
+ de pera,Campohermoso,3,4,False
+cherry,El Ejido,3,1,True
+verde,El Ejido,8,4,True
+Raf,El Alquian,9,2,False
+ de pera,El Ejido,8,2,False
+cherry,El Ejido,1,3,False
+verde,Campohermoso,8,2,False
+verde,El Alquian,9,2,True
+cherry,Nijar,6,1,False
+bola,El Alquian,8,2,True
+corazon de buey,El Alquian,6,3,True
+Raf,El Alquian,1,2,False
+cherry,El Alquian,10,4,False
+Raf,Nijar,7,4,False
+cherry,Campohermoso,1,2,False
+Raf,El Alquian,7,2,True
+bola,Nijar,3,3,True
+ de pera,Nijar,2,2,True
+ de pera,La Mojonera,10,4,True
+bola,El Ejido,8,3,True
+ de pera,El Alquian,7,4,False
+corazon de buey,Nijar,7,1,False
+bola,Campohermoso,7,4,True
+bola,Nijar,1,3,False
+corazon de buey,Campohermoso,9,2,True
+corazon de buey,El Ejido,3,4,False
+verde,Campohermoso,2,3,True
+corazon de buey,El Alquian,8,1,False
+verde,La Mojonera,1,1,True
+bola,El Alquian,4,1,False
+rosa,Nijar,3,4,False
+ de pera,Campohermoso,4,1,False
+Raf,La Mojonera,4,2,False
+ de pera,El Ejido,10,1,False
+rosa,El Alquian,6,2,False
+verde,La Mojonera,8,4,False
+kumato,La Mojonera,10,4,True
+cherry,El Alquian,5,4,True
+kumato,Campohermoso,5,1,True
+verde,La Mojonera,4,3,False
+kumato,El Alquian,3,4,False
+corazon de buey,El Alquian,3,3,False
+kumato,Nijar,10,3,False
+ de pera,La Mojonera,2,3,False
+cherry,La Mojonera,7,4,True
+rosa,Nijar,8,1,False
+verde,El Ejido,3,1,False
+kumato,La Mojonera,2,2,True
+Raf,Campohermoso,6,4,True
+verde,El Ejido,4,3,True
+corazon de buey,Nijar,1,2,True
+verde,Nijar,6,2,True
+corazon de buey,El Alquian,3,4,True
+kumato,El Ejido,6,2,False
+Raf,Campohermoso,9,2,False
+cherry,La Mojonera,2,1,False
+Raf,La Mojonera,6,2,False
+Raf,El Ejido,5,3,False
+Raf,La Mojonera,2,1,True
+cherry,Campohermoso,7,1,False
+kumato,El Ejido,10,3,False
+corazon de buey,Nijar,4,2,False
+ de pera,Campohermoso,2,1,False
+corazon de buey,Campohermoso,4,1,False
+ de pera,El Alquian,6,3,True
+verde,El Ejido,5,3,False
+bola,Nijar,9,3,False
+rosa,La Mojonera,4,2,False
+Raf,El Ejido,2,3,False
+cherry,Nijar,2,1,True
+rosa,El Ejido,5,4,False
+corazon de buey,El Alquian,5,4,False
+rosa,Nijar,6,1,False
+Raf,El Alquian,9,3,True
+rosa,La Mojonera,3,1,False
+kumato,El Alquian,1,2,True
+Raf,La Mojonera,4,2,False
+corazon de buey,Nijar,8,1,False
+bola,Nijar,3,2,False
+kumato,Nijar,5,4,False
+Raf,El Alquian,9,2,False
+Raf,La Mojonera,3,2,True
+cherry,El Alquian,10,3,True
+verde,El Alquian,3,3,True
+corazon de buey,Nijar,10,4,True
+rosa,La Mojonera,5,4,False
+rosa,Nijar,10,4,False
+ de pera,Nijar,1,1,True
+verde,El Ejido,10,1,True
+cherry,La Mojonera,6,3,False
+kumato,Campohermoso,1,1,False
+ de pera,El Alquian,7,3,False
+corazon de buey,El Alquian,6,2,False
+rosa,El Alquian,5,2,False
+cherry,El Ejido,5,3,True
+verde,El Alquian,10,3,False
+corazon de buey,La Mojonera,5,2,True
+Raf,La Mojonera,4,4,True
+verde,Campohermoso,1,4,True
+ de pera,Nijar,9,3,False
+corazon de buey,El Ejido,1,4,False
+kumato,Nijar,4,1,True
+verde,La Mojonera,3,1,True
+bola,El Alquian,10,1,False
+cherry,Campohermoso,1,3,False
+kumato,El Alquian,4,4,True
+Raf,Nijar,9,1,True
+bola,Nijar,1,4,False
+Raf,Nijar,5,1,False
+cherry,El Ejido,9,2,True
+Raf,La Mojonera,2,2,False
+Raf,El Alquian,10,1,False
+rosa,El Alquian,8,3,True
+kumato,Nijar,3,1,True
+cherry,La Mojonera,3,3,True
+kumato,Nijar,5,1,True
+corazon de buey,El Alquian,1,4,False
+bola,Nijar,10,3,True
+kumato,El Alquian,8,4,False
+Raf,Nijar,9,4,True
+kumato,Nijar,4,4,False
+ de pera,Campohermoso,7,3,False
+verde,El Ejido,5,2,False
+ de pera,Nijar,5,1,True
+cherry,La Mojonera,2,4,True
+Raf,La Mojonera,1,2,True
+cherry,Nijar,2,4,False
+kumato,La Mojonera,5,3,False
+ de pera,La Mojonera,3,2,True
+cherry,Campohermoso,10,2,True
+rosa,La Mojonera,1,3,False
+corazon de buey,El Ejido,1,4,True
+cherry,El Ejido,6,1,False
+kumato,Campohermoso,10,2,True
+ de pera,La Mojonera,5,1,False
+rosa,El Ejido,5,2,False
+corazon de buey,El Alquian,3,4,True
+Raf,El Alquian,6,3,True
+corazon de buey,El Ejido,3,2,True
+Raf,Campohermoso,3,3,True
+ de pera,Campohermoso,10,2,False
+corazon de buey,El Alquian,10,4,True
+kumato,El Ejido,5,4,True
+verde,El Alquian,4,3,False
+cherry,Nijar,2,1,False
+verde,Campohermoso,5,2,True
+bola,Nijar,9,4,True
+bola,Nijar,7,4,True
+verde,El Alquian,1,3,False
+rosa,El Alquian,7,4,True
+corazon de buey,Campohermoso,4,2,False
+kumato,Nijar,2,1,False
+corazon de buey,Campohermoso,4,2,False
+kumato,La Mojonera,6,1,True
+corazon de buey,Campohermoso,9,3,False
+bola,Campohermoso,1,1,False
+ de pera,El Alquian,1,1,True
+Raf,Campohermoso,4,4,False
+ de pera,El Alquian,5,3,True
+verde,La Mojonera,3,1,True
+bola,Campohermoso,2,3,True
+bola,La Mojonera,6,3,False
+rosa,La Mojonera,8,3,True
+bola,Nijar,5,2,False
+corazon de buey,El Alquian,2,2,True
+rosa,El Alquian,1,2,False
+verde,El Ejido,1,3,True
+ de pera,La Mojonera,3,2,False
+Raf,La Mojonera,4,4,False
+verde,La Mojonera,3,2,False
+Raf,La Mojonera,3,3,True
+corazon de buey,El Ejido,9,3,True
+Raf,El Ejido,4,4,True
+verde,El Alquian,8,4,True
+ de pera,El Ejido,9,1,False
+Raf,Campohermoso,7,2,False
+ de pera,Campohermoso,7,2,False
+kumato,Campohermoso,2,4,False
+ de pera,La Mojonera,7,2,False
+verde,El Ejido,3,2,False
+cherry,Nijar,1,4,False
+kumato,El Ejido,2,2,True
+verde,Nijar,4,1,True
+corazon de buey,El Alquian,2,3,True
+bola,Nijar,9,1,True
+Raf,Campohermoso,6,3,True
+corazon de buey,Campohermoso,9,4,False
+bola,El Ejido,1,2,False
+rosa,El Alquian,8,1,False
+ de pera,El Alquian,6,4,True
+kumato,El Alquian,9,1,False
+Raf,La Mojonera,1,1,False
+cherry,Campohermoso,7,4,False
+verde,El Alquian,1,4,True
+bola,El Ejido,1,3,True
+Raf,El Ejido,2,2,False
+kumato,El Ejido,10,3,False
+kumato,La Mojonera,3,3,True
+bola,El Alquian,6,4,False
+Raf,Campohermoso,4,2,False
+corazon de buey,La Mojonera,8,2,True
+verde,Nijar,4,2,False
+verde,Campohermoso,7,4,True
+kumato,El Ejido,4,4,True
+corazon de buey,La Mojonera,6,1,False
+rosa,La Mojonera,4,3,False
+Raf,El Alquian,3,2,False
+verde,El Ejido,9,4,True
+corazon de buey,Campohermoso,9,3,True
+kumato,El Alquian,3,3,True
+rosa,El Ejido,7,3,True
+cherry,Nijar,2,3,False
+bola,La Mojonera,9,1,True
+ de pera,Campohermoso,8,1,True
+Raf,El Ejido,5,2,True
+bola,Campohermoso,6,1,True
+Raf,Nijar,10,3,True
+corazon de buey,Campohermoso,10,2,False
+bola,La Mojonera,6,2,False
+rosa,Campohermoso,1,1,False
+kumato,El Ejido,8,1,False
+verde,Nijar,9,1,False
+cherry,La Mojonera,2,3,True
+corazon de buey,Campohermoso,2,4,False
+rosa,El Alquian,8,4,True
+cherry,El Ejido,10,4,True
+corazon de buey,Nijar,6,2,False
+rosa,Campohermoso,9,3,False
+cherry,Nijar,1,1,True
+verde,El Alquian,1,1,True
+bola,Campohermoso,2,2,False
+verde,Campohermoso,8,2,False
+cherry,Nijar,1,3,True
+kumato,Campohermoso,3,1,True
+ de pera,La Mojonera,6,1,True
+verde,El Ejido,5,4,False
+corazon de buey,El Alquian,1,2,False
+cherry,El Alquian,4,1,True
+kumato,Nijar,2,4,False
+rosa,Campohermoso,1,3,False
+verde,El Ejido,6,1,True
+cherry,Nijar,4,4,True
+rosa,Campohermoso,3,1,True
+kumato,Nijar,10,2,True
+ de pera,Nijar,10,3,True
+corazon de buey,Nijar,6,3,True
+verde,Campohermoso,1,3,False
+rosa,Nijar,4,2,True
+verde,El Ejido,8,4,True
+cherry,El Alquian,7,1,True
+cherry,Nijar,9,1,True
+kumato,El Ejido,5,1,False
+bola,Nijar,8,3,False
+kumato,Nijar,3,4,False
+kumato,El Alquian,2,1,True
+ de pera,El Alquian,10,4,False
+corazon de buey,La Mojonera,4,2,True
+Raf,El Ejido,5,3,True
+bola,La Mojonera,7,3,False
+ de pera,El Ejido,9,2,False
+rosa,Nijar,5,3,False
+corazon de buey,La Mojonera,1,1,False
+rosa,El Ejido,1,2,False
+ de pera,Campohermoso,3,2,True
+bola,El Alquian,6,2,True
+rosa,Nijar,1,3,False
+verde,Campohermoso,3,4,False
+bola,El Ejido,6,4,True
+kumato,Nijar,8,4,False
+ de pera,Nijar,8,3,False
+verde,Nijar,6,4,True
+cherry,El Alquian,10,4,False
+rosa,El Ejido,3,4,False
+cherry,El Alquian,4,2,True
+rosa,Campohermoso,9,3,True
+ de pera,El Alquian,4,2,True
+ de pera,Nijar,4,4,False
+verde,Nijar,2,2,False
+cherry,Campohermoso,3,2,False
+cherry,El Alquian,8,3,False
+Raf,Nijar,10,1,False
+corazon de buey,Campohermoso,7,4,True
+Raf,La Mojonera,5,1,False
+bola,Campohermoso,9,4,False
+verde,Nijar,7,2,True
+cherry,Nijar,8,1,True
+corazon de buey,El Alquian,3,1,True
+cherry,El Alquian,8,4,False
+ de pera,Campohermoso,8,1,False
+Raf,La Mojonera,7,2,True
+bola,Nijar,9,2,False
+cherry,El Ejido,6,4,False
+Raf,El Ejido,1,4,False
+verde,Campohermoso,10,3,False
+cherry,Campohermoso,2,4,False
+rosa,La Mojonera,10,4,True
+cherry,El Alquian,5,3,False
+corazon de buey,Nijar,4,2,False
+Raf,La Mojonera,2,1,True
+corazon de buey,La Mojonera,9,2,True
+ de pera,El Ejido,7,3,False
+corazon de buey,Campohermoso,9,1,True
+kumato,La Mojonera,5,1,True
+cherry,Nijar,3,1,False
+verde,El Alquian,5,4,True
+verde,Nijar,10,4,True
+verde,El Ejido,3,1,False
+rosa,Nijar,8,2,True
+rosa,Nijar,9,1,False
+ de pera,Nijar,9,3,True
+rosa,El Alquian,7,2,False
+corazon de buey,Campohermoso,9,4,True
+bola,El Ejido,2,4,False
+rosa,Nijar,2,1,True
+ de pera,El Alquian,5,2,True
+rosa,El Alquian,4,1,True
+cherry,El Ejido,8,4,False
+bola,Campohermoso,8,4,True
+rosa,Campohermoso,3,1,True
+verde,Campohermoso,2,3,True
+kumato,Nijar,1,4,False
+corazon de buey,La Mojonera,2,1,True
+Raf,El Alquian,5,4,False
+kumato,El Alquian,1,1,False
+bola,La Mojonera,2,1,False
+Raf,La Mojonera,8,3,True
+ de pera,El Alquian,4,4,False
+verde,Campohermoso,2,2,True
+verde,El Ejido,1,3,False
+cherry,La Mojonera,5,4,False
+rosa,El Alquian,8,1,False
+kumato,Nijar,6,1,True
+rosa,El Alquian,5,1,False
+cherry,El Alquian,9,1,True
+verde,El Alquian,6,4,False
+kumato,El Alquian,9,3,True
+ de pera,La Mojonera,8,3,False
+cherry,La Mojonera,8,2,False
+kumato,La Mojonera,3,2,False
+verde,El Alquian,4,3,False
+cherry,El Alquian,5,4,True
+bola,El Ejido,10,4,True
+corazon de buey,Nijar,1,4,False
+bola,Campohermoso,2,2,True
+Raf,Campohermoso,10,2,True
+verde,Campohermoso,8,2,True
+rosa,Nijar,5,4,True
+cherry,Nijar,9,4,False
+verde,Nijar,10,1,True
+verde,El Ejido,1,2,True
+corazon de buey,Nijar,6,4,True
+Raf,El Ejido,1,4,True
+Raf,La Mojonera,3,1,True
+corazon de buey,La Mojonera,4,1,False
+verde,Nijar,1,1,False
+kumato,La Mojonera,8,4,False
+cherry,Campohermoso,5,4,False
+kumato,La Mojonera,10,1,True
+Raf,El Alquian,2,1,True
+bola,Campohermoso,3,1,False
+rosa,La Mojonera,1,3,False
+corazon de buey,El Alquian,8,2,True
+ de pera,El Alquian,3,1,False
+cherry,El Alquian,8,1,True
+verde,La Mojonera,7,3,True
+kumato,Nijar,9,2,False
+cherry,El Ejido,2,1,True
+Raf,El Alquian,1,4,True
+rosa,El Ejido,9,3,False
+ de pera,El Ejido,8,2,True
+rosa,El Alquian,5,1,False
+rosa,La Mojonera,1,2,False
+corazon de buey,Campohermoso,1,1,True
+verde,El Ejido,9,3,True
+bola,El Alquian,8,1,True
+verde,El Ejido,2,3,False
+Raf,La Mojonera,9,1,True
+kumato,Campohermoso,5,3,False
+bola,La Mojonera,4,1,False
+Raf,Nijar,1,4,False
+Raf,Campohermoso,1,3,False
+corazon de buey,El Ejido,3,1,True
+cherry,Campohermoso,5,3,True
+bola,El Ejido,8,4,False
+ de pera,El Alquian,9,4,False
+ de pera,Campohermoso,3,2,True
+kumato,Nijar,8,1,True
+bola,El Alquian,2,3,True
+rosa,Campohermoso,2,1,True
+kumato,El Ejido,6,1,False
+ de pera,Campohermoso,2,3,False
+verde,Nijar,3,1,True
+Raf,Campohermoso,8,3,True
+kumato,El Alquian,8,4,True
+bola,Nijar,9,2,True
+ de pera,El Ejido,7,4,True
+ de pera,El Alquian,5,4,False
+bola,La Mojonera,9,1,True
+ de pera,El Alquian,7,3,True
+ de pera,El Ejido,3,3,True
+verde,Campohermoso,8,3,False
+Raf,La Mojonera,5,4,True
+rosa,Nijar,4,1,False
+rosa,El Ejido,3,3,False
+cherry,Nijar,10,2,False
+corazon de buey,Campohermoso,9,4,False
+cherry,El Alquian,6,2,True
+Raf,Nijar,10,1,True
+bola,La Mojonera,5,2,False
+kumato,Nijar,3,2,True
+rosa,El Ejido,2,2,False
+verde,El Ejido,3,1,True
+Raf,La Mojonera,6,1,True
+bola,Nijar,7,3,True
+corazon de buey,El Ejido,10,3,False
+bola,Campohermoso,10,4,True
+cherry,La Mojonera,10,2,False
+bola,La Mojonera,9,4,False
+rosa,Nijar,1,2,False
+kumato,El Alquian,9,2,False
+verde,Campohermoso,6,4,True
+Raf,La Mojonera,7,1,True
+cherry,Campohermoso,8,1,False
+rosa,El Ejido,5,2,True
+corazon de buey,Nijar,8,4,True
+corazon de buey,El Alquian,7,4,True
+rosa,La Mojonera,1,4,True
+corazon de buey,Campohermoso,9,1,True
+verde,El Alquian,9,3,False
+ de pera,El Ejido,10,1,False
+Raf,Campohermoso,9,2,True
+bola,El Ejido,5,4,False
+rosa,Nijar,7,1,True
+corazon de buey,Campohermoso,7,3,False
+corazon de buey,Nijar,7,2,True
+corazon de buey,El Alquian,5,1,False
+Raf,Nijar,5,4,False
+ de pera,Nijar,2,3,False
+Raf,Nijar,8,3,False
+ de pera,La Mojonera,9,3,True
+corazon de buey,Campohermoso,3,4,False
+kumato,Nijar,10,4,False
+bola,El Ejido,1,2,True
+cherry,Campohermoso,10,4,True
+kumato,La Mojonera,4,3,True
+verde,Campohermoso,1,3,False
+rosa,La Mojonera,9,3,False
+verde,Campohermoso,6,1,True
+Raf,Nijar,1,3,True
+rosa,Campohermoso,7,1,True
+rosa,Nijar,5,1,False
+verde,El Ejido,4,4,False
+rosa,Nijar,6,4,True
+kumato,Campohermoso,9,1,False
+rosa,Nijar,9,2,True
+verde,El Alquian,4,1,True
+rosa,La Mojonera,9,4,False
+cherry,Campohermoso,10,1,True
+corazon de buey,El Alquian,6,2,False
+verde,Nijar,1,3,True
+bola,El Alquian,8,3,False
+ de pera,Campohermoso,7,2,True
+cherry,El Ejido,2,2,False
+corazon de buey,La Mojonera,8,2,False
+rosa,Campohermoso,9,4,True
+bola,La Mojonera,5,1,False
+rosa,El Alquian,10,1,False
+cherry,Campohermoso,5,2,False
+kumato,El Ejido,3,3,True
+cherry,El Ejido,4,4,True
+corazon de buey,El Ejido,8,3,False
+corazon de buey,Campohermoso,4,4,False
+ de pera,El Alquian,10,1,True
+bola,El Alquian,5,3,False
+rosa,Campohermoso,4,2,False
+bola,El Ejido,6,4,True
+bola,La Mojonera,8,3,True
+corazon de buey,El Alquian,3,1,False
+corazon de buey,El Ejido,10,1,True
+ de pera,El Ejido,10,1,True
+rosa,El Alquian,4,3,False
+Raf,Nijar,9,3,False
+bola,El Ejido,9,2,False
+verde,Nijar,10,2,False
+cherry,El Alquian,4,3,True
+kumato,El Ejido,2,1,True
+Raf,Campohermoso,7,2,True
+Raf,El Ejido,9,4,True
+rosa,Campohermoso,3,4,True
+rosa,La Mojonera,7,1,False
+corazon de buey,Campohermoso,2,1,True
+Raf,Campohermoso,4,1,True
+verde,Nijar,8,3,True
+bola,Campohermoso,1,4,True
+kumato,El Ejido,10,1,True
+Raf,Campohermoso,3,1,True
+cherry,Nijar,3,2,True
+rosa,La Mojonera,1,2,False
+bola,La Mojonera,4,4,False
+ de pera,La Mojonera,2,4,True
+verde,La Mojonera,2,1,True
+verde,Nijar,5,4,True
+ de pera,El Ejido,7,2,True
+corazon de buey,El Alquian,3,2,False
+ de pera,El Alquian,1,4,True
+rosa,El Ejido,10,2,True
+Raf,Campohermoso,4,1,True
+kumato,Campohermoso,6,4,True
+cherry,El Ejido,9,2,True
+rosa,Nijar,6,2,False
+Raf,Campohermoso,2,4,False
+ de pera,El Ejido,7,4,True
+kumato,El Alquian,8,1,True
+verde,Campohermoso,2,4,True
+verde,Nijar,4,2,True
+corazon de buey,La Mojonera,3,3,False
+cherry,Campohermoso,4,4,True
+Raf,La Mojonera,3,3,False
+cherry,La Mojonera,6,1,False
+bola,El Alquian,9,3,True
+kumato,Campohermoso,3,1,False
+bola,El Ejido,7,4,False
+kumato,El Ejido,4,1,False
+Raf,El Alquian,10,4,True
+ de pera,La Mojonera,1,1,False
+verde,Campohermoso,3,2,False
+kumato,El Ejido,5,1,True
+ de pera,La Mojonera,6,2,False
+corazon de buey,La Mojonera,4,4,True
+bola,El Ejido,7,1,False
+verde,El Ejido,3,1,False
+cherry,Nijar,9,2,True
+Raf,El Alquian,5,2,False
+rosa,Campohermoso,1,3,False
+bola,El Alquian,8,3,False
+bola,Campohermoso,6,4,True
+corazon de buey,El Alquian,9,4,True
+kumato,La Mojonera,9,4,False
+bola,Campohermoso,7,3,True
+ de pera,Campohermoso,3,4,False
+corazon de buey,Campohermoso,10,2,True
+Raf,El Alquian,9,4,False
+kumato,El Alquian,9,1,True
+kumato,La Mojonera,1,4,True
+verde,La Mojonera,1,1,True
+Raf,Nijar,5,1,True
+cherry,Campohermoso,6,4,True
+verde,El Alquian,9,2,True
+bola,Nijar,10,4,False
+Raf,Campohermoso,2,1,True
+verde,Nijar,2,4,False
+cherry,Campohermoso,1,3,True
+rosa,Campohermoso,8,2,False
+kumato,Nijar,5,2,True
+verde,El Ejido,7,2,True
+Raf,La Mojonera,5,2,True
+ de pera,La Mojonera,7,2,False
+cherry,Nijar,1,3,True
+corazon de buey,El Alquian,6,2,False
+cherry,Nijar,5,2,True
+verde,El Ejido,5,4,False
+rosa,Campohermoso,1,4,False
+corazon de buey,La Mojonera,3,4,True
+kumato,El Ejido,1,2,False
+Raf,Nijar,1,2,False
+corazon de buey,Campohermoso,3,4,True
+bola,El Alquian,10,1,True
+cherry,El Alquian,9,3,False
+rosa,El Ejido,4,3,False
+cherry,Nijar,8,4,False
+cherry,La Mojonera,9,2,False
+bola,El Alquian,2,2,False
+Raf,Nijar,8,1,True
+bola,Nijar,1,2,True
+Raf,El Alquian,2,4,True
+verde,La Mojonera,3,4,False
+cherry,El Alquian,7,1,True
+rosa,El Ejido,8,1,True
+rosa,Campohermoso,5,4,True
+corazon de buey,El Alquian,5,2,False
+cherry,Nijar,1,4,False
+verde,La Mojonera,10,2,False
+ de pera,El Ejido,6,3,False
+Raf,Nijar,2,4,True
+Raf,La Mojonera,3,3,False
+cherry,El Ejido,8,4,False
+kumato,El Alquian,2,3,True
+ de pera,La Mojonera,1,3,False
+bola,Campohermoso,7,3,False
+bola,Campohermoso,1,4,False
+ de pera,El Alquian,2,1,True
+kumato,La Mojonera,5,3,False
+ de pera,La Mojonera,1,4,True
+bola,Nijar,7,2,False
+Raf,Nijar,9,4,True
+bola,Nijar,4,2,True
+kumato,El Alquian,6,2,True
+Raf,Nijar,7,1,True
+bola,Campohermoso,10,3,False
+bola,El Ejido,9,2,True
+rosa,Campohermoso,8,3,True
+verde,La Mojonera,2,2,False
+corazon de buey,Nijar,2,4,True
+bola,El Alquian,3,1,False
+ de pera,La Mojonera,9,3,True
+verde,El Ejido,4,1,False
+cherry,El Ejido,10,3,False
+corazon de buey,El Ejido,4,2,True
+Raf,Campohermoso,6,3,False
+verde,Nijar,2,2,True
+ de pera,El Alquian,10,4,True
+cherry,El Alquian,3,4,False
+rosa,La Mojonera,8,2,True
+ de pera,La Mojonera,8,1,True
+cherry,La Mojonera,2,3,False
+rosa,La Mojonera,10,1,False
+ de pera,Nijar,1,3,False
+ de pera,El Ejido,9,1,True
+ de pera,Nijar,8,2,True
+rosa,El Alquian,2,3,True
+verde,Nijar,6,1,True
+rosa,La Mojonera,6,4,False
+cherry,El Ejido,9,4,False
+ de pera,La Mojonera,7,4,True
+verde,El Alquian,6,2,True
+corazon de buey,El Alquian,9,3,False
+bola,Nijar,9,4,True
+ de pera,El Alquian,5,2,True
+kumato,El Ejido,10,1,True
+rosa,Nijar,5,4,False
+verde,El Alquian,7,1,True
+corazon de buey,Campohermoso,10,2,False
+corazon de buey,El Alquian,3,4,True
+cherry,Campohermoso,7,4,False
+verde,Campohermoso,8,3,True
+Raf,Nijar,4,4,False
+ de pera,La Mojonera,5,3,True
+Raf,El Ejido,6,1,True
+kumato,El Ejido,10,4,True
+kumato,Campohermoso,6,1,True
+ de pera,El Ejido,8,1,True
+ de pera,La Mojonera,6,3,True
+kumato,El Alquian,4,4,False
+corazon de buey,La Mojonera,8,2,True
+ de pera,El Alquian,5,3,True
+corazon de buey,El Alquian,1,4,True
+ de pera,El Alquian,8,1,False
+ de pera,Nijar,8,4,True
+cherry,El Alquian,10,2,False
+verde,Nijar,6,1,True
+ de pera,El Ejido,1,2,True
+verde,Campohermoso,7,4,True
+bola,Campohermoso,6,1,False
+kumato,La Mojonera,8,1,False
+rosa,Campohermoso,9,2,True
+bola,La Mojonera,8,2,True
+bola,El Ejido,8,1,True
+kumato,Campohermoso,3,4,True
+rosa,El Ejido,8,4,True
+verde,El Ejido,10,1,False
+Raf,Campohermoso,5,4,True
+Raf,Campohermoso,4,2,False
+Raf,El Ejido,6,4,True
+rosa,Nijar,4,4,True
+cherry,La Mojonera,1,2,False
+ de pera,El Ejido,9,4,True
+kumato,El Ejido,6,2,False
+verde,Campohermoso,4,4,False
+corazon de buey,El Alquian,5,4,False
+verde,El Ejido,3,2,True
+Raf,Nijar,5,2,True
+ de pera,El Ejido,2,3,False
+rosa,La Mojonera,10,3,False
+corazon de buey,Campohermoso,6,2,False
+corazon de buey,Campohermoso,4,3,True
+corazon de buey,Nijar,1,4,False
+corazon de buey,El Ejido,6,4,False
+cherry,Campohermoso,7,1,True
+bola,Nijar,6,2,True
+verde,El Ejido,6,4,True
+verde,La Mojonera,10,2,False
+kumato,Campohermoso,3,2,True
+verde,Nijar,8,1,True
+ de pera,Nijar,1,4,True
+cherry,Campohermoso,1,4,True
+kumato,El Ejido,4,2,True
+kumato,El Ejido,10,2,True
+bola,El Ejido,2,3,False
+corazon de buey,La Mojonera,5,2,True
+cherry,El Alquian,8,1,True
+corazon de buey,La Mojonera,2,2,False
+corazon de buey,El Alquian,10,1,False
+rosa,El Ejido,4,4,True
+rosa,Campohermoso,6,3,False
+verde,Nijar,2,3,False
+ de pera,Nijar,10,4,False
+verde,Nijar,10,3,False
+ de pera,El Alquian,8,1,False
+verde,La Mojonera,1,3,True
+Raf,Campohermoso,1,2,True
+corazon de buey,Campohermoso,9,4,False
+bola,Nijar,9,1,False
+verde,Nijar,2,3,True
+cherry,El Ejido,8,3,False
+cherry,Nijar,1,2,True
+kumato,El Alquian,9,3,True
+corazon de buey,La Mojonera,9,2,False
+Raf,Nijar,5,3,True
+verde,Campohermoso,9,2,False
+Raf,La Mojonera,2,4,True
+kumato,Nijar,5,1,False
+corazon de buey,Campohermoso,10,2,True
+ de pera,Campohermoso,6,3,False
+bola,El Ejido,1,4,True
+corazon de buey,El Ejido,4,3,False
+corazon de buey,La Mojonera,10,3,True
+bola,Campohermoso,3,3,True
+Raf,El Alquian,1,3,False
+kumato,La Mojonera,5,4,True
+kumato,El Alquian,2,2,False
+ de pera,El Alquian,3,2,True
+corazon de buey,El Ejido,6,4,False
+ de pera,Campohermoso,2,2,False
+kumato,El Ejido,1,4,True
+ de pera,El Ejido,10,2,False
+kumato,El Alquian,10,1,False
+corazon de buey,El Alquian,2,2,True
+ de pera,La Mojonera,3,1,True
+kumato,El Alquian,10,1,False
+corazon de buey,El Alquian,9,3,False
+ de pera,Nijar,7,4,True
+verde,La Mojonera,10,4,True
+rosa,Campohermoso,10,1,False
+verde,Campohermoso,10,2,False
+bola,Campohermoso,6,3,False
+ de pera,El Alquian,3,1,False
+corazon de buey,Nijar,7,2,True
+kumato,El Alquian,3,4,False
+rosa,Campohermoso,7,1,False
+rosa,El Ejido,1,1,False
+bola,Campohermoso,9,4,True
+ de pera,El Alquian,7,3,True
+cherry,Nijar,6,4,False
+verde,Nijar,9,3,True
+cherry,La Mojonera,7,1,True
+verde,El Ejido,9,4,True
+corazon de buey,El Ejido,6,1,True
+bola,La Mojonera,4,2,True
+rosa,La Mojonera,8,3,False
+bola,Campohermoso,8,3,False
+bola,La Mojonera,8,4,False
+kumato,El Alquian,2,3,True
+cherry,Nijar,2,4,True
+bola,El Ejido,2,2,True
+corazon de buey,Nijar,4,1,False
+cherry,Campohermoso,6,1,True
+ de pera,Campohermoso,3,2,True
+bola,El Alquian,3,4,True
+kumato,Campohermoso,1,3,True
+ de pera,Nijar,9,3,True
+bola,Campohermoso,3,3,True
+ de pera,El Ejido,10,1,True
+verde,La Mojonera,9,3,False
+cherry,La Mojonera,7,2,True
+verde,La Mojonera,2,1,False
+Raf,El Ejido,7,1,False
+ de pera,Campohermoso,7,1,False
+rosa,Nijar,1,1,False
+bola,El Alquian,10,1,False
+rosa,Campohermoso,1,2,False
+ de pera,Nijar,3,4,True
+Raf,La Mojonera,1,4,False
+bola,Campohermoso,4,3,True
+verde,Campohermoso,10,4,True
+cherry,Campohermoso,9,3,True
+corazon de buey,Campohermoso,10,1,False
+corazon de buey,Campohermoso,9,4,True
+kumato,Campohermoso,2,2,False
+corazon de buey,El Ejido,9,3,False
+Raf,Campohermoso,6,3,True
+bola,Nijar,10,2,True
+cherry,El Ejido,9,2,True
+verde,Nijar,7,1,True
+verde,El Ejido,8,1,False
+Raf,La Mojonera,8,3,False
+cherry,El Alquian,5,3,True
+corazon de buey,El Alquian,5,1,True
+verde,El Alquian,6,1,False
+cherry,Nijar,5,1,True
+cherry,Nijar,9,2,False
+kumato,Nijar,7,3,True
+ de pera,El Ejido,6,1,False
+rosa,El Ejido,4,4,False
+bola,El Ejido,9,3,False
+ de pera,El Alquian,5,1,True
+ de pera,Campohermoso,1,2,False
+bola,Campohermoso,6,3,True
+bola,El Ejido,3,4,False
+kumato,El Alquian,7,3,True
+corazon de buey,El Ejido,3,4,True
+corazon de buey,El Alquian,1,3,False
+cherry,La Mojonera,8,3,False
+bola,La Mojonera,10,1,False
+verde,Campohermoso,2,1,True
+corazon de buey,El Alquian,6,1,True
+cherry,El Alquian,9,2,False
+Raf,La Mojonera,6,1,False
+cherry,La Mojonera,4,2,False
+ de pera,El Ejido,8,1,True
+verde,Campohermoso,2,2,False
+cherry,Campohermoso,6,3,True
+cherry,Campohermoso,3,1,False
+Raf,La Mojonera,2,2,True
+ de pera,El Alquian,6,3,True
+verde,El Alquian,8,1,True
+ de pera,El Alquian,1,3,True
+cherry,El Alquian,1,1,False
+ de pera,El Ejido,9,2,False
+Raf,La Mojonera,7,4,True
+corazon de buey,Nijar,4,2,False
+bola,El Ejido,7,1,True
+cherry,El Alquian,8,4,False
+verde,La Mojonera,3,2,True
+corazon de buey,La Mojonera,10,1,False
+kumato,La Mojonera,7,3,False
+kumato,El Ejido,3,1,False
+bola,Nijar,6,4,False
+ de pera,La Mojonera,2,2,True
+bola,El Alquian,10,1,True
+rosa,El Ejido,8,2,True
+verde,El Ejido,8,3,False
+kumato,La Mojonera,9,3,True
+kumato,Campohermoso,9,2,False
+rosa,La Mojonera,5,3,True
+Raf,Campohermoso,10,4,False
+kumato,Campohermoso,7,2,False
+corazon de buey,Nijar,7,1,True
+verde,Campohermoso,10,2,False
+rosa,La Mojonera,10,3,False
+rosa,El Alquian,4,1,False
+verde,Nijar,9,3,False
+bola,La Mojonera,5,2,False
+bola,Campohermoso,5,3,True
+kumato,El Ejido,9,4,False
+corazon de buey,El Alquian,2,3,True
+Raf,Campohermoso,10,2,True
+bola,El Alquian,7,1,False
+kumato,El Alquian,2,3,False
+verde,El Alquian,1,2,False
+Raf,El Ejido,3,4,True
+cherry,El Ejido,4,2,False
+ de pera,Campohermoso,7,2,True
+ de pera,Nijar,8,1,False
+verde,El Alquian,10,1,True
+ de pera,Campohermoso,2,3,False
+corazon de buey,La Mojonera,3,1,True
+ de pera,La Mojonera,2,1,True
+verde,El Ejido,2,2,True
+ de pera,Campohermoso,9,3,True
+ de pera,Nijar,4,2,False
+ de pera,El Alquian,4,2,True
+bola,El Alquian,1,4,False
+cherry,El Ejido,4,3,True
+bola,El Ejido,9,4,True
+verde,Nijar,4,3,True
+ de pera,El Ejido,9,3,True
+cherry,El Alquian,2,3,False
+kumato,El Alquian,2,1,True
+bola,Campohermoso,9,3,True
+rosa,El Alquian,9,1,True
+corazon de buey,El Ejido,4,4,False
+rosa,El Alquian,3,4,False
+kumato,Campohermoso,8,4,True
+bola,Campohermoso,7,3,False
+rosa,Nijar,8,3,False
+verde,Nijar,9,3,True
+corazon de buey,Nijar,5,4,True
+cherry,Campohermoso,8,3,True
+cherry,La Mojonera,4,3,False
+Raf,La Mojonera,5,4,False
+kumato,La Mojonera,4,1,True
+rosa,Nijar,7,2,True
+corazon de buey,Nijar,9,1,False
+verde,Nijar,6,3,False
+corazon de buey,Nijar,5,3,True
+kumato,Nijar,6,2,True
+verde,La Mojonera,5,2,False
+ de pera,El Alquian,5,2,False
+Raf,El Alquian,2,3,True
+bola,La Mojonera,7,3,False
+kumato,Nijar,9,4,False
+verde,El Ejido,1,1,False
+Raf,La Mojonera,2,4,False
+rosa,La Mojonera,9,1,False
+rosa,Nijar,3,3,True
+cherry,La Mojonera,2,2,False
+verde,El Alquian,2,2,False
+kumato,El Alquian,4,1,True
+verde,La Mojonera,2,2,False
+ de pera,La Mojonera,3,1,False
+kumato,La Mojonera,9,1,False
+Raf,El Alquian,6,1,True
+bola,Campohermoso,1,3,True
+ de pera,Campohermoso,3,2,True
+corazon de buey,La Mojonera,5,4,False
+ de pera,Campohermoso,10,4,False
+Raf,Nijar,7,3,True
+cherry,La Mojonera,7,1,False
+ de pera,Nijar,10,2,True
+bola,Nijar,8,4,True
+cherry,El Alquian,9,2,True
+ de pera,Campohermoso,6,3,False
+ de pera,El Alquian,2,3,False
+ de pera,El Ejido,8,3,True
+rosa,Campohermoso,9,3,True
+ de pera,Nijar,8,3,True
+corazon de buey,Campohermoso,3,1,False
+verde,Campohermoso,6,3,False
+cherry,Campohermoso,2,1,True
+ de pera,El Ejido,6,1,True
+cherry,El Alquian,7,2,False
+bola,El Alquian,7,2,True
+bola,El Alquian,5,2,True
+kumato,La Mojonera,5,1,True
+cherry,La Mojonera,6,2,False
+kumato,El Ejido,8,4,True
+rosa,Campohermoso,6,1,True
+kumato,Nijar,2,1,True
+corazon de buey,Nijar,4,4,False
+cherry,El Alquian,2,4,False
+bola,El Alquian,1,4,True
+rosa,El Ejido,9,1,False
+corazon de buey,La Mojonera,1,4,True
+rosa,La Mojonera,6,1,False
+ de pera,La Mojonera,10,3,True
+kumato,La Mojonera,5,1,True
+bola,Nijar,3,2,True
+bola,El Alquian,7,1,True
+verde,Nijar,2,4,True
+ de pera,La Mojonera,2,3,True
+bola,Nijar,3,1,False
+corazon de buey,La Mojonera,3,3,False
+cherry,Nijar,3,3,False
+ de pera,Nijar,7,4,False
+Raf,El Ejido,2,2,True
+bola,La Mojonera,10,4,True
+corazon de buey,La Mojonera,1,4,False
+cherry,El Alquian,5,1,True
+verde,Campohermoso,1,4,True
+Raf,El Alquian,4,3,True
+corazon de buey,Nijar,5,1,True
+rosa,El Alquian,10,4,False
+cherry,Campohermoso,4,2,False
+cherry,El Ejido,7,3,True
+Raf,Nijar,2,3,False
+rosa,El Alquian,2,4,True
+corazon de buey,El Ejido,1,3,True
+bola,Nijar,6,4,False
+bola,El Alquian,5,1,False
+bola,La Mojonera,8,2,False
+kumato,El Alquian,4,3,False
+Raf,Nijar,10,2,True
+ de pera,El Ejido,7,3,False
+ de pera,Nijar,1,2,False
+ de pera,Campohermoso,8,2,False
+verde,El Ejido,7,4,True
+rosa,La Mojonera,8,2,True
+cherry,Nijar,6,3,False
+rosa,El Alquian,10,3,True
+rosa,El Ejido,6,4,False
+ de pera,El Ejido,2,1,False
+Raf,Campohermoso,5,3,False
+cherry,Campohermoso,7,4,True
+bola,Campohermoso,9,2,True
+corazon de buey,El Alquian,5,2,True
+verde,La Mojonera,4,3,True
+bola,Nijar,5,1,False
+ de pera,Campohermoso,9,4,True
+corazon de buey,Campohermoso,10,1,False
+rosa,El Ejido,5,1,True
+ de pera,Nijar,2,3,True
+corazon de buey,La Mojonera,2,2,False
+cherry,El Alquian,3,2,True
+ de pera,Nijar,5,2,False
+cherry,El Ejido,4,2,False
+kumato,La Mojonera,3,1,False
+cherry,La Mojonera,1,3,False
+ de pera,Nijar,7,4,True
+corazon de buey,La Mojonera,9,1,True
+cherry,Nijar,10,2,True
+ de pera,El Ejido,1,4,True
+verde,La Mojonera,4,2,True
+corazon de buey,El Alquian,7,2,True
+kumato,Nijar,1,3,False
+bola,El Ejido,9,3,False
+rosa,La Mojonera,2,1,True
+Raf,Campohermoso,10,4,True
+verde,Nijar,8,2,False
+ de pera,Nijar,5,4,False
+Raf,Campohermoso,4,4,False
+verde,Campohermoso,7,4,False
+Raf,Nijar,4,2,False
+rosa,Campohermoso,5,3,False
+Raf,El Alquian,8,3,True
+corazon de buey,Campohermoso,10,4,True
+rosa,El Ejido,10,4,True
+ de pera,El Ejido,10,1,True
+bola,Campohermoso,2,1,False
+ de pera,Campohermoso,2,3,True
+bola,Campohermoso,4,4,False
+verde,Campohermoso,10,2,True
+bola,Nijar,8,1,False
+corazon de buey,La Mojonera,10,3,False
+cherry,Nijar,6,3,True
+kumato,Campohermoso,5,2,True
+verde,La Mojonera,9,1,False
+kumato,La Mojonera,1,3,True
+corazon de buey,El Ejido,1,1,True
+kumato,Nijar,10,4,True
+Raf,Nijar,6,3,False
+verde,La Mojonera,8,4,True
+ de pera,Campohermoso,6,4,False
+verde,Nijar,10,3,False
+cherry,Campohermoso,2,4,False
+corazon de buey,La Mojonera,2,1,True
+ de pera,El Alquian,8,4,False
+verde,Nijar,10,2,False
+kumato,El Alquian,4,2,True
+bola,El Ejido,8,4,True
+cherry,Nijar,1,1,False
+cherry,La Mojonera,5,2,False
+corazon de buey,La Mojonera,10,4,True
+rosa,El Ejido,5,4,True
+cherry,La Mojonera,2,3,True
+ de pera,Campohermoso,4,4,True
+Raf,El Ejido,6,3,True
+bola,Campohermoso,6,4,True
+verde,La Mojonera,5,3,False
+kumato,Nijar,3,1,False
+bola,Campohermoso,7,3,True
+corazon de buey,La Mojonera,1,3,True
+rosa,Campohermoso,8,3,False
+kumato,Nijar,10,2,False
+cherry,Campohermoso,9,3,True
+corazon de buey,El Ejido,4,4,True
+bola,Nijar,4,2,True
+bola,El Alquian,3,1,True
+cherry,La Mojonera,9,1,False
+bola,El Ejido,6,4,False
+cherry,El Alquian,4,2,True
+bola,Campohermoso,2,4,False
+bola,El Alquian,6,2,True
+Raf,El Alquian,4,2,True
+verde,Nijar,6,1,False
+kumato,Nijar,5,1,False
+bola,La Mojonera,4,3,False
+ de pera,Campohermoso,2,4,True
+verde,Nijar,2,3,False
+verde,Campohermoso,9,2,False
+Raf,Campohermoso,6,4,True
+corazon de buey,El Alquian,7,3,False
+rosa,Campohermoso,8,3,False
+Raf,Campohermoso,6,3,False
+rosa,Nijar,8,2,True
+kumato,El Alquian,2,1,True
+bola,Campohermoso,7,1,False
+Raf,Nijar,4,3,False
+kumato,Campohermoso,8,1,False
+corazon de buey,La Mojonera,3,3,False
+ de pera,Nijar,10,3,True
+bola,El Ejido,8,2,True
+bola,Campohermoso,5,3,False
+cherry,La Mojonera,3,3,True
+Raf,Campohermoso,8,3,True
+corazon de buey,El Ejido,9,2,False
+verde,El Alquian,4,4,False
+Raf,El Ejido,7,3,True
+cherry,El Ejido,4,4,False
+bola,Nijar,10,2,False
+corazon de buey,Nijar,2,4,False
+rosa,El Alquian,5,1,True
+Raf,El Ejido,10,4,False
+corazon de buey,La Mojonera,3,2,False
+rosa,El Ejido,3,4,True
+verde,La Mojonera,8,2,True
+ de pera,Campohermoso,3,1,True
+cherry,El Alquian,7,3,False
+ de pera,El Alquian,3,2,False
+corazon de buey,El Ejido,6,4,False
+rosa,Nijar,1,1,False
+verde,El Ejido,10,4,False
+rosa,El Ejido,2,3,True
+rosa,Nijar,9,2,False
+ de pera,Nijar,6,4,False
+Raf,Campohermoso,7,4,True
+Raf,El Ejido,5,2,False
+bola,El Ejido,9,4,True
+cherry,El Ejido,6,4,True
+kumato,El Ejido,7,2,False
+rosa,El Alquian,6,3,True
+Raf,Campohermoso,8,2,True
+bola,Campohermoso,8,3,True
+corazon de buey,Nijar,9,3,False
+ de pera,El Ejido,9,1,False
+bola,Campohermoso,6,2,False
+verde,El Ejido,10,2,False
+kumato,El Ejido,4,2,True
+ de pera,El Ejido,9,2,True
+ de pera,El Ejido,5,1,False
+bola,El Ejido,2,4,False
+cherry,El Alquian,2,4,False
+Raf,La Mojonera,2,3,False
+corazon de buey,El Ejido,9,1,False
+cherry,El Alquian,9,1,False
+corazon de buey,Campohermoso,1,1,True
+rosa,El Ejido,3,2,False
+Raf,El Alquian,7,2,True
+ de pera,El Ejido,7,4,False
+kumato,Campohermoso,5,1,False
+cherry,El Alquian,4,1,False
+corazon de buey,Nijar,10,2,False
+ de pera,El Ejido,7,3,False
+kumato,Campohermoso,9,4,False
+cherry,El Ejido,2,2,False
+rosa,Campohermoso,10,1,False
+Raf,Nijar,10,1,False
+Raf,Nijar,1,1,True
+kumato,Nijar,5,4,True
+ de pera,Nijar,8,1,True
+corazon de buey,La Mojonera,10,3,True
+ de pera,Nijar,9,4,False
+Raf,La Mojonera,8,3,False
+corazon de buey,La Mojonera,10,4,True
+cherry,El Alquian,10,2,False
+bola,Campohermoso,9,4,True
+verde,El Alquian,6,1,False
+bola,Nijar,6,1,True
+kumato,El Ejido,5,4,False
+corazon de buey,El Ejido,2,2,False
+rosa,El Alquian,7,1,False
+rosa,Campohermoso,8,1,False
+verde,La Mojonera,4,4,True
+corazon de buey,La Mojonera,1,3,False
+corazon de buey,El Alquian,4,1,True
+verde,El Alquian,4,4,True
+corazon de buey,La Mojonera,6,4,True
+rosa,El Alquian,8,2,True
+corazon de buey,Campohermoso,10,4,False
+rosa,La Mojonera,1,2,True
+corazon de buey,Nijar,6,4,False
+ de pera,El Ejido,7,2,True
+verde,Campohermoso,9,4,True
+corazon de buey,El Alquian,7,3,True
+cherry,Nijar,1,3,True
+ de pera,El Alquian,2,1,False
+cherry,Nijar,7,1,True
+bola,Nijar,1,1,True
+Raf,Nijar,7,1,True
+rosa,El Alquian,7,2,True
+kumato,El Ejido,10,3,False
+kumato,La Mojonera,8,2,False
+rosa,La Mojonera,3,2,False
+bola,El Alquian,2,4,False
+verde,El Alquian,5,4,False
+Raf,El Alquian,5,2,True
+corazon de buey,Nijar,9,2,True
+Raf,Nijar,2,2,False
+rosa,El Ejido,3,1,False
+ de pera,Nijar,8,3,True
+rosa,Campohermoso,3,1,False
+ de pera,El Ejido,7,2,False
+ de pera,La Mojonera,2,4,True
+Raf,El Ejido,7,1,False
+kumato,Nijar,7,2,True
+Raf,El Alquian,4,4,True
+kumato,Campohermoso,2,4,True
+rosa,Campohermoso,7,1,False
+kumato,El Ejido,6,1,True
+verde,El Alquian,4,2,True
+bola,Campohermoso,6,1,False
+rosa,El Alquian,6,2,False
+corazon de buey,La Mojonera,3,4,False
+cherry,El Alquian,9,3,False
+verde,Campohermoso,2,4,True
+ de pera,Campohermoso,6,4,True
+bola,Campohermoso,1,2,True
+corazon de buey,El Alquian,8,2,False
+rosa,El Alquian,3,1,True
+Raf,El Ejido,1,3,True
+Raf,El Alquian,1,2,True
+kumato,Nijar,9,4,True
+rosa,Nijar,8,3,False
+ de pera,La Mojonera,8,1,True
+bola,El Ejido,7,1,False
+corazon de buey,El Alquian,1,2,True
+corazon de buey,Nijar,7,4,True
+cherry,El Alquian,4,1,False
+bola,El Ejido,1,1,True
+corazon de buey,El Ejido,4,4,True
+ de pera,Nijar,3,1,False
+corazon de buey,El Alquian,3,3,True
+ de pera,El Alquian,10,3,True
+Raf,El Alquian,2,1,False
+kumato,El Alquian,3,4,False
+kumato,Campohermoso,4,1,False
+cherry,Nijar,1,2,True
+Raf,Nijar,9,2,True
+kumato,Campohermoso,5,1,False
+bola,El Ejido,1,2,False
+cherry,El Ejido,9,1,True
+bola,Campohermoso,9,4,False
+corazon de buey,El Alquian,3,1,True
+cherry,Campohermoso,10,4,True
+Raf,La Mojonera,2,3,False
+corazon de buey,El Alquian,2,1,False
+rosa,Nijar,5,4,True
+cherry,El Ejido,4,2,True
+ de pera,Nijar,10,2,True
+kumato,El Alquian,7,1,True
+rosa,El Ejido,4,1,False
+rosa,El Ejido,3,2,False
+rosa,El Ejido,7,1,True
+cherry,La Mojonera,5,1,True
+corazon de buey,El Ejido,4,2,True
+verde,La Mojonera,9,4,False
+verde,El Alquian,8,4,False
+verde,El Ejido,7,3,True
+kumato,El Ejido,9,3,True
+rosa,El Alquian,3,2,False
+ de pera,El Ejido,5,3,True
+bola,La Mojonera,1,3,False
+rosa,Nijar,4,3,False
+ de pera,El Alquian,4,1,True
+verde,El Ejido,5,4,True
+cherry,El Ejido,6,1,False
+ de pera,El Ejido,1,3,False
+bola,El Alquian,7,3,False
+rosa,El Alquian,6,4,False
+corazon de buey,El Alquian,2,3,True
+cherry,El Ejido,6,1,True
+corazon de buey,Nijar,7,3,True
+cherry,La Mojonera,7,4,True
+ de pera,El Alquian,9,4,True
+ de pera,Campohermoso,10,2,False
+Raf,Campohermoso,9,1,True
+rosa,El Ejido,8,2,False
+rosa,La Mojonera,4,4,False
+kumato,El Ejido,8,3,True
+Raf,Campohermoso,3,1,True
+Raf,El Ejido,6,1,False
+rosa,Nijar,5,3,False
+bola,El Alquian,6,4,True
+cherry,Nijar,8,2,True
+verde,Campohermoso,1,2,True
+ de pera,Nijar,3,2,False
+corazon de buey,El Ejido,8,2,True
+Raf,Campohermoso,4,2,True
+rosa,Nijar,2,3,True
+kumato,Nijar,6,1,False
+cherry,El Ejido,6,1,False
+bola,Campohermoso,8,3,False
+corazon de buey,El Ejido,6,1,True
+ de pera,Nijar,8,2,True
+cherry,El Alquian,6,2,True
+Raf,La Mojonera,9,3,True
+rosa,Nijar,5,1,True
+Raf,Nijar,5,2,True
+rosa,La Mojonera,1,2,False
+Raf,Nijar,3,4,True
+Raf,Nijar,9,1,False
+ de pera,El Ejido,5,1,False
+verde,El Ejido,4,3,True
+cherry,El Alquian,5,3,False
+kumato,La Mojonera,2,2,True
+cherry,El Ejido,2,2,True
+ de pera,El Alquian,1,4,True
+cherry,Campohermoso,4,1,True
+ de pera,La Mojonera,4,1,True
+cherry,Nijar,10,2,False
+rosa,El Alquian,9,4,False
+bola,Nijar,10,1,True
+verde,El Alquian,10,3,True
+bola,El Alquian,6,4,True
+Raf,El Alquian,2,4,True
+corazon de buey,Nijar,7,2,True
+kumato,Nijar,1,1,False
+corazon de buey,El Ejido,10,2,True
+ de pera,El Alquian,9,3,True
+verde,Campohermoso,9,4,True
+ de pera,La Mojonera,4,3,False
+corazon de buey,Campohermoso,5,1,False
+kumato,El Alquian,1,1,True
+ de pera,El Ejido,3,3,True
+kumato,La Mojonera,5,4,False
+bola,Campohermoso,8,4,True
+rosa,El Alquian,1,2,True
+bola,El Alquian,1,1,False
+bola,Nijar,8,1,True
+Raf,El Ejido,7,2,False
+Raf,Campohermoso,4,1,False
+cherry,La Mojonera,7,4,False
+rosa,La Mojonera,6,4,True
+Raf,El Ejido,2,1,True
+kumato,La Mojonera,1,2,False
+ de pera,Nijar,2,3,True
+bola,El Alquian,6,1,True
+ de pera,Campohermoso,5,2,True
+rosa,Nijar,8,3,True
+bola,Nijar,1,3,False
+Raf,Campohermoso,4,2,False
+cherry,Nijar,1,4,True
+Raf,Campohermoso,1,3,True
+cherry,El Ejido,4,1,True
+corazon de buey,Campohermoso,2,3,True
+kumato,El Alquian,7,2,True
+verde,El Alquian,1,4,True
+bola,Nijar,3,3,True
+cherry,Campohermoso,8,4,False
+rosa,La Mojonera,6,3,False
+rosa,La Mojonera,7,4,False
+corazon de buey,Nijar,5,1,True
+ de pera,El Alquian,5,3,True
+kumato,El Ejido,10,4,False
+kumato,La Mojonera,5,1,True
+bola,El Alquian,1,3,True
+kumato,Nijar,8,4,False
+verde,La Mojonera,7,4,False
+kumato,El Alquian,9,3,True
+Raf,Campohermoso,5,3,True
+cherry,El Alquian,6,3,True
+verde,Campohermoso,6,3,True
+bola,El Alquian,6,3,True
+cherry,La Mojonera,8,4,False
+Raf,El Ejido,9,1,True
+corazon de buey,El Ejido,9,3,False
+Raf,El Alquian,7,4,True
+bola,El Ejido,2,3,False
+Raf,Campohermoso,8,1,True
+Raf,Nijar,2,4,True
+Raf,Nijar,4,3,False
+bola,Campohermoso,3,3,True
+verde,El Ejido,3,2,True
+cherry,Nijar,8,4,True
+rosa,Nijar,9,1,True
+cherry,Campohermoso,7,4,True
+kumato,El Alquian,9,2,False
+kumato,El Alquian,8,2,True
+corazon de buey,La Mojonera,5,1,False
+Raf,Campohermoso,6,3,True
+cherry,Campohermoso,3,2,True
+cherry,La Mojonera,7,4,False
+cherry,Nijar,7,3,False
+verde,El Ejido,5,3,True
+ de pera,La Mojonera,4,1,False
+bola,El Alquian,7,1,False
+bola,La Mojonera,1,2,False
+bola,Nijar,1,1,True
+rosa,Nijar,7,3,False
+verde,Campohermoso,4,4,True
+ de pera,Nijar,4,2,False
+cherry,El Ejido,1,1,True
+corazon de buey,El Alquian,6,2,False
+Raf,La Mojonera,2,1,False
+ de pera,Nijar,10,1,True
+rosa,Campohermoso,10,4,False
+kumato,Campohermoso,4,2,False
+cherry,El Alquian,1,2,True
+corazon de buey,Campohermoso,4,2,False
+kumato,El Alquian,4,4,False
+bola,Campohermoso,6,2,True
+verde,El Ejido,4,4,False
+kumato,La Mojonera,5,1,True
+verde,Nijar,4,3,True
+ de pera,El Ejido,6,3,True
+ de pera,Campohermoso,6,2,False
+cherry,Nijar,3,2,False
+corazon de buey,El Ejido,5,1,False
+kumato,El Alquian,2,3,True
+verde,Nijar,5,3,True
+corazon de buey,Nijar,3,1,True
+bola,La Mojonera,2,3,False
+ de pera,Campohermoso,7,4,True
+cherry,Nijar,4,3,True
+kumato,Campohermoso,6,4,True
+rosa,Campohermoso,3,4,True
+corazon de buey,Campohermoso,4,1,True
+bola,La Mojonera,6,3,True
+kumato,El Alquian,2,3,True
+kumato,Nijar,3,4,True
+corazon de buey,El Ejido,5,1,False
+kumato,El Ejido,9,1,False
+rosa,Nijar,6,4,True
+corazon de buey,Nijar,3,1,False
+rosa,Campohermoso,6,1,True
+verde,Nijar,7,3,False
+cherry,La Mojonera,10,3,True
+cherry,Nijar,6,1,True
+ de pera,El Ejido,7,2,False
+cherry,La Mojonera,7,1,False
+bola,Campohermoso,2,3,False
+rosa,El Alquian,4,3,False
+bola,Campohermoso,3,2,True
+cherry,El Alquian,4,4,False
+rosa,El Ejido,8,2,False
+rosa,La Mojonera,8,1,False
+bola,El Ejido,3,2,False
+corazon de buey,El Alquian,10,3,False
+rosa,Campohermoso,8,4,True
+verde,El Alquian,2,4,False
+Raf,Campohermoso,7,4,False
+kumato,La Mojonera,1,1,False
+cherry,El Ejido,9,4,True
+corazon de buey,La Mojonera,1,4,False
+Raf,La Mojonera,5,3,True
+rosa,Campohermoso,8,3,False
+corazon de buey,El Alquian,9,4,True
+ de pera,El Alquian,1,4,True
+Raf,Nijar,1,2,False
+corazon de buey,El Ejido,6,4,True
+Raf,El Ejido,5,3,False
+kumato,El Alquian,5,2,False
+verde,Nijar,7,3,True
+kumato,Nijar,10,2,True
+rosa,Campohermoso,1,2,True
+Raf,La Mojonera,2,2,True
+verde,El Alquian,9,3,False
+cherry,Campohermoso,4,2,False
+cherry,El Ejido,2,1,False
+verde,Campohermoso,7,3,False
+kumato,Nijar,8,1,True
+cherry,La Mojonera,1,3,True
+ de pera,Campohermoso,9,3,False
+cherry,Nijar,7,2,True
+Raf,La Mojonera,7,3,True
+Raf,Campohermoso,10,2,True
+bola,Campohermoso,9,2,False
+corazon de buey,La Mojonera,7,2,False
+ de pera,Campohermoso,10,1,False
+kumato,El Alquian,2,1,True
+corazon de buey,Campohermoso,4,1,True
+corazon de buey,El Ejido,5,3,True
+corazon de buey,La Mojonera,2,2,False
+cherry,Nijar,5,2,True
+kumato,Campohermoso,9,2,True
+rosa,La Mojonera,2,1,True
+verde,El Ejido,7,2,True
+rosa,El Ejido,10,3,True
+verde,El Ejido,7,2,False
+corazon de buey,El Alquian,5,1,True
+ de pera,El Ejido,10,3,True
+Raf,Campohermoso,8,3,False
+cherry,El Ejido,4,4,False
+ de pera,Campohermoso,3,3,False
+ de pera,El Ejido,5,3,False
+rosa,Nijar,5,3,False
+kumato,Nijar,3,3,True
+corazon de buey,Nijar,2,1,False
+Raf,Nijar,5,2,True
+verde,El Alquian,10,1,True
+Raf,Campohermoso,1,1,False
+cherry,El Ejido,2,4,False
+verde,El Ejido,10,1,True
+cherry,La Mojonera,10,3,True
+bola,La Mojonera,9,1,True
+rosa,Campohermoso,5,2,True
+kumato,Nijar,5,2,False
+ de pera,Campohermoso,2,4,False
+cherry,El Alquian,3,2,True
+kumato,Campohermoso,2,2,True
+verde,Nijar,7,1,False
+Raf,Campohermoso,8,4,False
+ de pera,Nijar,9,3,True
+kumato,El Alquian,2,3,False
+bola,Campohermoso,8,2,True
+verde,El Alquian,6,3,False
+Raf,Campohermoso,6,2,True
+rosa,El Ejido,9,2,False
+bola,Nijar,3,3,False
+Raf,El Ejido,1,2,True
+cherry,La Mojonera,9,2,False
+Raf,Campohermoso,2,2,True
+ de pera,Campohermoso,3,2,True
+rosa,El Ejido,5,2,True
+corazon de buey,Nijar,10,1,False
+bola,La Mojonera,9,4,False
+verde,Nijar,8,3,True
+ de pera,Nijar,4,1,True
+bola,La Mojonera,10,3,False
+bola,La Mojonera,6,2,True
+rosa,El Ejido,5,1,True
+ de pera,El Alquian,8,2,True
+verde,La Mojonera,6,3,True
+corazon de buey,El Alquian,7,4,False
+ de pera,Campohermoso,4,1,False
+cherry,El Ejido,5,4,False
+bola,La Mojonera,6,2,True
+corazon de buey,Nijar,5,3,True
+rosa,Nijar,3,1,False
+cherry,El Alquian,8,2,False
+kumato,El Ejido,10,1,True
+bola,La Mojonera,2,2,False
+kumato,Campohermoso,5,4,True
+kumato,Nijar,5,2,False
+verde,El Alquian,4,1,False
+rosa,Campohermoso,2,1,True
+verde,El Ejido,9,1,True
+ de pera,La Mojonera,1,3,True
+kumato,Campohermoso,3,3,True
+Raf,El Ejido,7,4,False
+ de pera,Nijar,5,4,False
+ de pera,Nijar,6,4,False
+rosa,El Alquian,3,4,False
+Raf,Nijar,9,2,True
+ de pera,Nijar,7,1,True
+ de pera,La Mojonera,2,2,True
+kumato,Campohermoso,2,2,False
+corazon de buey,Nijar,10,1,True
+verde,La Mojonera,1,4,True
+verde,El Ejido,7,4,True
+kumato,Nijar,9,2,True
+Raf,La Mojonera,5,1,False
+Raf,El Ejido,4,2,False
+kumato,El Ejido,2,2,True
+rosa,La Mojonera,5,4,False
+verde,El Alquian,6,4,False
+cherry,Campohermoso,4,3,False
+bola,La Mojonera,9,3,False
+ de pera,El Ejido,3,2,True
+Raf,La Mojonera,10,3,True
+ de pera,El Alquian,5,4,False
+ de pera,El Alquian,5,1,True
+ de pera,El Ejido,4,1,True
+rosa,La Mojonera,7,4,False
+ de pera,La Mojonera,7,2,True
+bola,La Mojonera,2,4,False
+corazon de buey,La Mojonera,5,3,True
+Raf,Nijar,4,4,False
+kumato,Nijar,3,2,True
+ de pera,La Mojonera,7,4,True
+verde,El Alquian,5,4,False
+corazon de buey,El Ejido,8,3,True
+Raf,Campohermoso,1,2,False
+verde,Nijar,10,2,False
+verde,El Ejido,4,2,True
+ de pera,Campohermoso,8,2,False
+verde,La Mojonera,7,3,True
+corazon de buey,Campohermoso,3,2,False
+ de pera,El Alquian,5,2,False
+rosa,El Ejido,10,4,True
+corazon de buey,Campohermoso,10,3,True
+bola,Nijar,6,2,False
+cherry,El Alquian,6,3,False
+kumato,Campohermoso,10,1,False
+cherry,Nijar,7,2,True
+rosa,La Mojonera,4,2,False
+corazon de buey,Campohermoso,5,4,True
+rosa,Nijar,7,2,True
+kumato,El Alquian,5,1,False
+corazon de buey,Nijar,7,3,True
+ de pera,La Mojonera,2,4,True
+ de pera,Campohermoso,5,4,True
+cherry,El Ejido,8,3,False
+bola,Nijar,6,2,False
+corazon de buey,La Mojonera,9,3,False
+ de pera,Campohermoso,8,1,False
+verde,Campohermoso,6,3,False
+rosa,El Alquian,3,2,True
+verde,El Ejido,5,1,True
+ de pera,El Ejido,1,2,True
+corazon de buey,Nijar,4,2,False
+rosa,Campohermoso,10,1,True
+ de pera,La Mojonera,3,4,True
+bola,La Mojonera,3,4,False
+bola,Nijar,5,4,False
+bola,La Mojonera,4,2,False
+Raf,El Alquian,8,4,False
+rosa,La Mojonera,5,2,True
+rosa,El Ejido,6,1,True
+rosa,La Mojonera,2,3,False
+Raf,La Mojonera,10,2,False
+cherry,El Ejido,3,2,False
+bola,El Alquian,7,3,True
+cherry,Campohermoso,4,2,False
+Raf,El Alquian,10,1,True
+corazon de buey,Campohermoso,3,4,False
+kumato,El Alquian,2,2,False
+Raf,El Alquian,8,3,False
+bola,Campohermoso,3,4,False
+bola,La Mojonera,1,3,True
+bola,La Mojonera,3,2,False
+kumato,Nijar,3,1,True
+verde,El Alquian,10,2,False
+ de pera,La Mojonera,8,3,False
+verde,El Ejido,6,2,False
+kumato,La Mojonera,6,2,True
+cherry,Nijar,4,2,True
+kumato,El Ejido,8,1,True
+verde,La Mojonera,1,3,False
+rosa,Campohermoso,1,3,False
+rosa,Campohermoso,3,1,False
+bola,Nijar,2,2,False
+corazon de buey,El Alquian,6,2,False
+cherry,Nijar,4,1,False
+bola,La Mojonera,6,1,True
+Raf,Nijar,8,3,True
+kumato,Nijar,1,3,True
+verde,Nijar,6,4,True
+cherry,El Alquian,1,1,False
+kumato,Campohermoso,7,3,True
+cherry,Nijar,7,4,False
+verde,El Ejido,10,2,False
+ de pera,El Alquian,6,3,True
+cherry,El Ejido,8,3,True
+verde,El Ejido,2,3,False
+verde,Nijar,4,4,False
+Raf,La Mojonera,2,2,False
+rosa,Campohermoso,10,2,False
+rosa,Campohermoso,1,2,True
+Raf,Campohermoso,9,2,True
+cherry,Nijar,3,3,True
+corazon de buey,El Alquian,4,4,True
+corazon de buey,Nijar,8,1,False
+rosa,El Alquian,8,4,True
+bola,Nijar,9,3,True
+ de pera,La Mojonera,3,3,True
+corazon de buey,Nijar,9,3,False
+corazon de buey,Nijar,1,2,True
+ de pera,Nijar,7,1,True
+bola,Campohermoso,6,4,True
+kumato,La Mojonera,6,1,True
+bola,El Alquian,5,3,False
+cherry,El Alquian,9,1,True
+ de pera,Nijar,8,1,False
+cherry,El Ejido,7,1,True
+corazon de buey,Nijar,8,4,True
+rosa,La Mojonera,3,4,True
+corazon de buey,Campohermoso,7,1,False
+rosa,La Mojonera,5,4,True
+ de pera,El Alquian,7,3,True
+verde,La Mojonera,7,4,True
+rosa,La Mojonera,5,3,False
+corazon de buey,La Mojonera,4,4,True
+bola,El Alquian,7,4,True
+rosa,El Ejido,10,2,True
+bola,El Alquian,4,2,True
+corazon de buey,La Mojonera,6,1,True
+corazon de buey,Campohermoso,2,3,False
+Raf,La Mojonera,1,2,False
+kumato,Campohermoso,1,3,True
+corazon de buey,El Ejido,1,1,True
+verde,Campohermoso,6,1,True
+Raf,Campohermoso,6,4,True
+corazon de buey,La Mojonera,4,2,False
+cherry,Campohermoso,10,3,True
+cherry,Nijar,5,4,True
+rosa,El Alquian,4,3,False
+verde,La Mojonera,10,4,True
+cherry,El Ejido,8,4,False
+verde,La Mojonera,1,1,True
+corazon de buey,El Ejido,9,2,False
+ de pera,El Ejido,10,3,False
+ de pera,El Alquian,6,4,True
+corazon de buey,El Alquian,7,3,False
+ de pera,El Ejido,1,2,True
+ de pera,El Ejido,5,1,False
+corazon de buey,El Alquian,8,1,False
+Raf,El Alquian,1,2,False
+cherry,Campohermoso,3,2,True
+rosa,El Ejido,7,2,False
+Raf,El Alquian,8,3,False
+Raf,Nijar,3,1,True
+corazon de buey,Campohermoso,9,3,True
+kumato,Nijar,1,2,True
+kumato,Campohermoso,3,1,False
+corazon de buey,El Alquian,8,4,True
+rosa,La Mojonera,10,4,False
+bola,La Mojonera,5,2,True
+kumato,Nijar,2,3,True
+kumato,Campohermoso,5,2,True
+bola,Campohermoso,6,1,True
+rosa,La Mojonera,3,4,True
+ de pera,El Ejido,8,3,False
+verde,Campohermoso,5,1,False
+kumato,La Mojonera,7,3,True
+ de pera,El Alquian,4,3,False
+rosa,Nijar,7,4,True
+rosa,El Alquian,3,3,False
+cherry,Campohermoso,1,1,False
+bola,El Ejido,8,1,False
+kumato,El Ejido,2,4,True
+corazon de buey,El Ejido,5,1,False
+corazon de buey,El Ejido,7,4,False
+corazon de buey,El Alquian,2,1,False
+rosa,Campohermoso,3,4,True
+ de pera,El Ejido,2,2,True
+ de pera,Campohermoso,4,4,False
+bola,La Mojonera,2,4,True
+corazon de buey,La Mojonera,7,4,True
+cherry,La Mojonera,10,2,False
+cherry,El Ejido,1,2,False
+verde,El Ejido,10,3,True
+verde,Campohermoso,1,1,True
+kumato,El Ejido,10,1,False
+corazon de buey,El Ejido,8,1,True
+kumato,Campohermoso,8,1,True
+Raf,La Mojonera,9,1,True
+ de pera,Nijar,4,1,True
+ de pera,El Alquian,2,4,True
+kumato,La Mojonera,8,3,True
+Raf,El Alquian,9,3,False
+Raf,El Ejido,3,3,True
+bola,Campohermoso,8,2,False
+bola,Campohermoso,7,3,False
+corazon de buey,El Alquian,3,3,False
+corazon de buey,Nijar,2,3,False
+corazon de buey,El Ejido,7,4,False
+cherry,Nijar,2,2,False
+cherry,Nijar,6,1,False
+rosa,El Alquian,8,1,True
+rosa,La Mojonera,9,4,True
+ de pera,Nijar,5,1,False
+kumato,El Ejido,1,1,True
+kumato,Nijar,6,1,False
+verde,El Ejido,10,1,True
+Raf,El Ejido,2,4,False
+cherry,Campohermoso,4,2,True
+verde,El Ejido,10,2,True
+corazon de buey,Campohermoso,3,4,False
+kumato,El Alquian,1,4,True
+cherry,La Mojonera,5,1,False
+bola,El Ejido,9,4,True
+rosa,Nijar,9,2,True
+verde,El Alquian,1,1,False
+ de pera,El Ejido,9,3,True
+Raf,La Mojonera,4,2,True
+bola,El Ejido,1,2,False
+ de pera,La Mojonera,5,1,True
+verde,Campohermoso,6,3,False
+corazon de buey,Nijar,7,1,True
+ de pera,Nijar,9,3,True
+ de pera,Campohermoso,1,3,False
+ de pera,El Alquian,6,4,True
+kumato,Nijar,1,4,True
+corazon de buey,Campohermoso,3,3,False
+corazon de buey,Nijar,1,1,False
+bola,Nijar,4,3,False
+ de pera,El Alquian,4,1,True
+ de pera,La Mojonera,3,1,False
+bola,La Mojonera,8,1,False
+cherry,El Ejido,1,4,False
+cherry,El Alquian,10,2,True
+verde,El Ejido,8,3,False
+kumato,El Ejido,4,2,False
+kumato,La Mojonera,8,4,True
+rosa,El Alquian,7,3,False
+rosa,El Ejido,7,4,False
+kumato,El Alquian,4,1,True
+kumato,Nijar,2,3,False
+Raf,Nijar,4,3,True
+ de pera,Campohermoso,5,4,False
+verde,La Mojonera,2,3,True
+rosa,La Mojonera,10,4,True
+ de pera,El Ejido,7,4,False
+ de pera,Nijar,7,1,True
+verde,El Ejido,1,1,True
+verde,Campohermoso,6,1,True
+Raf,Nijar,4,4,False
+kumato,Campohermoso,5,1,False
+rosa,El Alquian,10,1,False
+bola,El Ejido,4,3,True
+rosa,La Mojonera,8,3,True
+corazon de buey,Nijar,10,4,True
+kumato,El Ejido,6,1,True
+cherry,Nijar,8,3,False
+cherry,Campohermoso,10,2,False
+ de pera,El Ejido,9,2,True
+verde,El Ejido,4,4,True
+corazon de buey,La Mojonera,2,2,True
+bola,Nijar,9,4,False
+kumato,Nijar,1,1,False
+ de pera,Campohermoso,3,1,True
+kumato,El Alquian,4,3,True
+kumato,El Alquian,8,1,False
+Raf,El Alquian,9,2,False
+cherry,La Mojonera,7,3,False
+verde,La Mojonera,8,4,True
+Raf,El Ejido,3,1,True
+verde,Nijar,3,1,False
+Raf,El Ejido,9,1,True
+bola,Campohermoso,9,4,True
+ de pera,Campohermoso,2,2,True
+Raf,La Mojonera,5,3,True
+ de pera,La Mojonera,7,4,False
+verde,El Alquian,3,2,True
+bola,El Ejido,8,1,True
+bola,El Alquian,2,4,False
+corazon de buey,La Mojonera,7,1,True
+corazon de buey,Campohermoso,8,3,True
+cherry,El Ejido,2,1,False
+verde,La Mojonera,3,1,True
+ de pera,El Ejido,7,2,True
+cherry,Nijar,4,1,False
+bola,El Alquian,7,3,True
+cherry,Campohermoso,4,3,False
+rosa,La Mojonera,4,3,True
+Raf,Campohermoso,1,1,True
+corazon de buey,La Mojonera,5,3,True
+kumato,La Mojonera,8,1,False
+ de pera,Nijar,9,1,False
+corazon de buey,El Ejido,9,4,False
+rosa,El Alquian,2,2,True
+cherry,El Ejido,7,2,False
+bola,El Alquian,4,4,False
+corazon de buey,El Alquian,1,1,True
+cherry,El Alquian,10,1,False
+verde,Nijar,3,4,False
+corazon de buey,Nijar,5,4,False
+ de pera,El Ejido,4,4,True
+ de pera,La Mojonera,5,3,False
+corazon de buey,La Mojonera,2,3,True
+verde,El Ejido,10,2,True
+ de pera,La Mojonera,4,3,False
+kumato,La Mojonera,2,2,True
+rosa,La Mojonera,9,2,True
+ de pera,Campohermoso,10,1,True
+bola,Campohermoso,9,1,True
+ de pera,La Mojonera,8,3,False
+verde,Campohermoso,3,3,True
+verde,Campohermoso,8,2,True
+rosa,Nijar,6,2,True
+Raf,Campohermoso,1,1,False
+ de pera,Nijar,7,3,True
+ de pera,La Mojonera,2,4,False
+ de pera,La Mojonera,3,1,True
+ de pera,La Mojonera,7,4,True
+cherry,La Mojonera,2,3,True
+cherry,Campohermoso,8,4,False
+bola,Campohermoso,9,1,False
+rosa,La Mojonera,8,2,False
+rosa,La Mojonera,6,3,True
+rosa,Campohermoso,1,2,True
+corazon de buey,El Ejido,8,3,False
+cherry,El Ejido,1,2,False
+cherry,Nijar,8,1,False
+verde,Campohermoso,3,1,False
+ de pera,La Mojonera,6,4,True
+corazon de buey,La Mojonera,10,2,False
+Raf,El Ejido,5,1,True
+kumato,El Ejido,5,2,False
+corazon de buey,El Alquian,1,3,True
+ de pera,Campohermoso,3,2,True
+kumato,La Mojonera,3,1,True
+bola,La Mojonera,7,4,False
+rosa,El Ejido,5,2,False
+verde,Campohermoso,2,1,True
+ de pera,El Ejido,6,2,True
+corazon de buey,El Alquian,5,2,True
+rosa,El Alquian,7,2,False
+cherry,La Mojonera,1,4,False
+corazon de buey,El Ejido,3,4,False
+ de pera,El Ejido,8,1,True
+verde,La Mojonera,5,4,False
+corazon de buey,Campohermoso,9,3,True
+Raf,El Ejido,3,3,False
+corazon de buey,Campohermoso,8,4,False
+kumato,El Alquian,3,4,True
+kumato,Nijar,5,3,True
+rosa,La Mojonera,7,1,False
+Raf,El Ejido,6,2,True
+corazon de buey,Campohermoso,7,4,False
+kumato,La Mojonera,9,2,False
+cherry,El Alquian,7,2,True
+bola,Nijar,8,1,False
+rosa,El Alquian,8,2,True
+corazon de buey,El Alquian,8,1,False
+corazon de buey,El Alquian,2,4,False
+ de pera,El Alquian,7,3,True
+Raf,Campohermoso,1,2,True
+kumato,Nijar,5,2,True
+Raf,Campohermoso,4,2,True
+kumato,La Mojonera,5,2,True
+ de pera,La Mojonera,5,4,True
+ de pera,La Mojonera,3,2,False
+cherry,La Mojonera,6,4,False
+bola,El Alquian,9,1,True
+verde,Nijar,3,3,True
+ de pera,El Ejido,2,4,True
+rosa,Nijar,3,1,True
+ de pera,Campohermoso,3,4,True
+cherry,Campohermoso,1,1,True
+cherry,El Ejido,5,3,False
+Raf,Nijar,9,3,True
+verde,El Ejido,9,4,False
+kumato,El Alquian,6,4,True
+cherry,La Mojonera,7,3,False
+Raf,El Ejido,5,2,True
+cherry,El Ejido,1,3,True
+bola,La Mojonera,7,3,False
+bola,La Mojonera,5,1,True
+cherry,El Alquian,6,2,False
+cherry,Campohermoso,9,4,True
+bola,El Alquian,3,1,True
+bola,El Alquian,4,1,True
+ de pera,El Alquian,6,3,False
+cherry,El Alquian,6,2,False
+kumato,La Mojonera,1,2,False
+rosa,La Mojonera,9,4,True
+corazon de buey,Nijar,5,4,True
+kumato,Campohermoso,10,4,False
+bola,El Alquian,2,1,False
+bola,El Alquian,4,4,False
+bola,Campohermoso,2,4,True
+ de pera,La Mojonera,10,2,False
+corazon de buey,El Ejido,10,1,True
+verde,La Mojonera,3,4,True
+ de pera,El Ejido,5,2,False
+cherry,Nijar,3,2,True
+kumato,El Alquian,2,2,True
+rosa,La Mojonera,10,4,True
+bola,El Ejido,5,2,True
+cherry,El Alquian,4,3,False
+verde,El Alquian,10,3,True
+cherry,El Ejido,1,1,False
+bola,El Ejido,6,1,False
+bola,Nijar,1,2,False
+rosa,Nijar,9,3,False
+corazon de buey,La Mojonera,3,1,False
+bola,Nijar,6,3,True
+kumato,El Ejido,9,1,False
+verde,El Alquian,6,3,True
+Raf,El Ejido,10,3,True
+ de pera,El Ejido,4,4,False
+corazon de buey,Campohermoso,6,1,False
+bola,El Ejido,3,1,False
+rosa,La Mojonera,5,4,False
+ de pera,El Alquian,1,2,False
+Raf,Campohermoso,7,4,True
+Raf,Campohermoso,10,4,False
+corazon de buey,Campohermoso,1,1,False
+rosa,Nijar,2,2,False
+bola,La Mojonera,8,4,False
+kumato,La Mojonera,5,1,True
+Raf,Nijar,8,3,True
+cherry,La Mojonera,3,1,True
+bola,El Ejido,1,1,False
+bola,Campohermoso,8,1,False
+kumato,El Ejido,8,4,True
+corazon de buey,Nijar,1,1,True
+corazon de buey,El Alquian,5,4,True
+bola,Campohermoso,2,3,False
+cherry,La Mojonera,3,4,True
+bola,El Alquian,10,1,False
+corazon de buey,El Alquian,4,1,True
+corazon de buey,El Alquian,8,2,True
+verde,Nijar,3,2,False
+corazon de buey,La Mojonera,10,1,False
+Raf,El Ejido,9,4,False
+bola,Nijar,3,1,True
+rosa,El Ejido,8,3,False
+Raf,La Mojonera,3,4,False
+kumato,La Mojonera,1,4,True
+ de pera,El Alquian,2,2,True
+cherry,Campohermoso,2,4,False
+corazon de buey,Nijar,10,2,True
+cherry,Nijar,1,4,True
+bola,El Ejido,10,2,True
+rosa,El Alquian,8,1,False
+kumato,El Ejido,5,3,False
+rosa,El Alquian,6,4,True
+rosa,Nijar,10,2,False
+ de pera,El Ejido,4,2,True
+rosa,El Alquian,2,4,True
+bola,La Mojonera,2,4,False
+kumato,La Mojonera,4,1,False
+rosa,Nijar,2,3,False
+ de pera,El Ejido,8,2,True
+kumato,El Alquian,7,2,False
+corazon de buey,Nijar,6,3,False
+Raf,El Alquian,8,1,False
+Raf,El Alquian,2,3,False
+verde,El Alquian,9,2,True
+ de pera,Campohermoso,3,2,True
+verde,Nijar,5,2,True
+kumato,La Mojonera,9,1,True
+cherry,Nijar,8,2,False
+cherry,Nijar,10,2,False
+cherry,La Mojonera,8,4,False
+rosa,Nijar,9,3,True
+cherry,El Ejido,5,1,True
+verde,Campohermoso,9,1,True
+kumato,Nijar,9,2,True
+rosa,Nijar,9,4,True
+verde,El Ejido,5,4,False
+rosa,El Alquian,3,3,False
+Raf,El Ejido,2,2,True
+kumato,Nijar,3,1,False
+verde,El Alquian,7,1,False
+corazon de buey,Nijar,8,2,True
+cherry,El Alquian,6,2,False
+rosa,El Alquian,8,1,False
+cherry,El Ejido,6,4,False
+ de pera,La Mojonera,1,2,True
+bola,El Alquian,10,1,False
+kumato,El Alquian,7,3,True
+verde,Nijar,2,1,False
+corazon de buey,Campohermoso,10,2,True
+Raf,Campohermoso,7,4,False
+verde,Nijar,8,4,False
+kumato,El Ejido,10,2,False
+corazon de buey,El Ejido,8,4,True
+corazon de buey,Campohermoso,1,4,False
+ de pera,La Mojonera,8,3,False
+kumato,Nijar,3,4,False
+rosa,Campohermoso,6,4,False
+Raf,Campohermoso,3,2,True
+rosa,Campohermoso,3,2,False
+ de pera,El Ejido,1,2,False
+kumato,El Alquian,1,3,False
+verde,El Alquian,6,1,False
+ de pera,La Mojonera,5,1,True
+rosa,Campohermoso,8,4,True
+cherry,El Ejido,9,3,True
+bola,Campohermoso,3,2,False
+cherry,La Mojonera,9,4,False
+verde,Campohermoso,1,4,True
+verde,El Alquian,5,2,True
+corazon de buey,El Ejido,5,4,True
+ de pera,El Alquian,1,3,False
+rosa,El Alquian,1,2,False
+Raf,La Mojonera,7,3,False
+rosa,El Ejido,3,2,False
+corazon de buey,Nijar,1,3,True
+verde,El Alquian,6,2,False
+bola,La Mojonera,2,1,True
+ de pera,El Alquian,10,3,False
+corazon de buey,El Alquian,1,4,False
+corazon de buey,La Mojonera,3,1,False
+cherry,Campohermoso,10,4,True
+kumato,El Alquian,10,3,False
+kumato,Campohermoso,2,4,True
+rosa,El Alquian,4,1,False
+ de pera,El Ejido,5,1,False
+Raf,Nijar,9,2,False
+bola,La Mojonera,3,3,True
+corazon de buey,Campohermoso,10,2,True
+bola,La Mojonera,4,2,False
+cherry,La Mojonera,4,4,False
+cherry,El Alquian,9,2,True
+kumato,El Ejido,7,4,False
+bola,El Alquian,5,2,True
+Raf,El Alquian,2,2,True
+rosa,La Mojonera,8,3,True
+corazon de buey,Nijar,1,2,True
+kumato,El Alquian,7,2,False
+bola,Campohermoso,1,3,True
+kumato,Campohermoso,2,3,False
+ de pera,El Alquian,8,1,True
+verde,Nijar,8,1,False
+ de pera,Nijar,1,4,False
+Raf,El Ejido,9,4,True
+bola,Nijar,10,1,True
+kumato,Campohermoso,2,3,True
+cherry,La Mojonera,4,3,True
+bola,Nijar,1,4,True
+rosa,El Alquian,7,2,False
+corazon de buey,Campohermoso,3,4,False
+ de pera,Campohermoso,5,2,False
+kumato,La Mojonera,1,3,False
+cherry,El Ejido,6,3,True
+kumato,Campohermoso,1,2,False
+verde,La Mojonera,7,2,True
+Raf,La Mojonera,4,3,False
+rosa,La Mojonera,5,2,False
+rosa,El Alquian,5,4,False
+kumato,Nijar,6,4,False
+verde,El Ejido,5,2,False
+kumato,Campohermoso,1,2,True
+ de pera,El Alquian,8,2,False
+ de pera,El Ejido,5,4,True
+kumato,El Alquian,7,3,False
+bola,El Ejido,4,2,True
+cherry,Nijar,5,2,False
+cherry,El Alquian,5,2,False
+ de pera,El Ejido,7,3,True
+corazon de buey,Nijar,1,1,False
+rosa,El Alquian,2,1,False
+kumato,El Alquian,9,3,False
+rosa,La Mojonera,9,3,True
+rosa,El Alquian,2,1,True
+verde,Nijar,6,4,True
+kumato,El Alquian,6,4,True
+verde,La Mojonera,10,2,True
+cherry,La Mojonera,7,3,True
+corazon de buey,La Mojonera,6,3,False
+bola,El Alquian,4,4,False
+verde,Nijar,5,4,False
+verde,Campohermoso,2,1,False
+bola,La Mojonera,1,4,True
+kumato,Campohermoso,1,1,False
+verde,El Alquian,6,1,True
+corazon de buey,El Alquian,8,2,False
+Raf,El Ejido,6,1,True
+bola,Nijar,4,3,False
+bola,Campohermoso,5,3,False
+rosa,La Mojonera,1,1,False
+corazon de buey,Nijar,3,1,False
+bola,La Mojonera,3,3,True
+corazon de buey,El Alquian,5,3,True
+corazon de buey,El Alquian,7,2,False
+verde,Campohermoso,6,2,True
+rosa,Campohermoso,10,3,False
+kumato,El Alquian,1,4,False
+Raf,El Ejido,4,4,True
+Raf,El Alquian,7,3,True
+ de pera,Campohermoso,8,4,True
+corazon de buey,El Alquian,2,2,False
+bola,El Alquian,6,3,True
+ de pera,Nijar,2,2,True
+kumato,Nijar,10,4,False
+Raf,Campohermoso,3,4,True
+verde,El Alquian,10,3,True
+verde,El Ejido,6,3,True
+ de pera,La Mojonera,8,1,False
+verde,La Mojonera,5,4,False
+cherry,El Ejido,9,3,False
+corazon de buey,Nijar,3,4,True
+bola,Nijar,2,2,False
+verde,Campohermoso,6,4,True
+cherry,Nijar,7,1,True
+bola,Campohermoso,6,1,True
+corazon de buey,El Ejido,7,4,False
+cherry,Nijar,4,1,True
+rosa,Campohermoso,9,4,True
+rosa,El Alquian,10,4,True
+corazon de buey,El Alquian,4,2,False
+verde,El Ejido,6,1,False
+corazon de buey,El Alquian,9,4,True
+verde,La Mojonera,10,3,False
+corazon de buey,Campohermoso,10,4,False
+corazon de buey,La Mojonera,6,3,False
+kumato,Campohermoso,7,4,False
+Raf,La Mojonera,10,1,True
+cherry,Nijar,2,1,True
+bola,Nijar,10,1,True
+verde,La Mojonera,3,1,False
+rosa,El Alquian,6,1,True
+Raf,Nijar,1,3,False
+rosa,El Alquian,9,2,False
+bola,El Alquian,9,1,True
+ de pera,La Mojonera,9,1,True
+Raf,El Alquian,7,2,True
+ de pera,El Ejido,8,1,False
+corazon de buey,Campohermoso,3,3,False
+cherry,El Alquian,3,2,False
+bola,Campohermoso,7,1,True
+cherry,Nijar,7,2,False
+cherry,Nijar,1,3,True
+corazon de buey,Nijar,9,3,False
+bola,Nijar,6,3,False
+verde,La Mojonera,6,3,True
+cherry,Campohermoso,9,3,False
+rosa,La Mojonera,5,3,True
+Raf,El Alquian,1,4,False
+corazon de buey,La Mojonera,7,2,False
+rosa,Nijar,1,4,True
+verde,Campohermoso,1,2,False
+kumato,El Alquian,1,2,True
+verde,La Mojonera,8,4,True
+kumato,Nijar,10,4,True
+corazon de buey,La Mojonera,10,2,False
+cherry,Campohermoso,2,3,False
+cherry,El Alquian,9,3,False
+verde,Campohermoso,9,4,False
+ de pera,La Mojonera,2,4,True
+corazon de buey,La Mojonera,4,4,False
+bola,El Ejido,4,4,True
+ de pera,El Ejido,3,3,True
+ de pera,Nijar,1,4,False
+cherry,El Ejido,10,4,True
+bola,La Mojonera,1,1,True
+cherry,Nijar,1,3,True
+kumato,La Mojonera,10,2,True
+corazon de buey,La Mojonera,9,1,False
+ de pera,El Alquian,9,1,True
+bola,El Alquian,9,2,True
+Raf,Campohermoso,3,2,True
+cherry,Campohermoso,10,1,False
+bola,Campohermoso,7,2,False
+rosa,El Ejido,7,2,False
+cherry,El Alquian,3,1,True
+rosa,El Ejido,1,3,False
+cherry,Nijar,7,1,True
+kumato,El Alquian,9,4,True
+Raf,La Mojonera,10,4,True
+ de pera,El Alquian,6,3,False
+cherry,El Ejido,5,1,False
+verde,Campohermoso,5,3,True
+verde,Nijar,8,2,False
+corazon de buey,Nijar,6,3,False
+corazon de buey,Campohermoso,2,2,False
+rosa,Campohermoso,1,3,True
+bola,El Ejido,4,2,True
+verde,Campohermoso,1,2,False
+verde,El Ejido,8,3,True
+cherry,Nijar,10,1,False
+verde,El Alquian,8,4,False
+rosa,La Mojonera,2,4,False
+bola,El Alquian,3,4,True
+ de pera,El Alquian,9,1,False
+verde,Nijar,8,2,False
+corazon de buey,El Alquian,9,4,True
+corazon de buey,El Ejido,6,2,False
+corazon de buey,El Alquian,8,1,False
+corazon de buey,El Ejido,3,3,True
+Raf,El Alquian,5,1,False
+cherry,Campohermoso,8,1,False
+rosa,Campohermoso,10,1,False
+ de pera,La Mojonera,5,3,False
+kumato,Nijar,4,1,True
+bola,El Ejido,8,2,True
+ de pera,La Mojonera,8,2,True
+verde,La Mojonera,10,1,False
+bola,El Ejido,9,4,False
+bola,Campohermoso,10,4,True
+kumato,Nijar,10,2,True
+ de pera,El Ejido,4,4,True
+corazon de buey,El Alquian,10,2,False
+rosa,Campohermoso,2,1,True
+verde,El Ejido,2,2,True
+bola,La Mojonera,9,4,True
+corazon de buey,Nijar,2,4,False
+Raf,El Alquian,8,1,False
+kumato,Campohermoso,9,4,True
+bola,Campohermoso,8,3,False
+bola,Nijar,5,2,False
+rosa,Nijar,4,1,False
+ de pera,Nijar,1,4,False
+corazon de buey,Campohermoso,2,4,True
+Raf,Campohermoso,2,2,False
+rosa,La Mojonera,3,2,False
+verde,La Mojonera,6,3,True
+ de pera,Nijar,2,1,True
+bola,El Ejido,4,2,False
+kumato,La Mojonera,5,2,True
+Raf,Campohermoso,8,2,False
+kumato,Nijar,5,3,True
+ de pera,Nijar,10,1,False
+cherry,La Mojonera,1,2,True
+ de pera,El Ejido,3,3,True
+bola,El Alquian,3,2,False
+verde,Nijar,6,2,False
+cherry,Campohermoso,1,3,True
+kumato,Campohermoso,10,1,False
+cherry,El Alquian,8,4,True
+bola,Nijar,10,1,True
+bola,El Alquian,10,4,True
+bola,La Mojonera,1,4,False
+corazon de buey,El Alquian,4,1,True
+Raf,El Alquian,1,2,False
+corazon de buey,El Alquian,4,2,False
+rosa,Nijar,7,3,False
+ de pera,El Ejido,3,1,True
+ de pera,El Alquian,8,3,False
+rosa,El Ejido,7,1,False
+corazon de buey,Nijar,5,2,True
+rosa,El Ejido,1,3,False
+cherry,El Ejido,1,3,True
+bola,Nijar,6,3,False
+bola,Campohermoso,1,3,True
+rosa,Nijar,4,3,True
+ de pera,Campohermoso,8,4,False
+verde,El Alquian,5,3,True
+Raf,El Alquian,5,2,True
+cherry,Nijar,8,1,True
+verde,El Ejido,1,3,False
+bola,Campohermoso,10,3,True
+Raf,El Alquian,5,3,True
+cherry,Nijar,7,2,True
+rosa,El Ejido,10,2,False
+bola,Campohermoso,3,1,True
+bola,La Mojonera,6,3,False
+bola,El Alquian,9,4,False
+cherry,Nijar,9,2,False
+Raf,Nijar,1,4,False
+verde,La Mojonera,5,2,True
+ de pera,Nijar,6,3,True
+verde,El Alquian,9,1,True
+bola,El Alquian,8,4,False
+corazon de buey,Nijar,7,1,False
+verde,El Alquian,5,2,True
+kumato,El Ejido,4,1,True
+kumato,El Alquian,6,3,False
+kumato,El Ejido,9,4,False
+bola,La Mojonera,3,2,True
+kumato,Nijar,9,2,True
+kumato,La Mojonera,8,3,True
+Raf,La Mojonera,1,4,True
+cherry,Campohermoso,6,1,False
+corazon de buey,La Mojonera,2,3,False
+ de pera,La Mojonera,8,3,False
+kumato,El Alquian,4,4,True
+cherry,El Alquian,1,2,False
+cherry,Nijar,5,4,False
+corazon de buey,Nijar,4,2,False
+cherry,El Ejido,7,3,True
+verde,La Mojonera,8,4,False
+rosa,El Ejido,6,2,False
+rosa,El Alquian,3,4,True
+kumato,Campohermoso,3,1,False
+rosa,El Ejido,4,2,False
+corazon de buey,Nijar,7,3,True
+bola,El Ejido,10,4,True
+ de pera,La Mojonera,10,2,True
+Raf,Nijar,3,1,False
+verde,La Mojonera,6,3,True
+ de pera,Campohermoso,1,1,False
+verde,La Mojonera,8,2,False
+Raf,La Mojonera,1,3,False
+bola,Nijar,2,1,False
+kumato,Campohermoso,1,4,True
+Raf,Campohermoso,8,4,True
+ de pera,Nijar,3,3,False
+kumato,El Alquian,1,3,False
+cherry,El Ejido,2,2,True
+Raf,El Ejido,7,2,False
+ de pera,Campohermoso,6,2,False
+cherry,El Ejido,5,3,True
+corazon de buey,El Ejido,7,4,True
+verde,La Mojonera,8,4,True
+Raf,Campohermoso,2,2,False
+ de pera,La Mojonera,5,2,False
+Raf,El Alquian,9,1,True
+rosa,La Mojonera,4,4,False
+cherry,Nijar,9,3,True
+corazon de buey,El Ejido,9,2,True
+Raf,El Alquian,3,4,True
+Raf,El Alquian,3,1,True
+rosa,El Ejido,9,3,False
+rosa,El Alquian,9,2,False
+corazon de buey,La Mojonera,6,1,False
+cherry,Campohermoso,9,3,True
+cherry,La Mojonera,7,1,False
+bola,La Mojonera,2,3,True
+corazon de buey,La Mojonera,6,2,False
+rosa,El Alquian,8,4,True
+ de pera,El Alquian,4,4,False
+corazon de buey,El Ejido,10,2,True
+verde,Campohermoso,5,1,True
+kumato,La Mojonera,10,1,False
+cherry,Nijar,5,1,True
+cherry,Campohermoso,1,3,False
+ de pera,Nijar,4,4,True
+bola,El Alquian,1,2,False
+corazon de buey,Nijar,8,3,False
+corazon de buey,La Mojonera,4,2,False
+bola,Nijar,2,2,True
+verde,El Ejido,3,2,True
+corazon de buey,La Mojonera,10,3,False
+kumato,El Ejido,8,2,False
+rosa,Nijar,6,4,False
+bola,La Mojonera,2,4,True
+kumato,El Alquian,10,1,True
+ de pera,El Ejido,5,1,False
+rosa,Nijar,4,1,False
+kumato,Nijar,1,4,False
+kumato,Nijar,9,2,False
+verde,El Ejido,3,2,True
+ de pera,La Mojonera,2,2,False
+verde,El Ejido,6,2,False
+ de pera,Campohermoso,4,4,True
+kumato,Campohermoso,9,3,True
+corazon de buey,El Alquian,3,4,True
+cherry,La Mojonera,4,4,False
+verde,Campohermoso,6,1,True
+bola,Campohermoso,2,3,False
+Raf,El Alquian,6,1,False
+Raf,La Mojonera,4,2,False
+verde,El Alquian,4,1,False
+cherry,Nijar,1,1,False
+kumato,Campohermoso,10,1,True
+verde,Campohermoso,5,4,True
+bola,El Alquian,9,1,False
+corazon de buey,Campohermoso,7,3,True
+cherry,Campohermoso,6,3,False
+corazon de buey,El Ejido,6,3,False
+kumato,Campohermoso,3,3,False
+kumato,Campohermoso,10,4,False
+corazon de buey,Nijar,10,3,False
+verde,Campohermoso,8,2,True
+bola,La Mojonera,1,1,True
+cherry,El Alquian,3,3,True
+rosa,Nijar,3,4,False
+cherry,La Mojonera,4,2,False
+Raf,El Alquian,1,2,True
+corazon de buey,La Mojonera,6,1,True
+ de pera,La Mojonera,6,1,False
+rosa,El Alquian,4,1,True
+Raf,Campohermoso,3,1,True
+Raf,La Mojonera,4,2,False
+bola,El Ejido,5,2,True
+verde,Nijar,10,2,False
+verde,Nijar,4,2,True
+kumato,Nijar,2,1,False
+cherry,Nijar,6,3,True
+kumato,Campohermoso,7,2,True
+corazon de buey,Campohermoso,7,2,True
+ de pera,La Mojonera,8,2,False
+corazon de buey,Nijar,6,2,False
+cherry,La Mojonera,7,4,False
+rosa,El Alquian,7,4,True
+kumato,El Alquian,8,3,True
+verde,El Ejido,4,3,True
+Raf,El Ejido,6,2,False
+corazon de buey,La Mojonera,3,1,False
+rosa,El Ejido,1,2,False
+ de pera,El Alquian,5,4,False
+kumato,Campohermoso,6,3,True
+Raf,El Alquian,7,2,False
+ de pera,El Ejido,10,3,False
+Raf,La Mojonera,10,3,False
+Raf,El Alquian,6,4,False
+bola,La Mojonera,3,2,True
+cherry,El Alquian,5,2,False
+kumato,La Mojonera,10,2,False
+cherry,La Mojonera,7,4,False
+verde,El Alquian,10,2,True
+bola,El Ejido,10,1,True
+kumato,El Alquian,7,3,True
+rosa,Nijar,4,4,False
+cherry,El Ejido,10,1,True
+verde,Nijar,8,3,False
+ de pera,La Mojonera,5,3,False
+corazon de buey,El Alquian,8,3,False
+Raf,Nijar,1,3,False
+ de pera,La Mojonera,4,4,True
+verde,Campohermoso,2,1,True
+bola,El Alquian,8,3,False
+kumato,La Mojonera,3,4,False
+rosa,El Alquian,9,1,False
+Raf,Campohermoso,2,3,True
+cherry,El Ejido,3,1,False
+cherry,La Mojonera,10,3,True
+ de pera,La Mojonera,4,1,False
+kumato,El Ejido,10,3,True
+ de pera,Campohermoso,4,3,True
+rosa,El Ejido,10,2,False
+verde,La Mojonera,6,2,False
+rosa,Campohermoso,5,4,True
+bola,El Alquian,6,3,False
+rosa,El Ejido,3,4,True
+cherry,El Ejido,6,4,False
+bola,El Ejido,2,3,True
+kumato,La Mojonera,1,4,True
+corazon de buey,El Alquian,5,4,True
+rosa,La Mojonera,1,4,True
+cherry,Nijar,9,3,False
+bola,Campohermoso,7,1,False
+cherry,Campohermoso,7,4,False
+bola,El Alquian,8,2,False
+verde,La Mojonera,6,4,True
+bola,Nijar,4,1,True
+verde,El Alquian,6,3,False
+corazon de buey,El Ejido,8,1,False
+corazon de buey,La Mojonera,8,1,True
+corazon de buey,El Alquian,8,4,True
+Raf,El Alquian,1,1,True
+cherry,Campohermoso,8,1,False
+cherry,Nijar,3,2,False
+verde,Nijar,10,3,True
+kumato,El Alquian,1,2,True
+bola,Campohermoso,10,1,True
+kumato,La Mojonera,5,3,True
+Raf,Nijar,1,1,True
+rosa,La Mojonera,7,1,True
+corazon de buey,Campohermoso,9,2,False
+ de pera,Campohermoso,7,2,True
+kumato,Nijar,5,4,False
+kumato,El Alquian,4,4,True
+kumato,El Alquian,9,2,False
+corazon de buey,El Ejido,5,3,False
+ de pera,El Alquian,2,4,True
+verde,Nijar,1,3,True
+verde,Nijar,4,1,False
+cherry,Nijar,4,2,False
+corazon de buey,El Alquian,5,4,True
+bola,El Alquian,3,3,False
+ de pera,Nijar,8,1,False
+kumato,El Alquian,6,3,False
+rosa,El Alquian,9,2,True
+rosa,Campohermoso,6,2,False
+verde,El Ejido,7,1,True
+bola,Nijar,2,2,False
+Raf,La Mojonera,5,3,True
+Raf,El Alquian,10,4,False
+ de pera,El Ejido,4,1,True
+kumato,La Mojonera,1,1,False
+cherry,La Mojonera,1,3,False
+verde,Nijar,9,2,False
+kumato,El Ejido,8,2,False
+corazon de buey,Campohermoso,2,2,True
+kumato,La Mojonera,8,3,True
+ de pera,Nijar,2,2,False
+verde,La Mojonera,8,1,True
+ de pera,El Alquian,1,3,False
+Raf,Campohermoso,3,1,True
+Raf,Nijar,8,3,False
+verde,La Mojonera,4,1,False
+Raf,El Ejido,7,2,True
+verde,La Mojonera,9,4,False
+Raf,Nijar,5,4,True
+corazon de buey,Campohermoso,10,4,False
+kumato,La Mojonera,4,1,False
+cherry,El Alquian,5,1,True
+corazon de buey,Nijar,8,3,True
+ de pera,Campohermoso,1,3,False
+rosa,El Ejido,3,1,True
+kumato,Nijar,4,3,True
+ de pera,Campohermoso,7,4,False
+Raf,El Ejido,10,1,False
+bola,La Mojonera,2,1,False
+bola,La Mojonera,2,3,False
+cherry,Nijar,7,3,False
+ de pera,El Ejido,7,3,True
+rosa,El Ejido,9,2,False
+bola,Campohermoso,3,2,False
+verde,Campohermoso,4,4,False
+bola,El Alquian,3,4,False
+kumato,El Alquian,2,4,True
+bola,El Ejido,7,3,True
+Raf,El Ejido,6,3,True
+Raf,El Ejido,2,1,False
+cherry,El Alquian,7,4,False
+kumato,Nijar,8,4,True
+rosa,Campohermoso,8,2,False
+cherry,El Ejido,10,2,False
+bola,La Mojonera,10,1,True
+ de pera,El Alquian,3,3,True
+ de pera,El Alquian,5,2,True
+kumato,Campohermoso,1,4,False
+kumato,El Ejido,6,3,True
+Raf,El Ejido,3,4,True
+verde,La Mojonera,6,3,False
+rosa,El Ejido,3,4,True
+bola,Nijar,2,4,False
+cherry,Campohermoso,4,3,False
+rosa,El Ejido,2,4,False
+verde,La Mojonera,5,4,True
+kumato,Campohermoso,4,4,False
+rosa,El Ejido,10,4,False
+cherry,Campohermoso,7,4,True
+corazon de buey,El Ejido,9,2,True
+bola,La Mojonera,9,2,False
+kumato,La Mojonera,6,3,True
+kumato,La Mojonera,1,1,False
+Raf,El Alquian,1,3,False
+bola,Campohermoso,3,1,True
+cherry,Nijar,1,1,True
+rosa,Campohermoso,3,4,False
+cherry,El Alquian,8,4,False
+rosa,El Ejido,8,2,True
+kumato,Campohermoso,3,2,True
+verde,Nijar,3,4,True
+verde,La Mojonera,2,3,True
+rosa,Campohermoso,10,3,False
+verde,Campohermoso,10,4,False
+verde,La Mojonera,9,2,True
+corazon de buey,Campohermoso,9,3,False
+cherry,El Ejido,3,3,True
+cherry,Nijar,5,1,False
+rosa,Campohermoso,8,3,False
+corazon de buey,El Ejido,1,2,True
+verde,El Alquian,6,4,False
+kumato,Nijar,1,1,False
+corazon de buey,El Ejido,8,4,False
+ de pera,El Ejido,4,2,True
+cherry,El Ejido,1,3,False
+kumato,El Alquian,8,2,False
+ de pera,Campohermoso,2,1,False
+verde,La Mojonera,10,2,False
+bola,La Mojonera,7,1,False
+corazon de buey,El Alquian,2,1,True
+verde,La Mojonera,6,1,True
+Raf,Campohermoso,1,4,True
+kumato,Nijar,4,3,True
+kumato,Campohermoso,3,4,False
+bola,El Alquian,6,4,False
