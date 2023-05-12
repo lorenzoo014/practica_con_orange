@@ -5,7 +5,7 @@ import random
 cultivos = ['bola', 'cherry', ' de pera', 'kumato', 'rosa', 'verde','Raf','corazon de buey']
 
 # Lista de ubicaciones geográficas
-ubicaciones = ['Almeria', 'Murcia', 'Valencia', 'Canarias','Granada','Tenerife','Granada']
+ubicaciones = ['El Ejido','La Mojonera','El Alquián','Nijar','Campohermoso']
 
 # Lista de tamaños de fincas
 tamanos = ['Pequeno', 'Mediana', 'Grande']
