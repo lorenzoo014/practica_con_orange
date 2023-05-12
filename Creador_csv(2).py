@@ -34,7 +34,7 @@ with open(filename, mode='w', newline='') as csv_file:
         row = [
             cultivo,           # Cultivo
             ubicaciones,        # Ubicaciones
-            fake.random_int(min=1,max=10),        # Rendimiento
+            fake.random_number(digits=3)/100,        # Rendimiento
             fake.random_int(min=1,max=4),      # Tamaño 1-pequeño 2-mediano 3-grande 4-muy grande
             fake.boolean()         # Fertilizantes
         ]
