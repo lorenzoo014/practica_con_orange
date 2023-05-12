@@ -11,7 +11,7 @@ cultivos = ['bola', 'cherry', ' de pera', 'kumato', 'rosa', 'verde','Raf','coraz
 lista_ubicaciones = ['El Ejido','La Mojonera','El Alquian','Nijar','Campohermoso']
 
 # Definimos la lista de cabezales de las columnas
-headers = ['Cultivo',  'Ubicaciones', 'Rendimiento','Tamaño','Fertilizantes']
+headers = ['Cultivo',  'Ubicaciones', 'Rendimiento','Tamano','Fertilizantes']
 
 # Definimos el nombre del archivo CSV
 filename = 'lista_tomates.csv'
